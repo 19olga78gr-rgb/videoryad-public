@@ -1,0 +1,588 @@
+{
+  "anchor": "top",
+  "2": {
+    "photo": "overlays/scene_002.jpg",
+    "sound": "whoosh",
+    "at": 4.5,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "8": {
+    "photo": "overlays/scene_008.jpg",
+    "sound": "whoosh",
+    "at": 4.4,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "9": {
+    "photo": "overlays/scene_009.jpg",
+    "sound": "zatvor",
+    "at": 4.6,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "10": {
+    "photo": "overlays/scene_010.jpg",
+    "sound": "pop",
+    "at": 3.0,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "11": {
+    "photo": "overlays/scene_011.jpg",
+    "sound": "whoosh",
+    "at": 4.5,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "12": {
+    "photo": "overlays/scene_012.jpg",
+    "sound": "zatvor",
+    "at": 4.4,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "16": {
+    "photo": "overlays/scene_016.jpg",
+    "sound": "whoosh",
+    "at": 5.2,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "18": {
+    "photo": "overlays/scene_018.jpg",
+    "sound": "zatvor",
+    "at": 4.3,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ВЫБОРЫ В КОНГРЕСС",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "19": {
+    "photo": "overlays/scene_019.jpg",
+    "sound": "pop",
+    "at": 5.2,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ПАЛАТА ПОД УГРОЗОЙ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 7.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "20": {
+    "photo": "overlays/scene_020.jpg",
+    "sound": "whoosh",
+    "at": 4.5,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "СТАВКА НА СЕНАТ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 6.5,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "22": {
+    "text": {
+      "words": "163 МИЛЛИОНА ДОЛЛАРОВ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 7.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "at": 5.0,
+    "photo": ""
+  },
+  "23": {
+    "photo": "overlays/scene_023.jpg",
+    "sound": "pop",
+    "at": 5.0,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "24": {
+    "photo": "overlays/scene_024.jpg",
+    "sound": "whoosh",
+    "at": 4.4,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "РЕФЕРЕНДУМ О ТРАМПЕ",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "26": {
+    "text": {
+      "words": "РАССЛЕДОВАНИЯ",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "at": 2.8,
+    "photo": ""
+  },
+  "30": {
+    "photo": "overlays/scene_030.jpg",
+    "sound": "zatvor",
+    "at": 2.1,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ДВА ГОДА СЛУШАНИЙ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "31": {
+    "photo": "overlays/scene_031.jpg",
+    "sound": "pop",
+    "at": 3.4,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "36": {
+    "photo": "overlays/scene_036.jpg",
+    "sound": "zatvor",
+    "at": 4.8,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "37": {
+    "photo": "overlays/scene_037.jpg",
+    "sound": "pop",
+    "at": 4.6,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "39": {
+    "text": {
+      "words": "КОРРУПЦИОННЫЙ ШЛЕЙФ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.7,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "at": 3.3,
+    "photo": ""
+  },
+  "40": {
+    "photo": "overlays/scene_040.jpg",
+    "sound": "pop",
+    "at": 4.5,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ДЕНЬГИ. РАКЕТЫ. ПВО",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 6.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "46": {
+    "text": {
+      "words": "ВАШИНГТОН КРУТИТ КРАН",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "at": 4.4,
+    "photo": ""
+  },
+  "47": {
+    "photo": "overlays/scene_047.jpg",
+    "sound": "zatvor",
+    "at": 4.9,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "49": {
+    "photo": "overlays/scene_049.jpg",
+    "sound": "whoosh",
+    "at": 4.5,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "А ПЛАН КАКОЙ?",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "51": {
+    "photo": "overlays/scene_051.jpg",
+    "sound": "zatvor",
+    "at": 5.2,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ЗАВИСИМОСТЬ ОТ ПВО",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 7.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "56": {
+    "photo": "overlays/scene_056.jpg",
+    "sound": "pop",
+    "at": 4.5,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ЭТО НЕ МОЯ ВОЙНА",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "57": {
+    "text": {
+      "words": "СТОЛЬКО, СКОЛЬКО ПОТРЕБУЕТСЯ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 6.6,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "at": 4.6,
+    "photo": ""
+  },
+  "58": {
+    "photo": "overlays/scene_058.jpg",
+    "sound": "zatvor",
+    "at": 2.1,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "59": {
+    "text": {
+      "words": "УГРОЗА ПОСЛЕ 2030",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 7.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "at": 5.1,
+    "photo": ""
+  },
+  "62": {
+    "text": {
+      "words": "УКРАИНА КАК ДУБИНКА",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 7.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "at": 5.2,
+    "photo": ""
+  },
+  "67": {
+    "photo": "overlays/scene_067.jpg",
+    "sound": "pop",
+    "at": 5.1,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "70": {
+    "photo": "overlays/scene_070.jpg",
+    "sound": "zatvor",
+    "at": 4.8,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "72": {
+    "photo": "overlays/scene_072.jpg",
+    "sound": "pop",
+    "at": 3.8,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ЛОНДОН ЖЁСТЧЕ ВСЕХ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.5,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "73": {
+    "photo": "overlays/scene_073.jpg",
+    "sound": "whoosh",
+    "at": 2.8,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "77": {
+    "photo": "overlays/scene_077.jpg",
+    "sound": "pop",
+    "at": 2.6,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "УМЕРИТЬ КРИТИКУ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 3.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "79": {
+    "photo": "overlays/scene_079.jpg",
+    "sound": "whoosh",
+    "at": 3.1,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "80": {
+    "sound": "zatvor",
+    "at": 2.9,
+    "text": {
+      "words": "НЕ ВОЕВАТЬ НА ДВА ФРОНТА",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.1,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "86": {
+    "text": {
+      "words": "ДОГОВОРЯТСЯ?",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 3.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "at": 2.7,
+    "photo": ""
+  },
+  "88": {
+    "photo": "overlays/scene_088.jpg",
+    "sound": "zatvor",
+    "at": 4.5,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "91": {
+    "photo": "overlays/scene_091.jpg",
+    "sound": "whoosh",
+    "at": 4.8,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ДОРОГОЙ ДИЗЕЛЬ, ДОРОГОЙ ГАЗ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 6.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "92": {
+    "text": {
+      "words": "А СКОЛЬКО ЭТО СТОИТ?",
+      "color": "yellow",
+      "pos": "mc",
+      "at": 6.7,
+      "scale": 1.0
+    },
+    "sound": "zatvor",
+    "at": 4.7
+  },
+  "94": {
+    "text": {
+      "words": "ПЕРЕВЕРНУТЬ СТОЛ",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "at": 4.3,
+    "photo": ""
+  },
+  "99": {
+    "text": {
+      "words": "БУТЫЛКА В ХОЛОДИЛЬНИКЕ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 2.1,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "at": 1.5,
+    "photo": ""
+  },
+  "28": {
+    "text": {
+      "words": "ИМПИЧМЕНТ",
+      "color": "red",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 7.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  }
+}
