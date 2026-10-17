@@ -1,0 +1,192 @@
+{
+ "anchor": "top",
+ "9": {
+  "photo": "overlays/scene_009.jpg",
+  "sound": "whoosh",
+  "at": 5.2,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "15": {
+  "photo": "overlays/scene_015.jpg",
+  "sound": "zatvor",
+  "at": 4.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "57": {
+  "photo": "overlays/scene_057.jpg",
+  "sound": "zatvor",
+  "at": 4.2,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "3": {
+  "text": {
+   "words": "16 ОКТЯБРЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.5,
+   "scale": 1.0
+  }
+ },
+ "4": {
+  "text": {
+   "words": "УДАРЫ ПРОДОЛЖИТЬ",
+   "color": "red",
+   "pos": "mc",
+   "at": 5.0,
+   "scale": 1.0
+  }
+ },
+ "10": {
+  "text": {
+   "words": "ЧЕТЫРЕ ОБЛАСТИ В КОНСТИТУЦИИ РФ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.0,
+   "scale": 1.0
+  }
+ },
+ "11": {
+  "text": {
+   "words": "ЛУГАНСКАЯ — 100% ПОД КОНТРОЛЕМ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.6,
+   "scale": 1.0
+  }
+ },
+ "12": {
+  "text": {
+   "words": "У КИЕВА 10% ДОНЕЦКОЙ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.5,
+   "scale": 1.0
+  }
+ },
+ "16": {
+  "text": {
+   "words": "ЗОНА БЕЗОПАСНОСТИ — НЕ ПРЕДМЕТ ТОРГА",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 3.1,
+   "scale": 1.0
+  }
+ },
+ "18": {
+  "text": {
+   "words": "5 КМ ДО ЗАПОРОЖЬЯ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.3,
+   "scale": 1.0
+  }
+ },
+ "20": {
+  "text": {
+   "words": "ПОЗИЦИЯ ДВИЖЕТСЯ С ЛИНИЕЙ ФРОНТА",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.4,
+   "scale": 1.0
+  }
+ },
+ "24": {
+  "text": {
+   "words": "STORM SHADOW · 250 КМ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.5,
+   "scale": 1.0
+  }
+ },
+ "33": {
+  "text": {
+   "words": "ЗЕЛЕНСКИЙ: УСИЛИТЬ ПВО",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "34": {
+  "text": {
+   "words": "ЭНЕРГЕТИКА — В СПИСКЕ ЦЕЛЕЙ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.3,
+   "scale": 1.0
+  }
+ },
+ "37": {
+  "text": {
+   "words": "70 МЛРД ЕВРО НА ГОД",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.3,
+   "scale": 1.0
+  }
+ },
+ "39": {
+  "text": {
+   "words": "ФРЕДЕРИКСЕН: ДЕНЬГИ ЗАКАНЧИВАЮТСЯ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.8,
+   "scale": 1.0
+  }
+ },
+ "40": {
+  "text": {
+   "words": "БЕЛЬГИЯ — ГЛАВНЫЙ ХРАНИТЕЛЬ АКТИВОВ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.0,
+   "scale": 1.0
+  }
+ },
+ "45": {
+  "text": {
+   "words": "САНКЦИИ НЕ ПРИМЕНЯТЬ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.7,
+   "scale": 1.0
+  }
+ },
+ "46": {
+  "text": {
+   "words": "ЗАКОН ЛИНДСИ ГРЭМА",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.2,
+   "scale": 1.0
+  }
+ },
+ "47": {
+  "text": {
+   "words": "ПОСЛАБЛЕНИЯ РАДИ ДИЗЕЛЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.6,
+   "scale": 1.0
+  }
+ },
+ "48": {
+  "text": {
+   "words": "22-Й ПАКЕТ САНКЦИЙ ЕС",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.7,
+   "scale": 1.0
+  }
+ }
+}
