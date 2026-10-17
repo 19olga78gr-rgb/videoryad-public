@@ -1,0 +1,575 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 14.04,
+   "visual_prompt": "L8 футбол назван текстом: табло со счётом",
+   "source": "pexels_video",
+   "source_query": "stadium scoreboard display night closeup"
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 14.04,
+   "duration_sec": 5.92,
+   "visual_prompt": "L3",
+   "source": "press_photo",
+   "source_query": "флаги Евросоюза у здания Еврокомиссии в Брюсселе реальное фото"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 19.96,
+   "duration_sec": 12.16,
+   "visual_prompt": "L3",
+   "source": "press_photo",
+   "source_query": "пустой зал заседаний Европарламента в Страсбурге реальное фото"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 32.12,
+   "duration_sec": 13.04,
+   "visual_prompt": "L3",
+   "source": "press_photo",
+   "source_query": "здание Европейского совета в Брюсселе фотография здания реальное фото"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 45.16,
+   "duration_sec": 13.6,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "Максимилиан Кра депутат Бундестага АдГ выступление 2026 реальное фото"
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 58.75,
+   "duration_sec": 5.6,
+   "visual_prompt": "L6",
+   "source": "press_photo",
+   "source_query": "Белый дом в Вашингтоне фасад фотография здания реальное фото"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 64.35,
+   "duration_sec": 13.9,
+   "visual_prompt": "L6",
+   "source": "press_photo",
+   "source_query": "нефтяной терминал налив нефтепродуктов в танкер реальное фото"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 78.25,
+   "duration_sec": 5.68,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "вход в здание Бундестага в Берлине с флагами Германии фотография здания реальное фото"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 83.93,
+   "duration_sec": 14.96,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "зал пленарных заседаний Бундестага трибуна Берлин реальное фото"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 98.89,
+   "duration_sec": 12.64,
+   "visual_prompt": "L2",
+   "source": "press_photo",
+   "source_query": "Министерство финансов Германии в Берлине фотография здания реальное фото"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 111.53,
+   "duration_sec": 14.8,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "Алиса Вайдель лидер АдГ выступление 2026 реальное фото"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 126.33,
+   "duration_sec": 12.84,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "флаг Альтернативы для Германии на партийном съезде АдГ реальное фото"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 139.17,
+   "duration_sec": 14.48,
+   "visual_prompt": "L7",
+   "source": "press_photo",
+   "source_query": "строительный кран на разборе разрушенного дома в Украине 2026 реальное фото"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 153.65,
+   "duration_sec": 10.56,
+   "visual_prompt": "L2",
+   "source": "press_photo",
+   "source_query": "ведомство федерального канцлера Германии в Берлине фотография здания реальное фото"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 164.21,
+   "duration_sec": 15.03,
+   "visual_prompt": "L8 кошелёк назван текстом",
+   "source": "pexels_video",
+   "source_query": "leather wallet closing on wooden table closeup no people"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 179.24,
+   "duration_sec": 12.09,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "ландтаг Саксонии-Анхальт в Магдебурге фотография здания реальное фото"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 191.33,
+   "duration_sec": 12.24,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "Сара Вагенкнехт BSW выступление 2026 реальное фото"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 203.57,
+   "duration_sec": 10.36,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "пустые кресла в зале немецкого ландтага реальное фото"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 213.93,
+   "duration_sec": 13.12,
+   "visual_prompt": "L2",
+   "source": "press_photo",
+   "source_query": "Фридрих Мерц канцлер Германии выступление 2026 реальное фото"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 227.05,
+   "duration_sec": 13.52,
+   "visual_prompt": "L2",
+   "source": "press_photo",
+   "source_query": "министерство экономического сотрудничества и развития Германии Берлин фотография здания реальное фото"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 240.57,
+   "duration_sec": 12.48,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "заседание Бундестага дебаты о бюджете 2026 реальное фото"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 253.05,
+   "duration_sec": 12.88,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "стеклянный купол Рейхстага в Берлине внутри реальное фото"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 265.93,
+   "duration_sec": 11.79,
+   "visual_prompt": "L8 касса и бухгалтер названы текстом",
+   "source": "pexels_video",
+   "source_query": "cash register receipt printing closeup no people"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 277.72,
+   "duration_sec": 12.4,
+   "visual_prompt": "L4",
+   "source": "press_photo",
+   "source_query": "сварка корпусов артиллерийских снарядов на заводе в Германии реальное фото"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 290.12,
+   "duration_sec": 8.84,
+   "visual_prompt": "L4",
+   "source": "press_photo",
+   "source_query": "зенитный комплекс IRIS-T Бундесвера на позиции реальное фото"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 298.96,
+   "duration_sec": 7.98,
+   "visual_prompt": "L6",
+   "source": "press_photo",
+   "source_query": "американский военно-транспортный самолёт на авиабазе Рамштайн реальное фото"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 306.94,
+   "duration_sec": 13.66,
+   "visual_prompt": "L8 один и тот же евро назван текстом",
+   "source": "pexels_video",
+   "source_query": "euro banknote macro closeup texture no people"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 320.6,
+   "duration_sec": 13.6,
+   "visual_prompt": "L3",
+   "source": "press_photo",
+   "source_query": "Урсула фон дер Ляйен выступление 2026 реальное фото"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 334.2,
+   "duration_sec": 12.12,
+   "visual_prompt": "L3",
+   "source": "press_photo",
+   "source_query": "Европейский центральный банк во Франкфурте фотография здания реальное фото"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 346.32,
+   "duration_sec": 15.37,
+   "visual_prompt": "L8/L4 заводы надо расширять",
+   "source": "pexels_video",
+   "source_query": "industrial welding sparks metal factory closeup no people"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 361.69,
+   "duration_sec": 9.43,
+   "visual_prompt": "L8/L4 склады надо наполнять",
+   "source": "pexels_video",
+   "source_query": "empty warehouse shelves rows wide no people"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 371.12,
+   "duration_sec": 9.21,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "Тино Хрупалла АдГ выступление 2026 реальное фото"
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 380.32,
+   "duration_sec": 12.06,
+   "visual_prompt": "L4",
+   "source": "press_photo",
+   "source_query": "танк Leopard 2 Бундесвера на полигоне в Германии реальное фото"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 392.39,
+   "duration_sec": 7.13,
+   "visual_prompt": "L2",
+   "source": "press_photo",
+   "source_query": "Бранденбургские ворота в Берлине прохожие реальное фото"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 399.52,
+   "duration_sec": 12.08,
+   "visual_prompt": "L8 крыша названа текстом",
+   "source": "pexels_video",
+   "source_query": "roof tiles repair closeup no people"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 411.6,
+   "duration_sec": 9.17,
+   "visual_prompt": "L5",
+   "source": "press_photo",
+   "source_query": "Роберт Фицо премьер-министр Словакии выступление 2026 реальное фото"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 420.77,
+   "duration_sec": 8.8,
+   "visual_prompt": "L5",
+   "source": "press_photo",
+   "source_query": "здание правительства Словакии в Братиславе фотография здания реальное фото"
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 429.57,
+   "duration_sec": 12.24,
+   "visual_prompt": "L5",
+   "source": "press_photo",
+   "source_query": "Жордан Барделла Национальное объединение Франции выступление 2026 реальное фото"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 441.81,
+   "duration_sec": 14.64,
+   "visual_prompt": "L5",
+   "source": "press_photo",
+   "source_query": "Бурбонский дворец Национальное собрание Франции Париж фотография здания реальное фото"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 456.45,
+   "duration_sec": 5.84,
+   "visual_prompt": "L7",
+   "source": "press_photo",
+   "source_query": "погрузка военной помощи в транспортный самолёт реальное фото"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 462.29,
+   "duration_sec": 13.36,
+   "visual_prompt": "L3",
+   "source": "press_photo",
+   "source_query": "Антониу Кошта председатель Евросовета выступление 2026 реальное фото"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 475.65,
+   "duration_sec": 13.92,
+   "visual_prompt": "L6",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп отвечает журналистам в Белом доме 2026 реальное фото"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 489.57,
+   "duration_sec": 12.27,
+   "visual_prompt": "L6",
+   "source": "press_photo",
+   "source_query": "Государственный департамент США в Вашингтоне фотография здания реальное фото"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 501.84,
+   "duration_sec": 14.08,
+   "visual_prompt": "L6",
+   "source": "press_photo",
+   "source_query": "радар зенитного комплекса Patriot армии США на позиции реальное фото"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 515.92,
+   "duration_sec": 12.4,
+   "visual_prompt": "L6",
+   "source": "press_photo",
+   "source_query": "антенны спутниковой связи на военной базе США в Германии реальное фото"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 528.32,
+   "duration_sec": 14.4,
+   "visual_prompt": "L8 американская розетка названа текстом",
+   "source": "pexels_video",
+   "source_query": "electric plug into wall socket closeup no people"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 542.72,
+   "duration_sec": 12.64,
+   "visual_prompt": "L4",
+   "source": "press_photo",
+   "source_query": "конвейер сборки бронетехники на заводе в Германии реальное фото"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 555.36,
+   "duration_sec": 15.24,
+   "visual_prompt": "L8 ратуши названы текстом",
+   "source": "press_photo",
+   "source_query": "ратуша немецкого города фасад фотография здания реальное фото"
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 570.61,
+   "duration_sec": 10.8,
+   "visual_prompt": "L3",
+   "source": "press_photo",
+   "source_query": "голосование депутатов в Европарламенте 2026 реальное фото"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 581.41,
+   "duration_sec": 14.4,
+   "visual_prompt": "L6",
+   "source": "press_photo",
+   "source_query": "Московский Кремль Спасская башня реальное фото"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 595.81,
+   "duration_sec": 14.16,
+   "visual_prompt": "L2",
+   "source": "press_photo",
+   "source_query": "заседание кабинета министров Германии 2026 реальное фото"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 609.97,
+   "duration_sec": 14.32,
+   "visual_prompt": "L3",
+   "source": "press_photo",
+   "source_query": "зал заседаний Совета Евросоюза в Брюсселе без людей реальное фото"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 624.29,
+   "duration_sec": 13.12,
+   "visual_prompt": "L8 шлагбаум назван текстом",
+   "source": "pexels_video",
+   "source_query": "railway crossing barrier closing closeup no people"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 637.41,
+   "duration_sec": 7.65,
+   "visual_prompt": "L2",
+   "source": "press_photo",
+   "source_query": "правительственный квартал Берлина вид с воздуха реальное фото"
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 645.06,
+   "duration_sec": 13.68,
+   "visual_prompt": "L1",
+   "source": "press_photo",
+   "source_query": "фракция АдГ на своих местах в зале Бундестага 2026 реальное фото"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 658.74,
+   "duration_sec": 12.4,
+   "visual_prompt": "L7",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский выступление 2026 реальное фото"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 671.14,
+   "duration_sec": 13.6,
+   "visual_prompt": "L4",
+   "source": "press_photo",
+   "source_query": "артиллерийские снаряды в ящиках в цеху завода в Европе реальное фото"
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 684.74,
+   "duration_sec": 13.36,
+   "visual_prompt": "L7",
+   "source": "press_photo",
+   "source_query": "Офис президента Украины на Банковой в Киеве фотография здания реальное фото"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 698.1,
+   "duration_sec": 12.24,
+   "visual_prompt": "L4",
+   "source": "press_photo",
+   "source_query": "колонна немецкой бронетехники на автотрассе в Германии реальное фото"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 710.34,
+   "duration_sec": 7.63,
+   "visual_prompt": "L8 поменять направление",
+   "source": "pexels_video",
+   "source_query": "railway switch track rails closeup no people"
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 717.97,
+   "duration_sec": 15.04,
+   "visual_prompt": "L8 калькулятор назван текстом",
+   "source": "pexels_video",
+   "source_query": "calculator and pen on desk closeup no people"
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 733.0,
+   "duration_sec": 11.43,
+   "visual_prompt": "L3",
+   "source": "press_photo",
+   "source_query": "ночной Брюссель квартал европейских институтов реальное фото"
+  }
+ ],
+ "channel": "5 МИНУТ",
+ "library": "NO (search-only, кроме КАРТЫ во всплывашках)",
+ "context": "О чём: в Европе — прежде всего в Германии — политические силы впервые прямо говорят, что Украина проиграла, и требуют прекратить помощь; за этим стоит не идеология, а арифметика бюджетов. Стороны: немецкая оппозиция (АдГ — Макс Кра, Алиса Вайдель; BSW — Вагенкнехт) против официального Берлина (правительство Мерца, министерство развития) и Брюсселя (Еврокомиссия, Евросовет, кредит 90 млрд, SAFE 150 млрд); рядом — Фицо в Словакии и Нацобъединение во Франции; на фоне — США (Трамп, покупка российского дизеля) и Киев. Где физически: зал Бундестага и правительственный квартал Берлина, ландтаг Саксонии-Анхальт в Магдебурге, институты ЕС в Брюсселе, Братислава, Париж, Вашингтон, Киев. Узел: один евро нельзя потратить дважды — перевооружение Европы против помощи Украине. Время: октябрь 2026. Конец: «столько, сколько потребуется» работает, пока платящий согласен платить. Чувство: отрезвление, бухгалтерия вместо лозунгов.",
+ "lines": [
+  "L1 немецкий парламент и немецкая оппозиция: зал и трибуна Бундестага в Берлине, Алиса Вайдель, Макс Кра, флаг АдГ, ландтаг Саксонии-Анхальт в Магдебурге, Сара Вагенкнехт (BSW)",
+  "L2 официальная власть Германии: Фридрих Мерц, ведомство федерального канцлера, министерство развития и минфин Германии, бюджет и долговой тормоз",
+  "L3 институты Евросоюза в Брюсселе: Еврокомиссия, Европарламент, Евросовет, ЕЦБ во Франкфурте, флаги ЕС, фон дер Ляйен, Кошта",
+  "L4 европейское перевооружение: немецкие заводы снарядов, цеха и склады боеприпасов, ПВО IRIS-T и Patriot Бундесвера, Leopard 2",
+  "L5 европейские диссиденты: Роберт Фицо и правительство Словакии в Братиславе, Нацобъединение Франции, Бурбонский дворец",
+  "L6 США и российская нефть: Белый дом, Трамп, Госдеп, нефтяной терминал и танкеры, Кремль/Путин",
+  "L7 Киев как получатель: Офис президента на Банковой, Зеленский, выгрузка военной помощи, восстановление",
+  "L8 деньги и бухгалтерия (метафоры НАЗВАНЫ текстом): калькулятор, кошелёк, касса, евро, крыша, шлагбаум, розетка, кружка, табло"
+ ]
+}

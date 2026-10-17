@@ -1,0 +1,392 @@
+{
+ "anchor": "top",
+ "2": {
+  "text": {
+   "words": "ПЯТЫЙ ГОД ВОЙНЫ",
+   "color": "red",
+   "pos": "mc",
+   "at": 3.3,
+   "scale": 1.0
+  }
+ },
+ "5": {
+  "text": {
+   "words": "МАКС КРА, АдГ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.5,
+   "scale": 1.0
+  }
+ },
+ "6": {
+  "photo": "overlays/scene_006.jpg",
+  "sound": "pop",
+  "at": 2.0,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0
+ },
+ "7": {
+  "text": {
+   "words": "США ПОКУПАЮТ РОССИЙСКИЙ ДИЗЕЛЬ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.6,
+   "scale": 1.0
+  }
+ },
+ "9": {
+  "photo": "overlays/scene_009.jpg",
+  "sound": "zatvor",
+  "at": 5.2,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "КОМПЕНСАЦИЯ ОТ КИЕВА",
+   "color": "white",
+   "pos": "mc",
+   "at": 8.2,
+   "scale": 1.0
+  }
+ },
+ "11": {
+  "text": {
+   "words": "АЛИСА ВАЙДЕЛЬ, ЛИДЕР АдГ",
+   "color": "white",
+   "pos": "mc",
+   "at": 8.1,
+   "scale": 1.0
+  }
+ },
+ "12": {
+  "text": {
+   "words": "НИКАКОГО ЧЛЕНСТВА В ЕС",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.1,
+   "scale": 1.0
+  }
+ },
+ "13": {
+  "photo": "overlays/scene_013.jpg",
+  "sound": "zatvor",
+  "at": 5.1,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "НИ ЕВРО НА ВОССТАНОВЛЕНИЕ",
+   "color": "white",
+   "pos": "mc",
+   "at": 8.0,
+   "scale": 1.0
+  }
+ },
+ "15": {
+  "photo": "overlays/scene_015.jpg",
+  "sound": "pop",
+  "at": 5.3,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "ДОСТУП К УКРАИНСКОМУ СЫРЬЮ",
+   "color": "white",
+   "pos": "mc",
+   "at": 8.3,
+   "scale": 1.0
+  }
+ },
+ "16": {
+  "photo": "overlays/scene_016.jpg",
+  "sound": "whoosh",
+  "at": 4.2,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "САКСОНИЯ-АНХАЛЬТ: АдГ И BSW",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.6,
+   "scale": 1.0
+  }
+ },
+ "17": {
+  "text": {
+   "words": "САРА ВАГЕНКНЕХТ, BSW",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.7,
+   "scale": 1.0
+  }
+ },
+ "19": {
+  "text": {
+   "words": "МЕРЦ: ПОДДЕРЖКА ПРОДОЛЖИТСЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.2,
+   "scale": 1.0
+  }
+ },
+ "20": {
+  "text": {
+   "words": "ДОЛГОВОЙ ТОРМОЗ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.4,
+   "scale": 1.0
+  }
+ },
+ "22": {
+  "text": {
+   "words": "670 МЛН → 330 МЛН ЕВРО",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.1,
+   "scale": 1.0
+  }
+ },
+ "24": {
+  "text": {
+   "words": "РАСХОДЫ НА ОБОРОНУ +90%",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.8,
+   "scale": 1.0
+  }
+ },
+ "25": {
+  "text": {
+   "words": "ЗАКУПКИ: ЧЕТВЕРТЬ → ТРЕТЬ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.9,
+   "scale": 1.0
+  }
+ },
+ "26": {
+  "photo": "overlays/scene_026.jpg",
+  "sound": "zatvor",
+  "at": 2.8,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "ПРОБЕЛЫ ЗАКРЫВАЛИ США",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.4,
+   "scale": 1.0
+  }
+ },
+ "27": {
+  "photo": "overlays/scene_027.jpg",
+  "sound": "pop",
+  "at": 4.8,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0
+ },
+ "29": {
+  "text": {
+   "words": "КРЕДИТ 90 МЛРД ЕВРО",
+   "color": "red",
+   "pos": "mc",
+   "at": 6.7,
+   "scale": 1.0
+  }
+ },
+ "30": {
+  "text": {
+   "words": "SAFE — 150 МЛРД ЕВРО",
+   "color": "white",
+   "pos": "mc",
+   "at": 8.5,
+   "scale": 1.0
+  }
+ },
+ "31": {
+  "photo": "overlays/scene_031.jpg",
+  "sound": "pop",
+  "at": 3.3,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0
+ },
+ "33": {
+  "text": {
+   "words": "СВОИ АРМИИ: СОТНИ МИЛЛИАРДОВ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.6,
+   "scale": 1.0
+  }
+ },
+ "36": {
+  "photo": "overlays/scene_036.jpg",
+  "sound": "zatvor",
+  "at": 3.2,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "РОБЕРТ ФИЦО, ПРЕМЬЕР СЛОВАКИИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.0,
+   "scale": 1.0
+  }
+ },
+ "37": {
+  "text": {
+   "words": "ЕВРОСОЮЗ И НАТО",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.8,
+   "scale": 1.0
+  }
+ },
+ "38": {
+  "text": {
+   "words": "ФРАНЦИЯ: НАЦОБЪЕДИНЕНИЕ",
+   "color": "red",
+   "pos": "mc",
+   "at": 6.7,
+   "scale": 1.0
+  }
+ },
+ "39": {
+  "photo": "overlays/scene_039.jpg",
+  "sound": "zatvor",
+  "at": 5.1,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0
+ },
+ "42": {
+  "photo": "overlays/scene_042.jpg",
+  "sound": "pop",
+  "at": 4.9,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "ДОНАЛЬД ТРАМП",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.7,
+   "scale": 1.0
+  }
+ },
+ "43": {
+  "photo": "overlays/scene_043.jpg",
+  "sound": "whoosh",
+  "at": 4.3,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "ВАШИНГТОН СЧИТАЕТ ВЫГОДУ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.7,
+   "scale": 1.0
+  }
+ },
+ "45": {
+  "text": {
+   "words": "РАЗВЕДКА, СВЯЗЬ, ПВО — США",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.8,
+   "scale": 1.0
+  }
+ },
+ "46": {
+  "photo": "overlays/scene_046.jpg",
+  "sound": "pop",
+  "at": 5.0,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0
+ },
+ "48": {
+  "photo": "overlays/scene_048.jpg",
+  "sound": "whoosh",
+  "at": 5.3,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0
+ },
+ "49": {
+  "text": {
+   "words": "ПУТЬ В ЕС — ТОРМОЗИТЬ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.9,
+   "scale": 1.0
+  }
+ },
+ "50": {
+  "text": {
+   "words": "ПЕРЕСМОТРЕТЬ САНКЦИИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.9,
+   "scale": 1.0
+  }
+ },
+ "52": {
+  "photo": "overlays/scene_052.jpg",
+  "sound": "whoosh",
+  "at": 5.0,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "СОГЛАСИЕ ВСЕХ ЧЛЕНОВ ЕС",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.9,
+   "scale": 1.0
+  }
+ },
+ "55": {
+  "text": {
+   "words": "ДОКУМЕНТЫ ЛЕЖАТ В БУНДЕСТАГЕ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.5,
+   "scale": 1.0
+  }
+ },
+ "56": {
+  "photo": "overlays/scene_056.jpg",
+  "sound": "pop",
+  "at": 4.3,
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0
+ },
+ "57": {
+  "text": {
+   "words": "БУМАГА СНАРЯДЫ НЕ ПРОИЗВОДИТ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.5,
+   "scale": 1.0
+  }
+ },
+ "62": {
+  "text": {
+   "words": "СТОЛЬКО, СКОЛЬКО ПОТРЕБУЕТСЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.3,
+   "scale": 1.0
+  }
+ }
+}
