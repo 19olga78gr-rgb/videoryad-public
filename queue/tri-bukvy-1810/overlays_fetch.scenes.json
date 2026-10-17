@@ -1,0 +1,292 @@
+{
+ "scenes": [
+  {
+   "id": 5,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "география: карта Словакии",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/СЛОВАКИЯ/Slovakia map modern.jpg"
+  },
+  {
+   "id": 6,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "география: карта Венгрии",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/ВЕНГРИЯ/Hungary map blank.jpg"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "кто решает в этом здании",
+   "source": "press_photo",
+   "source_query": "Кристин Лагард глава Европейского центрального банка 2026 реальное фото"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "кто именно будет платить — лицо",
+   "source": "press_photo",
+   "source_query": "Урсула фон дер Ляйен глава Еврокомиссии 2026 реальное фото"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "география: карта Германии",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/ГЕРМАНИЯ/Germany map blank.jpg"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "куда уходила гражданская помощь",
+   "source": "press_photo",
+   "source_query": "грузовик с гуманитарной помощью Германии в Украине реальное фото"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "инфраструктура в плохом состоянии — о чём он говорит",
+   "source": "press_photo",
+   "source_query": "разбитая дорога с ямами в Германии реальное фото"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "стекольный завод в Германии производство стекла реальное фото",
+   "source": "press_photo",
+   "source_query": "стекольный завод в Германии производство стекла реальное фото"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "американский конкурент, с которым сравнивают газ",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/США/Blank Map of United States With Borders of States.jpg"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "конкретная площадка за стоковым факелом",
+   "source": "press_photo",
+   "source_query": "химический парк Леуна в Германии реальное фото"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "местные магазины и налоги муниципалитета",
+   "source": "press_photo",
+   "source_query": "улица с магазинами в небольшом немецком городе реальное фото"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "кто принимает решение о реструктуризации",
+   "source": "press_photo",
+   "source_query": "Оливер Блюме глава Volkswagen 2026 реальное фото"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "география: карта Китая",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/КИТАЙ/China-equirect.jpg"
+  },
+  {
+   "id": 38,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "свой двор — карта Европы",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/ЕВРОПА/Borders Europe Map HD.jpg"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "география: карта США",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/США/Blank map of the United States.jpg"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "кто в Вашингтоне это решает",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп президент США 2026 реальное фото"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "с кем договорились о дизеле",
+   "source": "press_photo",
+   "source_query": "Владимир Путин 2026 реальное фото"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "география: Украина в Европе",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/УКРАИНА/Europe-Ukraine.jpg"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "кто считает эту дыру",
+   "source": "press_photo",
+   "source_query": "Сергей Марченко министр финансов Украины 2026 реальное фото"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "Эльвира Набиуллина глава Банка России 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Эльвира Набиуллина глава Банка России 2026 реальное фото"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "кто отвечает за Euroclear",
+   "source": "press_photo",
+   "source_query": "Барт Де Вевер премьер-министр Бельгии 2026 реальное фото"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "европейская собственность в России — чем ответят",
+   "source": "press_photo",
+   "source_query": "завод Volkswagen в Калуге Россия реальное фото"
+  },
+  {
+   "id": 58,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "оборона — одна из статей расходов",
+   "source": "press_photo",
+   "source_query": "солдат бундесвера на учениях в Германии 2026 реальное фото"
+  },
+  {
+   "id": 61,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "корпус больницы в Словакии реальное фото",
+   "source": "press_photo",
+   "source_query": "корпус больницы в Словакии реальное фото"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "география: карта Венгрии",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/ВЕНГРИЯ/HU counties blank edit.jpg"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "что именно он поддержал",
+   "source": "press_photo",
+   "source_query": "украинское зерно в вагонах на границе с Венгрией реальное фото"
+  },
+  {
+   "id": 66,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "кто ведёт эти разговоры",
+   "source": "press_photo",
+   "source_query": "Антониу Кошта председатель Европейского совета 2026 реальное фото"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "китайский контейнеровоз у причала в европейском порту реальное фото",
+   "source": "press_photo",
+   "source_query": "китайский контейнеровоз у причала в европейском порту реальное фото"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "география: карта Ирана и пролива",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/ИРАН/Iran location map.jpg"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "кто за этими заказами стоит",
+   "source": "press_photo",
+   "source_query": "Армин Паппергер глава Rheinmetall 2026 реальное фото"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "перестраивать энергетику — одна из задач",
+   "source": "press_photo",
+   "source_query": "ветряные турбины в Германии реальное фото"
+  },
+  {
+   "id": 76,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "Владимир Зеленский выступление 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский выступление 2026 реальное фото"
+  },
+  {
+   "id": 77,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "немецкие и американские военные на совместных учениях в Германии 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "немецкие и американские военные на совместных учениях в Германии 2026 реальное фото"
+  },
+  {
+   "id": 79,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "Кристен Михал премьер-министр Эстонии 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Кристен Михал премьер-министр Эстонии 2026 реальное фото"
+  },
+  {
+   "id": 80,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "где это станет политическим конфликтом",
+   "source": "press_photo",
+   "source_query": "Роберта Метсола председатель Европейского парламента 2026 реальное фото"
+  },
+  {
+   "id": 82,
+   "text": "",
+   "duration_sec": 4.0,
+   "visual_prompt": "кто делает эти фокусы с бюджетом",
+   "source": "press_photo",
+   "source_query": "Ларс Клингбайль министр финансов Германии 2026 реальное фото"
+  }
+ ]
+}
