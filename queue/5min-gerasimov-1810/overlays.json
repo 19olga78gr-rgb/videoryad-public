@@ -1,0 +1,300 @@
+{
+ "anchor": "top",
+ "1": {
+  "photo": "overlays/scene_001.jpg",
+  "sound": "whoosh",
+  "at": 4.3,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "5": {
+  "photo": "overlays/scene_005.jpg",
+  "sound": "zatvor",
+  "at": 4.8,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "9": {
+  "photo": "overlays/scene_009.jpg",
+  "sound": "whoosh",
+  "at": 5.2,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "17": {
+  "photo": "overlays/scene_017.jpg",
+  "sound": "pop",
+  "at": 4.9,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "23": {
+  "photo": "overlays/scene_023.jpg",
+  "sound": "whoosh",
+  "at": 5.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "25": {
+  "photo": "overlays/scene_025.jpg",
+  "sound": "zatvor",
+  "at": 4.4,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "28": {
+  "photo": "overlays/scene_028.jpg",
+  "sound": "pop",
+  "at": 3.6,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "29": {
+  "photo": "overlays/scene_029.jpg",
+  "sound": "whoosh",
+  "at": 4.8,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "30": {
+  "photo": "overlays/scene_030.jpg",
+  "sound": "zatvor",
+  "at": 4.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "42": {
+  "photo": "overlays/scene_042.jpg",
+  "sound": "pop",
+  "at": 4.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "49": {
+  "photo": "overlays/scene_049.jpg",
+  "sound": "whoosh",
+  "at": 4.6,
+  "shape": "rounded",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "anchor": "top",
+  "approved": true
+ },
+ "59": {
+  "photo": "overlays/scene_059.jpg",
+  "sound": "pop",
+  "at": 3.1,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": true
+ },
+ "4": {
+  "text": {
+   "words": "УДАРЫ ПРОДОЛЖИТЬ",
+   "color": "red",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 5.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "10": {
+  "text": {
+   "words": "ЧЕТЫРЕ ОБЛАСТИ В КОНСТИТУЦИИ РФ",
+   "color": "white",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 5.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "11": {
+  "text": {
+   "words": "ЛУГАНСКАЯ — 100% ПОД КОНТРОЛЕМ",
+   "color": "yellow",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 4.6,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "12": {
+  "text": {
+   "words": "У КИЕВА 10% ДОНЕЦКОЙ",
+   "color": "yellow",
+   "pos": "tl",
+   "sound": "pop",
+   "at": 4.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "16": {
+  "text": {
+   "words": "ЗОНА БЕЗОПАСНОСТИ — НЕ ПРЕДМЕТ ТОРГА",
+   "color": "yellow",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 3.1,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "18": {
+  "text": {
+   "words": "5 КМ ДО ЗАПОРОЖЬЯ",
+   "color": "red",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 4.3,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "20": {
+  "text": {
+   "words": "ПОЗИЦИЯ ДВИЖЕТСЯ С ЛИНИЕЙ ФРОНТА",
+   "color": "white",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 4.4,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "24": {
+  "text": {
+   "words": "STORM SHADOW · 250 КМ",
+   "color": "yellow",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 4.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "34": {
+  "text": {
+   "words": "ЭНЕРГЕТИКА — В СПИСКЕ ЦЕЛЕЙ",
+   "color": "yellow",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 4.3,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "37": {
+  "text": {
+   "words": "70 МЛРД ЕВРО НА ГОД",
+   "color": "yellow",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 4.3,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "39": {
+  "text": {
+   "words": "ФРЕДЕРИКСЕН: ДЕНЬГИ ЗАКАНЧИВАЮТСЯ",
+   "color": "red",
+   "pos": "tl",
+   "sound": "pop",
+   "at": 4.8,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "40": {
+  "text": {
+   "words": "БЕЛЬГИЯ — ГЛАВНЫЙ ХРАНИТЕЛЬ АКТИВОВ",
+   "color": "white",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 5.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "45": {
+  "text": {
+   "words": "САНКЦИИ НЕ ПРИМЕНЯТЬ",
+   "color": "red",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 4.7,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "46": {
+  "text": {
+   "words": "ЗАКОН ЛИНДСИ ГРЭМА",
+   "color": "white",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "47": {
+  "text": {
+   "words": "ПОСЛАБЛЕНИЯ РАДИ ДИЗЕЛЯ",
+   "color": "white",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 4.6,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "48": {
+  "text": {
+   "words": "22-Й ПАКЕТ САНКЦИЙ ЕС",
+   "color": "white",
+   "pos": "mc",
+   "sound": "pop",
+   "at": 4.7,
+   "scale": 1.0,
+   "approved": true
+  }
+ }
+}
