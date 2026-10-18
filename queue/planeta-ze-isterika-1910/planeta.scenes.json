@@ -1,0 +1,672 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 13.55,
+   "visual_prompt": "Зеленский, рука у головы — та самая реакция",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЗЕЛЕНСКИЙ/зеля1 (21).jpg"
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 13.55,
+   "duration_sec": 11.16,
+   "visual_prompt": "Офис президента на Банковой",
+   "source": "press_photo",
+   "source_query": "здание Офиса президента Украины Банковая Киев реальное фото"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 24.71,
+   "duration_sec": 13.08,
+   "visual_prompt": "Трамп подписывает за столом — пауза санкций",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/TRAMP/трамп-адские санкции.jpg"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 37.8,
+   "duration_sec": 12.8,
+   "visual_prompt": "Грэм — автор закона",
+   "source": "press_photo",
+   "source_query": "Линдси Грэм сенатор США выступление реальное фото"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 50.6,
+   "duration_sec": 6.24,
+   "visual_prompt": "Белый дом",
+   "source": "press_photo",
+   "source_query": "Белый дом Вашингтон фасад реальное фото"
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 56.84,
+   "duration_sec": 12.74,
+   "visual_prompt": "флаг США — сначала Америка",
+   "source": "press_photo",
+   "source_query": "флаг США на фасаде Белого дома реальное фото"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 69.58,
+   "duration_sec": 7.78,
+   "visual_prompt": "российский НПЗ в сумерках — дизель",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/НЕФТЬ/нефть2-1.mp4"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 77.36,
+   "duration_sec": 10.72,
+   "visual_prompt": "Банк России",
+   "source": "press_photo",
+   "source_query": "здание Центрального банка России Неглинная улица реальное фото"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 88.07,
+   "duration_sec": 5.85,
+   "visual_prompt": "Starlink на позиции",
+   "source": "press_photo",
+   "source_query": "терминал Starlink на позиции украинских военных реальное фото"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 93.92,
+   "duration_sec": 11.02,
+   "visual_prompt": "Зеленский об американцах",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский говорит с журналистами Киев 2026 реальное фото"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 104.94,
+   "duration_sec": 9.38,
+   "visual_prompt": "Трамп и Зеленский",
+   "source": "press_photo",
+   "source_query": "Трамп и Зеленский встреча в Белом доме 2026 реальное фото"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 114.32,
+   "duration_sec": 12.24,
+   "visual_prompt": "ключи в замке",
+   "source": "pexels_video",
+   "source_query": "keys hanging in door lock closeup no people"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 126.56,
+   "duration_sec": 6.52,
+   "visual_prompt": "интонация Зеленского",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский интервью крупный план 2026 реальное фото"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 133.08,
+   "duration_sec": 10.92,
+   "visual_prompt": "вопрос про козла отпущения",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на пресс-конференции отвечает на вопросы журналистов октябрь 2026"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 144.0,
+   "duration_sec": 10.03,
+   "visual_prompt": "молчал, потом улыбнулся",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский улыбается крупный план 2026 реальное фото"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 154.03,
+   "duration_sec": 8.65,
+   "visual_prompt": "Флинн",
+   "source": "press_photo",
+   "source_query": "Майкл Флинн бывший советник по национальной безопасности США реальное фото"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 162.68,
+   "duration_sec": 13.62,
+   "visual_prompt": "Минфин США — деньги налогоплательщиков",
+   "source": "press_photo",
+   "source_query": "здание Министерства финансов США Вашингтон реальное фото"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 176.3,
+   "duration_sec": 12.77,
+   "visual_prompt": "закрытая ставня — кассу закрыть",
+   "source": "pexels_video",
+   "source_query": "closed metal roller shutter closeup no people"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 189.07,
+   "duration_sec": 11.84,
+   "visual_prompt": "тот самый спор",
+   "source": "press_photo",
+   "source_query": "спор Зеленского и Трампа в Овальном кабинете февраль 2025 реальное фото"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 200.91,
+   "duration_sec": 12.8,
+   "visual_prompt": "Капитолий",
+   "source": "press_photo",
+   "source_query": "Капитолий Вашингтон купол реальное фото"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 213.71,
+   "duration_sec": 5.85,
+   "visual_prompt": "Путин на трибуне с флагом РФ — линия с Москвой",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПУТИН/Нарезки - Путин3.mp4"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 219.56,
+   "duration_sec": 9.47,
+   "visual_prompt": "Евросовет — второй адрес",
+   "source": "press_photo",
+   "source_query": "здание Европейского совета Брюссель фасад реальное фото"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 229.03,
+   "duration_sec": 12.56,
+   "visual_prompt": "выезд на запад",
+   "source": "press_photo",
+   "source_query": "пограничный переход Украина Польша очередь автомобилей реальное фото"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 241.59,
+   "duration_sec": 13.04,
+   "visual_prompt": "Берлемон",
+   "source": "press_photo",
+   "source_query": "здание Еврокомиссии Берлемон Брюссель реальное фото"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 254.63,
+   "duration_sec": 10.13,
+   "visual_prompt": "политический грузовик у дверей",
+   "source": "pexels_video",
+   "source_query": "semi truck trailer rear doors closeup no people"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 264.76,
+   "duration_sec": 12.76,
+   "visual_prompt": "полукруглый зал Европарламента",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕВРОПА/8-1.mp4"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 277.52,
+   "duration_sec": 8.39,
+   "visual_prompt": "жильё, пособия, кресло",
+   "source": "press_photo",
+   "source_query": "улица с жилыми домами в Брюсселе реальное фото"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 285.91,
+   "duration_sec": 13.92,
+   "visual_prompt": "тысячи российских ракет",
+   "source": "press_photo",
+   "source_query": "российский ракетный комплекс Искандер пуск реальное фото"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 299.83,
+   "duration_sec": 12.33,
+   "visual_prompt": "чемодан с беженцами",
+   "source": "pexels_video",
+   "source_query": "suitcase handle closeup no people"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 312.16,
+   "duration_sec": 13.31,
+   "visual_prompt": "европейский супермаркет",
+   "source": "pexels_video",
+   "source_query": "supermarket aisle shelves no people"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 325.48,
+   "duration_sec": 14.32,
+   "visual_prompt": "155 и 70 миллиардов",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский за трибуной на саммите в Брюсселе 2026 реальное фото"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 339.8,
+   "duration_sec": 7.46,
+   "visual_prompt": "двести миллионов в день",
+   "source": "press_photo",
+   "source_query": "купюры евро на столе крупным планом реальное фото"
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 347.25,
+   "duration_sec": 14.38,
+   "visual_prompt": "Кошта — саммит без решения",
+   "source": "press_photo",
+   "source_query": "Антониу Кошта председатель Европейского совета 2026 реальное фото"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 361.63,
+   "duration_sec": 12.24,
+   "visual_prompt": "ЕЦБ — где искать деньги",
+   "source": "press_photo",
+   "source_query": "здание Европейского центрального банка Франкфурт реальное фото"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 373.88,
+   "duration_sec": 13.7,
+   "visual_prompt": "Де Вевер",
+   "source": "press_photo",
+   "source_query": "Барт Де Вевер премьер-министр Бельгии реальное фото"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 387.58,
+   "duration_sec": 13.44,
+   "visual_prompt": "ряд флагов ЕС и стран — флаги есть, денег нет",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕВРОПА/6-1.mp4"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 401.02,
+   "duration_sec": 10.56,
+   "visual_prompt": "пустой зал — ресурсы не бесконечны",
+   "source": "press_photo",
+   "source_query": "пустой зал заседаний Европейской комиссии 2026 реальное фото"
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 411.58,
+   "duration_sec": 13.92,
+   "visual_prompt": "кран прикручивают",
+   "source": "pexels_video",
+   "source_query": "industrial valve handwheel pipeline closeup no people"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 425.5,
+   "duration_sec": 11.88,
+   "visual_prompt": "Свириденко",
+   "source": "press_photo",
+   "source_query": "Юлия Свириденко премьер-министр Украины 2026 реальное фото"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 437.38,
+   "duration_sec": 7.76,
+   "visual_prompt": "Киев",
+   "source": "press_photo",
+   "source_query": "Киев вид на центр города реальное фото"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 445.15,
+   "duration_sec": 8.56,
+   "visual_prompt": "фон дер Ляйен",
+   "source": "press_photo",
+   "source_query": "Урсула фон дер Ляйен Еврокомиссия октябрь 2026 реальное фото"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 453.71,
+   "duration_sec": 13.14,
+   "visual_prompt": "Euroclear — где лежат активы",
+   "source": "press_photo",
+   "source_query": "здание Euroclear Брюссель реальное фото"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 466.85,
+   "duration_sec": 15.19,
+   "visual_prompt": "Нацбанк Бельгии",
+   "source": "press_photo",
+   "source_query": "здание Национального банка Бельгии Брюссель реальное фото"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 482.04,
+   "duration_sec": 9.83,
+   "visual_prompt": "Минфин России",
+   "source": "press_photo",
+   "source_query": "Министерство финансов России здание Ильинка Москва реальное фото"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 491.87,
+   "duration_sec": 12.24,
+   "visual_prompt": "Путин в кресле с гербом — Москва понимает",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПУТИН/Нарезки - Путин1.mp4"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 504.11,
+   "duration_sec": 12.88,
+   "visual_prompt": "Домбровскис",
+   "source": "press_photo",
+   "source_query": "Валдис Домбровскис еврокомиссар по экономике 2026 реальное фото"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 516.99,
+   "duration_sec": 6.7,
+   "visual_prompt": "европейский офис в Москве",
+   "source": "press_photo",
+   "source_query": "офис европейской компании в Москве вывеска реальное фото"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 523.69,
+   "duration_sec": 12.71,
+   "visual_prompt": "Дом правительства",
+   "source": "press_photo",
+   "source_query": "Дом правительства России Краснопресненская набережная реальное фото"
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 536.4,
+   "duration_sec": 7.09,
+   "visual_prompt": "Росимущество — временное управление",
+   "source": "press_photo",
+   "source_query": "здание Росимущества Москва реальное фото"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 543.49,
+   "duration_sec": 12.27,
+   "visual_prompt": "пломба",
+   "source": "pexels_video",
+   "source_query": "metal security seal on container closeup no people"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 555.76,
+   "duration_sec": 11.04,
+   "visual_prompt": "Бессент",
+   "source": "press_photo",
+   "source_query": "Скотт Бессент министр финансов США 2026 реальное фото"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 566.8,
+   "duration_sec": 5.35,
+   "visual_prompt": "Минфин Украины",
+   "source": "press_photo",
+   "source_query": "здание Министерства финансов Украины Киев реальное фото"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 572.15,
+   "duration_sec": 6.96,
+   "visual_prompt": "Уиткофф — большая сделка",
+   "source": "press_photo",
+   "source_query": "Стив Уиткофф специальный посланник США реальное фото"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 579.12,
+   "duration_sec": 14.24,
+   "visual_prompt": "Лавров",
+   "source": "press_photo",
+   "source_query": "Сергей Лавров пресс-конференция МИД Москва 2026 реальное фото"
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 593.36,
+   "duration_sec": 7.24,
+   "visual_prompt": "магистральная труба — газ следующий",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/НЕФТЬ/20260204_0843_New Video_simple_compose_01kgkx3v7desxt3bpctryn20fh.mp4"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 600.6,
+   "duration_sec": 13.76,
+   "visual_prompt": "США и Россия договариваются",
+   "source": "press_photo",
+   "source_query": "переговоры делегаций России и США в Эр-Рияде 2025 реальное фото"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 614.36,
+   "duration_sec": 15.12,
+   "visual_prompt": "Рада — жизнь после Зеленского",
+   "source": "press_photo",
+   "source_query": "здание Верховной Рады Украины Киев реальное фото"
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 629.48,
+   "duration_sec": 12.56,
+   "visual_prompt": "Трамп за столом THE PRESIDENT — снаружи Трамп",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/TRAMP/25-03-трамп (19).jpg"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 642.03,
+   "duration_sec": 13.04,
+   "visual_prompt": "Москва рядом",
+   "source": "press_photo",
+   "source_query": "Московский Кремль Спасская башня реальное фото"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 655.08,
+   "duration_sec": 5.75,
+   "visual_prompt": "можно только чай поставить",
+   "source": "pexels_video",
+   "source_query": "electric kettle boiling steam closeup no people"
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 660.83,
+   "duration_sec": 12.13,
+   "visual_prompt": "Флинн: хватит платить",
+   "source": "press_photo",
+   "source_query": "Майкл Флинн на конференции выступает реальное фото"
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 672.96,
+   "duration_sec": 12.64,
+   "visual_prompt": "Трамп на сессии Конгресса — кто должен платить",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/TRAMP/25-03-трамп (4).jpg"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 685.6,
+   "duration_sec": 12.4,
+   "visual_prompt": "IRS — зачем нам это",
+   "source": "press_photo",
+   "source_query": "здание Налогового управления США IRS Вашингтон реальное фото"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 698.0,
+   "duration_sec": 6.3,
+   "visual_prompt": "Зеленский",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на фоне украинского флага выступление 2026 реальное фото"
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 704.3,
+   "duration_sec": 6.18,
+   "visual_prompt": "давление на европейцев",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский и Эммануэль Макрон переговоры 2026 реальное фото"
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 710.48,
+   "duration_sec": 12.96,
+   "visual_prompt": "срок годности страшилки",
+   "source": "pexels_video",
+   "source_query": "expiry date stamp on package closeup no people"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 723.44,
+   "duration_sec": 12.64,
+   "visual_prompt": "Бундестаг — кто платит",
+   "source": "press_photo",
+   "source_query": "здание Бундестага Берлин реальное фото"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 736.08,
+   "duration_sec": 12.76,
+   "visual_prompt": "может, хватит?",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский слушает вопрос журналиста 2026 реальное фото"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 748.84,
+   "duration_sec": 6.01,
+   "visual_prompt": "Вэнс — команда Трампа",
+   "source": "press_photo",
+   "source_query": "Джей Ди Вэнс вице-президент США 2026 реальное фото"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 754.85,
+   "duration_sec": 13.66,
+   "visual_prompt": "снова достать кошелёк",
+   "source": "pexels_video",
+   "source_query": "leather wallet on wooden table closeup no people"
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 768.51,
+   "duration_sec": 12.09,
+   "visual_prompt": "предел политики",
+   "source": "press_photo",
+   "source_query": "пустая трибуна с украинским флагом Киев реальное фото"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 780.6,
+   "duration_sec": 5.51,
+   "visual_prompt": "страшилки не спасают",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский уходит с трибуны реальное фото"
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 786.11,
+   "duration_sec": 6.0,
+   "visual_prompt": "что дальше?",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский задумчивый крупный план 2026 реальное фото"
+  }
+ ],
+ "channel": "ПЛАНЕТА",
+ "library": "YES (ПЛАНЕТА, потолок 20%)",
+ "context": "Зеленский нервничает: Трамп поставил на паузу санкции по закону Грэма, Флинн требует не давать Киеву ни цента, саммит ЕС не согласовал дополнительные 70 млрд евро, и рядом лежат замороженные российские активы, которые Европе страшно трогать. Стороны: Киев, Трамп и его окружение, институты ЕС, Москва. Физически это Киев (Банковая, Рада), Вашингтон (Белый дом, Капитолий, Минфин), Брюссель (Евросовет, Берлемон, Euroclear), Москва (Кремль, ЦБ, Минфин). Узел конфликта — деньги: американский кран прикручивают, европейский открывается тяжелее. Время — октябрь 2026, сразу после саммита ЕС. Кончается тем, что страх как инструмент выдыхается и вместо вопроса «сколько?» звучит «зачем нам это?». Чувство — нарастающая нервозность и политическое одиночество Зеленского.",
+ "lines": [
+  "украинская власть: Зеленский, Офис президента на Банковой, Верховная Рада, Минфин Украины, Свириденко",
+  "американская власть: Трамп, Белый дом, Капитолий, Минфин США, IRS, Флинн, Грэм, Вэнс, Бессент, Уиткофф",
+  "европейские институты: Евросовет, Берлемон, Европарламент, ЕЦБ, Euroclear, Нацбанк Бельгии, Де Вевер, фон дер Ляйен, Кошта, Каллас, Метсола, Лагард, Орбан, Мерц",
+  "российская власть: Кремль, Путин, Лавров, Банк России, Минфин РФ, Дом правительства, Росимущество, Мишустин",
+  "санкционно-энергетический слой: российский НПЗ, газовая компрессорная станция",
+  "предметный слой названных текстом метафор (сток, только видео, без людей): ключи в замке, касса, грузовик, чемодан, супермаркет, счётная машина, вентиль, пломба, чайник, срок годности, кошелёк"
+ ]
+}
