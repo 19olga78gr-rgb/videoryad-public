@@ -1,0 +1,440 @@
+{
+ "6": {
+  "photo": "overlays/scene_006.jpg",
+  "sound": "whoosh",
+  "at": 5.2,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "14": {
+  "photo": "overlays/scene_014.jpg",
+  "sound": "zatvor",
+  "at": 3.8,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "17": {
+  "photo": "overlays/scene_017.jpg",
+  "sound": "pop",
+  "at": 3.6,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "34": {
+  "photo": "overlays/scene_034.jpg",
+  "sound": "whoosh",
+  "at": 4.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "35": {
+  "photo": "overlays/scene_035.jpg",
+  "sound": "zatvor",
+  "at": 4.9,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "41": {
+  "photo": "overlays/scene_041.jpg",
+  "sound": "pop",
+  "at": 4.2,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "43": {
+  "photo": "overlays/scene_043.jpg",
+  "sound": "whoosh",
+  "at": 2.3,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "50": {
+  "photo": "overlays/scene_050.jpg",
+  "sound": "zatvor",
+  "at": 4.6,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "53": {
+  "photo": "overlays/scene_053.jpg",
+  "sound": "pop",
+  "at": 4.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "55": {
+  "photo": "overlays/scene_055.jpg",
+  "sound": "whoosh",
+  "at": 4.9,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "58": {
+  "photo": "overlays/scene_058.jpg",
+  "sound": "zatvor",
+  "at": 4.2,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "68": {
+  "photo": "overlays/scene_068.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "2": {
+  "text": {
+   "words": "ТРАМП: ВСТРЕЧА НЕ ОБЯЗАТЕЛЬНА",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 2.9,
+   "scale": 1.0,
+   "sound": "pshik",
+   "font": "OSWALD"
+  }
+ },
+ "5": {
+  "text": {
+   "words": "УСЛОВИЯ УБИРАЮТСЯ ОДНО ЗА ДРУГИМ",
+   "color": "white",
+   "pos": "tc",
+   "at": 2.4,
+   "scale": 1.0,
+   "sound": "pop",
+   "font": "OSWALD"
+  }
+ },
+ "8": {
+  "text": {
+   "words": "«ТЫ НУЖЕН» ПЕРЕСТАЁТ ЗВУЧАТЬ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.4,
+   "scale": 1.0,
+   "sound": "zatvor",
+   "font": "OSWALD"
+  }
+ },
+ "11": {
+  "text": {
+   "words": "ПРОХОД ИЩУТ В ДРУГОМ МЕСТЕ",
+   "color": "white",
+   "pos": "tc",
+   "at": 2.8,
+   "scale": 1.0,
+   "sound": "mashinka",
+   "font": "OSWALD"
+  }
+ },
+ "13": {
+  "text": {
+   "words": "ДВА ЗАЯВЛЕНИЯ ЗА НЕСКОЛЬКО ДНЕЙ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 5.3,
+   "scale": 1.0,
+   "sound": "zatvor",
+   "font": "OSWALD"
+  }
+ },
+ "16": {
+  "text": {
+   "words": "«БЕЗ УКРАИНЫ» И «БЕЗ ЗЕЛЕНСКОГО» — РАЗНОЕ",
+   "color": "white",
+   "pos": "tc",
+   "at": 5.4,
+   "scale": 1.0,
+   "sound": "mashinka",
+   "font": "OSWALD"
+  }
+ },
+ "19": {
+  "text": {
+   "words": "НЕ СКЛАДЫВАЕТСЯ — ИЩУТ ДРУГОЙ КАНАЛ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.2,
+   "scale": 1.0,
+   "sound": "whoosh",
+   "font": "OSWALD"
+  }
+ },
+ "20": {
+  "text": {
+   "words": "МОНОПОЛИЯ НА ПЕРЕГОВОРЫ",
+   "color": "red",
+   "pos": "tc",
+   "at": 6.0,
+   "scale": 1.0,
+   "sound": "pop",
+   "font": "OSWALD"
+  }
+ },
+ "22": {
+  "text": {
+   "words": "У МОНОПОЛИИ ПОЯВИЛСЯ КОНКУРЕНТ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 5.5,
+   "scale": 1.0,
+   "sound": "pshik",
+   "font": "OSWALD"
+  }
+ },
+ "24": {
+  "text": {
+   "words": "ПЕСКОВ: НУЖЕН КТО-ТО ИЗ КИЕВА",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 5.6,
+   "scale": 1.0,
+   "sound": "whoosh",
+   "font": "OSWALD"
+  }
+ },
+ "27": {
+  "text": {
+   "words": "СПОР ОБ УСЛОВИЯХ ЗАКОНЧИЛСЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.4,
+   "scale": 1.0,
+   "sound": "pshik",
+   "font": "OSWALD"
+  }
+ },
+ "29": {
+  "text": {
+   "words": "НЕЗАМЕНИМОСТЬ — ЭТО РЕСУРС",
+   "color": "white",
+   "pos": "tc",
+   "at": 5.9,
+   "scale": 1.0,
+   "sound": "whoosh",
+   "font": "OSWALD"
+  }
+ },
+ "31": {
+  "text": {
+   "words": "США — НЕ УКРАИНА",
+   "color": "red",
+   "pos": "mc",
+   "at": 5.1,
+   "scale": 1.0,
+   "sound": "mashinka",
+   "font": "OSWALD"
+  }
+ },
+ "32": {
+  "text": {
+   "words": "КОНГРЕСС СПОРИТ, АДМИНИСТРАЦИЯ РЕШАЕТ",
+   "color": "white",
+   "pos": "tc",
+   "at": 5.8,
+   "scale": 1.0,
+   "sound": "pshik",
+   "font": "OSWALD"
+  }
+ },
+ "36": {
+  "text": {
+   "words": "КИЕВ ПРОСИТ — ВАШИНГТОН ВЗВЕШИВАЕТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.7,
+   "scale": 1.0,
+   "sound": "mashinka",
+   "font": "OSWALD"
+  }
+ },
+ "38": {
+  "text": {
+   "words": "ПОМОЩЬ ЕСТЬ, УСЛОВИЯ СТАВЯТ В США",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 4.1,
+   "scale": 1.0,
+   "sound": "zatvor",
+   "font": "OSWALD"
+  }
+ },
+ "39": {
+  "text": {
+   "words": "РУБИО: БЕЗ США НЕ ВЫСТОЯЛИ БЫ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.9,
+   "scale": 1.0,
+   "sound": "whoosh",
+   "font": "OSWALD"
+  }
+ },
+ "44": {
+  "text": {
+   "words": "ДОКУМЕНТЫ ПОДПИСЫВАЮТ И БЕЗ СИМПАТИИ",
+   "color": "white",
+   "pos": "tc",
+   "at": 5.6,
+   "scale": 1.0,
+   "sound": "whoosh",
+   "font": "OSWALD"
+  }
+ },
+ "46": {
+  "text": {
+   "words": "В ЦЕНТРЕ — РЕЗУЛЬТАТ, А НЕ ЧЕЛОВЕК",
+   "color": "red",
+   "pos": "mc",
+   "at": 2.4,
+   "scale": 1.0,
+   "sound": "mashinka",
+   "font": "OSWALD"
+  }
+ },
+ "49": {
+  "text": {
+   "words": "ПОДПИСЬ БЕЗ ИНСТИТУТОВ — ПРОСТО БУМАГА",
+   "color": "white",
+   "pos": "tc",
+   "at": 3.8,
+   "scale": 1.0,
+   "sound": "whoosh",
+   "font": "OSWALD"
+  }
+ },
+ "51": {
+  "text": {
+   "words": "ВОПРОС ШИРЕ ОДНОЙ ФАМИЛИИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.9,
+   "scale": 1.0,
+   "sound": "mashinka",
+   "font": "OSWALD"
+  }
+ },
+ "54": {
+  "text": {
+   "words": "ЖДАТЬ ГОД? ДВА? ИЛИ ИСКАТЬ ДРУГОГО",
+   "color": "white",
+   "pos": "tc",
+   "at": 3.5,
+   "scale": 1.0,
+   "sound": "whoosh",
+   "font": "OSWALD"
+  }
+ },
+ "57": {
+  "text": {
+   "words": "КИЕВ ЗОВЁТ НА ТРОИХ",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.4,
+   "scale": 1.0,
+   "sound": "pshik",
+   "font": "OSWALD"
+  }
+ },
+ "59": {
+  "text": {
+   "words": "РЯДОМ ПОЯВИЛСЯ ЗАПАСНОЙ СТУЛ",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 5.0,
+   "scale": 1.0,
+   "sound": "whoosh",
+   "font": "OSWALD"
+  }
+ },
+ "61": {
+  "text": {
+   "words": "ПОСЛЕ ВОЙНЫ — ВЫБОРЫ",
+   "color": "red",
+   "pos": "mc",
+   "at": 2.4,
+   "scale": 1.0,
+   "sound": "mashinka",
+   "font": "OSWALD"
+  }
+ },
+ "62": {
+  "text": {
+   "words": "СОЮЗНИКИ ВСПОМНЯТ ПРО СВОИ ПАРТИИ",
+   "color": "white",
+   "pos": "tc",
+   "at": 5.6,
+   "scale": 1.0,
+   "sound": "pshik",
+   "font": "OSWALD"
+  }
+ },
+ "64": {
+  "text": {
+   "words": "СТАТУС НЕЗАМЕНИМОГО — ГЛАВНЫЙ АКТИВ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.0,
+   "scale": 1.0,
+   "sound": "whoosh",
+   "font": "OSWALD"
+  }
+ },
+ "66": {
+  "text": {
+   "words": "ХВАТИТ ФРАЗЫ «НАЙДИТЕ ЧЕЛОВЕКА»",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 5.1,
+   "scale": 1.0,
+   "sound": "mashinka",
+   "font": "OSWALD"
+  }
+ },
+ "70": {
+  "text": {
+   "words": "ФАМИЛИЯ ИЗ ОТВЕТА СТАЛА ВАРИАНТОМ",
+   "color": "red",
+   "pos": "mc",
+   "at": 2.6,
+   "scale": 1.0,
+   "sound": "pop",
+   "font": "OSWALD"
+  }
+ },
+ "72": {
+  "text": {
+   "words": "ДВЕРЬ ОТКРЫТА — ВОЙДЁТ НЕИЗВЕСТНО КТО",
+   "color": "white",
+   "pos": "tc",
+   "at": 5.6,
+   "scale": 1.0,
+   "sound": "pshik",
+   "font": "OSWALD"
+  }
+ }
+}
