@@ -1,0 +1,243 @@
+{
+  "6": {
+    "photo": "overlays/scene_006.jpg",
+    "sound": "whoosh",
+    "at": 5.2,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "14": {
+    "photo": "overlays/scene_014.jpg",
+    "sound": "zatvor",
+    "at": 3.8,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "17": {
+    "photo": "overlays/scene_017.jpg",
+    "sound": "pop",
+    "at": 3.6,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true,
+    "anchor": "top"
+  },
+  "41": {
+    "photo": "overlays/scene_041.jpg",
+    "sound": "pop",
+    "at": 4.2,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "55": {
+    "photo": "overlays/scene_055.jpg",
+    "sound": "whoosh",
+    "at": 4.9,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "58": {
+    "photo": "overlays/scene_058.jpg",
+    "sound": "zatvor",
+    "at": 4.2,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "anchor": "top",
+    "approved": true
+  },
+  "5": {
+    "text": {
+      "words": "«ПОРА ДРУГОМУ ВЕСТИ ПЕРЕГОВОРЫ»",
+      "color": "white",
+      "pos": "tc",
+      "font": "oswald",
+      "sound": "pop",
+      "at": 2.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "13": {
+    "text": {
+      "words": "ДВА ЗАЯВЛЕНИЯ ЗА ДВА ДНЯ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "oswald",
+      "sound": "zatvor",
+      "at": 5.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "16": {
+    "text": {
+      "words": "«БЕЗ СТРАНЫ» И «БЕЗ ПРЕЗИДЕНТА» — РАЗНОЕ",
+      "color": "white",
+      "pos": "tc",
+      "font": "oswald",
+      "sound": "mashinka",
+      "at": 5.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "21": {
+    "text": {
+      "words": "ПУТИН ПРЕДЛАГАЛ ВСТРЕЧУ БЕЗ КИЕВА",
+      "color": "red",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "mashinka",
+      "at": 5.5,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "24": {
+    "text": {
+      "words": "ПЕСКОВ: НУЖЕН ЛЕГИТИМНЫЙ ПРЕДСТАВИТЕЛЬ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "oswald",
+      "sound": "whoosh",
+      "at": 5.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "25": {
+    "text": {
+      "words": "МОСКВА: «КТО-ТО ИЗ КИЕВА»",
+      "color": "white",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pop",
+      "at": 5.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "38": {
+    "text": {
+      "words": "ЗАДЕРЖКИ PATRIOT И AIM-9X",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "zatvor",
+      "at": 4.1,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "39": {
+    "text": {
+      "words": "ПОМОЩЬ НА МИЛЛИАРДЫ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "oswald",
+      "sound": "whoosh",
+      "at": 4.9,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "45": {
+    "text": {
+      "words": "ВАШИНГТОН ТОРОПИТ С СОГЛАШЕНИЕМ",
+      "color": "red",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pop",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "49": {
+    "text": {
+      "words": "ПОДПИСЬ БЕЗ ИНСТИТУТОВ — ПРОСТО БУМАГА",
+      "color": "white",
+      "pos": "tc",
+      "font": "oswald",
+      "sound": "whoosh",
+      "at": 3.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "57": {
+    "text": {
+      "words": "ЗЕЛЕНСКИЙ: ТЕРРИТОРИИ — НА ВЫСШЕМ УРОВНЕ",
+      "color": "white",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pshik",
+      "at": 4.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "61": {
+    "text": {
+      "words": "ВЫБОРЫ ПОСЛЕ ВОЕННОГО ПОЛОЖЕНИЯ",
+      "color": "red",
+      "pos": "tc",
+      "font": "oswald",
+      "sound": "mashinka",
+      "at": 2.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "66": {
+    "text": {
+      "words": "ТРАМП: «РОССИЯ — ОГРОМНАЯ МАШИНА»",
+      "color": "white",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "mashinka",
+      "at": 5.1,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "72": {
+    "text": {
+      "words": "ДЕКАБРЬ: G20 В МАЙАМИ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "oswald",
+      "sound": "pshik",
+      "at": 5.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "60": {
+    "photo": "overlays/scene_060.jpg",
+    "sound": "zatvor",
+    "at": 5.0,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "anchor": "top",
+    "approved": true
+  }
+}
