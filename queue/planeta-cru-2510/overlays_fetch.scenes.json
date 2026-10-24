@@ -1,0 +1,104 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0,
+   "duration_sec": 11.056,
+   "visual_prompt": "Дональд Трамп портрет 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп портрет 2026 реальное фото"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 23.988,
+   "duration_sec": 13.089,
+   "visual_prompt": "спутник на орбите реальный снимок",
+   "source": "press_photo",
+   "source_query": "спутник на орбите реальный снимок"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 73.4,
+   "duration_sec": 10.252,
+   "visual_prompt": "пограничный катер Балтийское море техника реальное фото",
+   "source": "press_photo",
+   "source_query": "пограничный катер Балтийское море техника реальное фото"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 206.806,
+   "duration_sec": 12.259,
+   "visual_prompt": "Пентагон здание с воздуха реальное фото",
+   "source": "press_photo",
+   "source_query": "Пентагон здание с воздуха реальное фото"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 306.808,
+   "duration_sec": 11.604,
+   "visual_prompt": "терминал Starlink тарелка техника реальное фото 2026",
+   "source": "press_photo",
+   "source_query": "терминал Starlink тарелка техника реальное фото 2026"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 365.447,
+   "duration_sec": 9.478,
+   "visual_prompt": "Сергей Нарышкин СВР портрет реальное фото",
+   "source": "web_search",
+   "source_query": "Сергей Нарышкин СВР портрет реальное фото"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 397.725,
+   "duration_sec": 14.22,
+   "visual_prompt": "комплекс РЭБ на автомобиле техника реальное фото 2026",
+   "source": "press_photo",
+   "source_query": "комплекс РЭБ на автомобиле техника реальное фото 2026"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 521.183,
+   "duration_sec": 6.375,
+   "visual_prompt": "зенитный пулемёт расчёт на крыше здания реальное фото",
+   "source": "press_photo",
+   "source_query": "зенитный пулемёт расчёт на крыше здания реальное фото"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 658,
+   "duration_sec": 12.164,
+   "visual_prompt": "Министерство обороны России здание фасад реальное фото",
+   "source": "press_photo",
+   "source_query": "Министерство обороны России здание фасад реальное фото"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 762.63,
+   "duration_sec": 11.692,
+   "visual_prompt": "Владимир Зеленский портрет 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский портрет 2026 реальное фото"
+  },
+  {
+   "id": 76,
+   "text": "",
+   "start_sec": 859.093,
+   "duration_sec": 11.92,
+   "visual_prompt": "стратегический бомбардировщик на аэродроме техника реальное фото",
+   "source": "press_photo",
+   "source_query": "стратегический бомбардировщик на аэродроме техника реальное фото"
+  }
+ ]
+}
