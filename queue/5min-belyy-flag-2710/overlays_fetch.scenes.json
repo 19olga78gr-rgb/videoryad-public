@@ -1,0 +1,93 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "duration_sec": 11.641,
+   "visual_prompt": "Владимир Зеленский выступает на брифинге в Киеве 2025 реальное фото",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский выступает на брифинге в Киеве 2025 реальное фото"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "duration_sec": 13.44,
+   "visual_prompt": "первая страница газеты Financial Times реальное фото",
+   "source": "press_photo",
+   "source_query": "первая страница газеты Financial Times реальное фото"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "duration_sec": 8.803,
+   "visual_prompt": "дорожный указатель на трассе через Мелитополь 2023 реальное фото",
+   "source": "press_photo",
+   "source_query": "дорожный указатель на трассе через Мелитополь 2023 реальное фото"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "duration_sec": 11.154,
+   "visual_prompt": "церемония подписания договоров о принятии областей Москва 30 сентября 2022 реальное фото",
+   "source": "press_photo",
+   "source_query": "церемония подписания договоров о принятии областей Москва 30 сентября 2022 реальное фото"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "duration_sec": 10.96,
+   "visual_prompt": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "duration_sec": 11.52,
+   "visual_prompt": "официальный портрет Владимира Путина 2023 реальное фото",
+   "source": "press_photo",
+   "source_query": "официальный портрет Владимира Путина 2023 реальное фото"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "duration_sec": 11.25,
+   "visual_prompt": "американская гаубица M777 на позиции в Украине 2023 реальное фото",
+   "source": "press_photo",
+   "source_query": "американская гаубица M777 на позиции в Украине 2023 реальное фото"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "duration_sec": 13.602,
+   "visual_prompt": "здание Генерального штаба Вооружённых сил России Москва реальное фото",
+   "source": "press_photo",
+   "source_query": "здание Генерального штаба Вооружённых сил России Москва реальное фото"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "duration_sec": 11.596,
+   "visual_prompt": "Андрей Ермак глава Офиса президента Украины реальное фото",
+   "source": "press_photo",
+   "source_query": "Андрей Ермак глава Офиса президента Украины реальное фото"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "duration_sec": 11.687,
+   "visual_prompt": "Спасская башня Московского Кремля реальное фото",
+   "source": "press_photo",
+   "source_query": "Спасская башня Московского Кремля реальное фото"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "duration_sec": 9.44,
+   "visual_prompt": "обложка журнала The Atlantic реальное фото",
+   "source": "press_photo",
+   "source_query": "обложка журнала The Atlantic реальное фото"
+  }
+ ]
+}
