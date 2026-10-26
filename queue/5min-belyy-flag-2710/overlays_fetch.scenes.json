@@ -1,0 +1,61 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "duration_sec": 11.641,
+   "visual_prompt": "Владимир Зеленский выступает на брифинге в Киеве 2025 реальное фото",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский выступает на брифинге в Киеве 2025 реальное фото"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "duration_sec": 11.154,
+   "visual_prompt": "церемония подписания договоров о принятии областей Москва 30 сентября 2022 реальное фото",
+   "source": "press_photo",
+   "source_query": "церемония подписания договоров о принятии областей Москва 30 сентября 2022 реальное фото"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "duration_sec": 10.96,
+   "visual_prompt": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "duration_sec": 11.25,
+   "visual_prompt": "американская гаубица M777 на позиции в Украине 2023 реальное фото",
+   "source": "press_photo",
+   "source_query": "американская гаубица M777 на позиции в Украине 2023 реальное фото"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "duration_sec": 11.687,
+   "visual_prompt": "Спасская башня Московского Кремля реальное фото",
+   "source": "press_photo",
+   "source_query": "Спасская башня Московского Кремля реальное фото"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "duration_sec": 14.322,
+   "visual_prompt": "КАРТЫ/ГАЛИЦИЯ/Lviv Oblast highlighted in Ukraine.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ГАЛИЦИЯ/Lviv Oblast highlighted in Ukraine.jpg"
+  },
+  {
+   "id": 74,
+   "text": "",
+   "duration_sec": 13.2,
+   "visual_prompt": "первая страница газеты Financial Times реальное фото",
+   "source": "press_photo",
+   "source_query": "первая страница газеты Financial Times реальное фото"
+  }
+ ]
+}
