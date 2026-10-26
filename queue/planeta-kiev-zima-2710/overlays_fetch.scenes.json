@@ -1,0 +1,100 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "duration_sec": 12.2,
+   "visual_prompt": "масштаб: не одна квартира, а город",
+   "source": "press_photo",
+   "source_query": "тёмный жилой квартал Киева с высоты вечером реальное фото"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 11.837,
+   "visual_prompt": "причина отключений: дым у опор ЛЭП",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КИЕВ-ЭНЕРГЕТИКА/Screenshot_14.jpg"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "duration_sec": 9.92,
+   "visual_prompt": "куда идти, когда розетка не работает",
+   "source": "press_photo",
+   "source_query": "пункт зарядки телефонов на улице Киева зимой реальное фото"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 14.321,
+   "visual_prompt": "как воду привозят в город",
+   "source": "press_photo",
+   "source_query": "автоцистерна с питьевой водой во дворе жилого дома Киева реальное фото"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "duration_sec": 10.847,
+   "visual_prompt": "то самое 'разговаривает с ИИ' из текста",
+   "source": "press_photo",
+   "source_query": "умная колонка с голосовым помощником на столе реальное фото"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "duration_sec": 10.56,
+   "visual_prompt": "уязвимость теплосети",
+   "source": "press_photo",
+   "source_query": "прорыв пара из теплотрассы на улице Киева реальное фото"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "duration_sec": 11.6,
+   "visual_prompt": "ажиотаж, которого не видно в ценнике",
+   "source": "press_photo",
+   "source_query": "пустые полки в супермаркете Киева реальное фото"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "duration_sec": 8.635,
+   "visual_prompt": "что именно защищают резервом",
+   "source": "press_photo",
+   "source_query": "автомобиль скорой помощи у приёмного отделения больницы Киева реальное фото"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "duration_sec": 12.72,
+   "visual_prompt": "откуда вообще берётся тепло",
+   "source": "press_photo",
+   "source_query": "дымящие трубы теплоэлектроцентрали Киева зимой реальное фото"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "duration_sec": 11.883,
+   "visual_prompt": "что стоит за кнопкой лифта",
+   "source": "press_photo",
+   "source_query": "машинное отделение лифта с лебёдкой реальное фото"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "duration_sec": 11.68,
+   "visual_prompt": "деньги тоже становятся недоступны — чего в закрытой витрине не видно",
+   "source": "press_photo",
+   "source_query": "банкомат с погасшим тёмным экраном на улице Киева реальное фото"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "duration_sec": 10.64,
+   "visual_prompt": "контраст: у частного дома запас есть",
+   "source": "press_photo",
+   "source_query": "поленница дров у частного дома зимой реальное фото"
+  }
+ ]
+}
