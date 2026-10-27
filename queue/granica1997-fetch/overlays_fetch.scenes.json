@@ -1,0 +1,76 @@
+{
+ "scenes": [
+  {
+   "id": 9,
+   "text": "",
+   "duration_sec": 12.001,
+   "visual_prompt": "КАРТЫ/ЕВРОПА/Borders Europe Map HD.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЕВРОПА/Borders Europe Map HD.jpg",
+   "_dest": "overlays"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "duration_sec": 11.715,
+   "visual_prompt": "КАРТЫ/ФИНЛЯНДИЯ/Finland in Europe.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ФИНЛЯНДИЯ/Finland in Europe.jpg",
+   "_dest": "overlays"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "duration_sec": 12.375,
+   "visual_prompt": "Юрий Ушаков помощник президента России фото 2026",
+   "source": "press_photo",
+   "source_query": "Юрий Ушаков помощник президента России фото 2026",
+   "_dest": "overlays"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "duration_sec": 12.361,
+   "visual_prompt": "КАРТЫ/ПОЛЬША/Poland map modern.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ПОЛЬША/Poland map modern.jpg",
+   "_dest": "overlays"
+  },
+  {
+   "id": 61,
+   "text": "",
+   "duration_sec": 11.007,
+   "visual_prompt": "КАРТЫ/ЕВРОПА/Europe 2.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЕВРОПА/Europe 2.jpg",
+   "_dest": "overlays"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "duration_sec": 10.512,
+   "visual_prompt": "КАРТЫ/ЛАТВИЯ/Latvia in Europe.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЛАТВИЯ/Latvia in Europe.jpg",
+   "_dest": "overlays"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "duration_sec": 11.572,
+   "visual_prompt": "КАРТЫ/ЭСТОНИЯ/Estonia in Europe.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЭСТОНИЯ/Estonia in Europe.jpg",
+   "_dest": "overlays"
+  },
+  {
+   "id": 74,
+   "text": "",
+   "duration_sec": 11.68,
+   "visual_prompt": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg",
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg",
+   "_dest": "overlays"
+  }
+ ]
+}
