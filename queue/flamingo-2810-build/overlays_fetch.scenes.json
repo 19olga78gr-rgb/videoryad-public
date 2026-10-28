@@ -1,0 +1,93 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 10.8,
+   "visual_prompt": "Всплывашка: кадр поста о сворачивании «Фламинго»",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/Y_HYxqzcV0_sNgVuhMPFuXdeLtfozWjNOMpiLjHt9v1qPjBd000kBau8yJWWVL_jNOP_krhdhTuQEg--RQtuF_AHQDqYI_kkGLtAKaxe9VoMy84xcEoJPGylkAWgteav47WdN5yuvBGw_JSx57vfQV6VkSqNulMLkBqkVDiiVlc0OxIOVuGcft_DkrCMSok5MrDodL9JeBxFJojQkmyEtJ7J7J7rhd6etxE6SGY7FS1Q3OGLPAPEZ5Mf--ubbG7UbYbXvOtQ1xuoQl3bD9xcxxB199iioZiEjiQhpNmpqQfQwqrJWKphG0afkihy7A_twxGgUhvr5WZylBRFp6OH-Q.jpg"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 10.64,
+   "visual_prompt": "Транспортный контейнер для ракеты на складе, Украина, 2025",
+   "source": "press_photo",
+   "source_query": "Транспортный контейнер для ракеты на складе, Украина, 2025"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "duration_sec": 15.04,
+   "visual_prompt": "Тягач с ракетным полуприцепом на дороге, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Тягач с ракетным полуприцепом на дороге, Украина, 2026"
+  },
+  {
+   "id": 33,
+   "text": "",
+   "duration_sec": 7.68,
+   "visual_prompt": "Пусковая установка с ракетой на стартовой позиции, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Пусковая установка с ракетой на стартовой позиции, Украина, 2026"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "duration_sec": 12.05,
+   "visual_prompt": "Всплывашка: второе лицо линии",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на публичном мероприятии, Украина, 2021"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "duration_sec": 13.04,
+   "visual_prompt": "Всплывашка: стенд производителя",
+   "source": "press_photo",
+   "source_query": "Стенд Fire Point на оборонной выставке в Киеве, 2025"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "duration_sec": 14.56,
+   "visual_prompt": "Техники устанавливают полезную нагрузку в головной обтекатель ракеты, 2026",
+   "source": "press_photo",
+   "source_query": "Техники устанавливают полезную нагрузку в головной обтекатель ракеты, 2026"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "duration_sec": 12.88,
+   "visual_prompt": "Всплывашка: что давали прежние возможности",
+   "source": "press_photo",
+   "source_query": "Спутниковый снимок местности с борта аппарата ICEYE, 2023"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "duration_sec": 10.0,
+   "visual_prompt": "Всплывашка: датский партнёр",
+   "source": "press_photo",
+   "source_query": "Йеспер Шталь Хайн, директор специальных проектов GomSpace, Дания, 2026"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "duration_sec": 9.84,
+   "visual_prompt": "Гривневые купюры в руках кассира, Украина, 2025",
+   "source": "press_photo",
+   "source_query": "Гривневые купюры в руках кассира, Украина, 2025"
+  },
+  {
+   "id": 66,
+   "text": "",
+   "duration_sec": 8.4,
+   "visual_prompt": "Колонна военных грузовиков на марше, Украина, 2025",
+   "source": "press_photo",
+   "source_query": "Колонна военных грузовиков на марше, Украина, 2025"
+  }
+ ]
+}

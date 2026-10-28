@@ -1,0 +1,364 @@
+{
+  "anchor": "top",
+  "4": {
+    "photo": "overlays/scene_004.jpg",
+    "at": 3.0,
+    "shape": "rect",
+    "style": "right",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "whoosh",
+    "anchor": "top",
+    "approved": true
+  },
+  "12": {
+    "photo": "overlays/scene_012.jpg",
+    "at": 3.2,
+    "shape": "rect",
+    "style": "left",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "zatvor",
+    "anchor": "top",
+    "approved": true
+  },
+  "30": {
+    "photo": "overlays/scene_030.jpg",
+    "at": 3.0,
+    "shape": "rect",
+    "style": "left",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "ding",
+    "anchor": "top",
+    "approved": true
+  },
+  "33": {
+    "photo": "overlays/scene_033.jpg",
+    "at": 2.3,
+    "shape": "rect",
+    "style": "right",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "pshik",
+    "anchor": "top",
+    "approved": true
+  },
+  "20": {
+    "photo": "overlays/scene_020.jpg",
+    "at": 3.6,
+    "shape": "rect",
+    "style": "left",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "whoosh",
+    "anchor": "top",
+    "approved": true
+  },
+  "42": {
+    "photo": "overlays/scene_042.jpg",
+    "at": 3.0,
+    "shape": "rect",
+    "style": "right",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "zatvor",
+    "anchor": "top",
+    "approved": true
+  },
+  "48": {
+    "photo": "overlays/scene_048.jpg",
+    "at": 3.8,
+    "shape": "rect",
+    "style": "left",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "pop",
+    "anchor": "top",
+    "approved": true
+  },
+  "52": {
+    "photo": "overlays/scene_052.jpg",
+    "at": 3.9,
+    "shape": "rect",
+    "style": "right",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "ding",
+    "anchor": "top",
+    "approved": true
+  },
+  "59": {
+    "photo": "overlays/scene_059.jpg",
+    "at": 3.0,
+    "shape": "rect",
+    "style": "right",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "pshik",
+    "anchor": "middle",
+    "approved": true
+  },
+  "64": {
+    "photo": "overlays/scene_064.jpg",
+    "at": 3.0,
+    "shape": "rect",
+    "style": "right",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "whoosh",
+    "anchor": "top",
+    "approved": true
+  },
+  "66": {
+    "photo": "overlays/scene_066.jpg",
+    "at": 2.5,
+    "shape": "rect",
+    "style": "left",
+    "size": "s",
+    "scale": 1.0,
+    "sound": "zatvor",
+    "anchor": "top",
+    "approved": true
+  },
+  "1": {
+    "text": {
+      "words": "ЧУДО ПО ПЛАНУ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "3": {
+    "text": {
+      "words": "FP-5 «ФЛАМИНГО»",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "7": {
+    "text": {
+      "words": "ИРИНА ТЕРЕХ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "9": {
+    "text": {
+      "words": "ПОЛИТИЧЕСКОЕ ЗАЯВЛЕНИЕ",
+      "color": "green",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "13": {
+    "text": {
+      "words": "FP-5 ПРОДОЛЖАТ РАЗВИВАТЬ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "14": {
+    "text": {
+      "words": "ДЕСЯТКИ МИЛЛИАРДОВ ГРИВЕНЬ",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "15": {
+    "text": {
+      "words": "56 МЛРД ГРН · 2025",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "17": {
+    "text": {
+      "words": "50 МЛРД ГРН · 2026",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "23": {
+    "text": {
+      "words": "ГОСЗАКАЗ · ТЕХНОЛОГИИ · СВЯЗИ",
+      "color": "orange",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "28": {
+    "text": {
+      "words": "500–600 ТЫС. $ ЗА ПУСК",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "29": {
+    "text": {
+      "words": "ДВЕ БАЛЛИСТИЧЕСКИЕ МОДЕЛИ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "32": {
+    "text": {
+      "words": "40–50 ТЫС. $ ЗА ДРОН",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "35": {
+    "text": {
+      "words": "РАЗНИЦА В 10–15 РАЗ",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "47": {
+    "text": {
+      "words": "HIMERA + GOMSPACE",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "49": {
+    "text": {
+      "words": "OBRIA NANO",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "50": {
+    "text": {
+      "words": "1 ОКТЯБРЯ · TRANSPORTER-18",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "54": {
+    "text": {
+      "words": "STARLINK: ТЫСЯЧИ АППАРАТОВ",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "57": {
+    "text": {
+      "words": "ПРОТОТИП, ПОТОМ МАСШТАБ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "63": {
+    "text": {
+      "words": "ОБОРОННЫЙ БЮДЖЕТ = РЕЗУЛЬТАТ",
+      "color": "red",
+      "pos": "mc",
+      "font": "roboto",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "69": {
+    "text": {
+      "words": "РЫВОК ИЛИ НОМЕР ПРОГРАММЫ?",
+      "color": "red",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  }
+}
