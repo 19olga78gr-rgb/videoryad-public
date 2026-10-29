@@ -1,0 +1,265 @@
+{
+  "anchor": "top",
+  "1": {
+    "photo": "overlays/scene_001.jpg",
+    "shape": "rounded",
+    "at": 2.6,
+    "scale": 1.0,
+    "sound": "whoosh",
+    "style": "left",
+    "anchor": "top",
+    "approved": true
+  },
+  "10": {
+    "photo": "overlays/scene_010.jpg",
+    "shape": "rounded",
+    "at": 2.6,
+    "scale": 1.0,
+    "sound": "whoosh",
+    "style": "left",
+    "anchor": "top",
+    "approved": true
+  },
+  "3": {
+    "text": {
+      "words": "ПЯТЬ СУТОК БЕЗ СВЕТА",
+      "color": "red",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "6": {
+    "text": {
+      "words": "ДО ВЕСНЫ СВЕТА НЕ ЖДУТ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "8": {
+    "text": {
+      "words": "ЧЕТЫРЕСТА ТОНН ТОПЛИВА — ПОТРЕБНОСТЬ ГОРОДА",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "9": {
+    "text": {
+      "words": "К ВЕЧЕРУ 28 ОКТЯБРЯ — НЕСКОЛЬКО ТЫСЯЧ АБОНЕНТОВ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "28": {
+    "text": {
+      "words": "ГОРСОВЕТ НАПИСАЛ ПИСЬМО МИЛЛИАРДЕРУ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "33": {
+    "text": {
+      "words": "ЧЕТЫРЕ РАКЕТНЫХ УДАРА ЗА НЕСКОЛЬКО НЕДЕЛЬ",
+      "color": "red",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "34": {
+    "text": {
+      "words": "СЕНТЯБРЬ: БЕЗОПАСНО РАБОТАТЬ НЕЛЬЗЯ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "36": {
+    "text": {
+      "words": "СЕМНАДЦАТЬ ТЫСЯЧ СОТРУДНИКОВ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "38": {
+    "text": {
+      "words": "ХВОСТОХРАНИЛИЩА, ДАМБЫ, ШАХТНЫЕ ВОДЫ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "49": {
+    "text": {
+      "words": "МИЛЛИАРД ГРИВЕН НА ПРОЕКТ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "51": {
+    "text": {
+      "words": "МИНИМУМ ДВА МОБИЛЬНЫХ МОСТА",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "53": {
+    "text": {
+      "words": "МОНТАЖ — ТРИ-ЧЕТЫРЕ МЕСЯЦА",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "60": {
+    "text": {
+      "words": "С ТАКСИ ДОГОВОРИЛИСЬ О ЦЕНАХ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "73": {
+    "text": {
+      "words": "БОЛЬНИЦА НА РЕЗЕРВНОМ ПИТАНИИ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop"
+  },
+  "40": {
+    "photo": "overlays/scene_040.jpg",
+    "shape": "rounded",
+    "at": 2.6,
+    "scale": 1.0,
+    "sound": "whoosh",
+    "style": "right",
+    "anchor": "top",
+    "approved": true
+  },
+  "65": {
+    "photo": "overlays/scene_065.jpg",
+    "shape": "rounded",
+    "at": 2.6,
+    "scale": 1.0,
+    "sound": "whoosh",
+    "style": "left",
+    "anchor": "top",
+    "approved": true
+  },
+  "67": {
+    "photo": "overlays/scene_067.jpg",
+    "shape": "rounded",
+    "at": 2.6,
+    "scale": 1.0,
+    "sound": "whoosh",
+    "style": "left",
+    "anchor": "top",
+    "approved": true
+  },
+  "5": {
+    "photo": "overlays/scene_005.jpg",
+    "shape": "rounded",
+    "at": 2.6,
+    "scale": 1.0,
+    "sound": "whoosh",
+    "style": "left",
+    "anchor": "top",
+    "approved": true
+  },
+  "25": {
+    "photo": "overlays/scene_025.jpg",
+    "shape": "rounded",
+    "at": 2.6,
+    "scale": 1.0,
+    "sound": "whoosh",
+    "style": "left",
+    "anchor": "top",
+    "approved": true
+  },
+  "77": {
+    "photo": "overlays/scene_077.jpg",
+    "shape": "rounded",
+    "at": 2.6,
+    "scale": 1.0,
+    "sound": "whoosh",
+    "style": "left",
+    "anchor": "top",
+    "approved": true
+  }
+}
