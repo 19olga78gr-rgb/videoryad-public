@@ -1,0 +1,218 @@
+[
+ {
+  "scene": 2,
+  "view": "quote",
+  "dur": 13.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Огромная городская машина начинает работать буквально на аварийном питании",
+   "accent": "на аварийном питании",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 7,
+  "view": "cinematic.dossier",
+  "dur": 11.7,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "case": "АРТЁМ СЕМЕНИХИН",
+   "rows": [
+    "Мэр Конотопа, Сумская область",
+    "Повреждённое оборудование фактически уничтожено",
+    "Нормального электроснабжения в городе не ждёт до весны",
+    "Зимой город рассчитывает работать на генераторах"
+   ],
+   "title": "ДОСЬЕ",
+   "photo": "images/scene_006.jpg",
+   "stamp": "КОНОТОП",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 15,
+  "view": "charts.cartogram",
+  "dur": 15.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Сумская область"
+   ],
+   "level": "region",
+   "admin": "Украина",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 19,
+  "view": "film.film_strip",
+  "dur": 8.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "images/scene_012.jpg",
+    "images/scene_023.jpg"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 24,
+  "view": "quote",
+  "dur": 11.3,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Конотоп важен не как коммунальная новость, а как маленький макет большой проблемы",
+   "accent": "маленький макет большой проблемы",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 31,
+  "view": "cinematic.dossier",
+  "dur": 15.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "case": "АРСЕЛОРМИТТАЛ КРИВОЙ РОГ",
+   "rows": [
+    "Один из крупнейших металлургических комплексов страны",
+    "Градообразующее предприятие Кривого Рога",
+    "Часть производственных мощностей повреждена",
+    "Входит в международную группу ArcelorMittal"
+   ],
+   "title": "ДОСЬЕ",
+   "photo": "images/scene_032.jpg",
+   "stamp": "КОНСЕРВАЦИЯ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 35,
+  "view": "film.film_single",
+  "dur": 10.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_045.jpg",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "quote",
+  "dur": 9.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Цена этой игры материализуется не в телевизионных заявлениях, а в городах, заводах и людях",
+   "accent": "в городах, заводах и людях",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 47,
+  "view": "film.film_strip",
+  "dur": 10.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "images/scene_034.jpg",
+    "images/scene_036.jpg",
+    "images/scene_039.jpg"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "cinematic.dossier",
+  "dur": 11.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "case": "МОБИЛЬНЫЙ МОСТ",
+   "rows": [
+    "Сборная переправа из готовых секций",
+    "Ставится быстрее капитального моста",
+    "Нужны подъездные пути и площадка для разгрузки",
+    "Остаётся видимой целью на открытой реке"
+   ],
+   "title": "ДОСЬЕ",
+   "photo": "images/scene_051.jpg",
+   "stamp": "ВРЕМЕННО",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "quote",
+  "dur": 14.3,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Сколько раз можно повторять одну и ту же аварийную операцию, прежде чем временная схема начнёт трещать",
+   "accent": "временная схема начнёт трещать",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 64,
+  "view": "film.film_strip",
+  "dur": 10.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "images/scene_069.jpg",
+    "images/scene_068.jpg",
+    "images/scene_055.jpg"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 79,
+  "view": "quote",
+  "dur": 12.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Территорию на карте можно закрасить за секунду, а город потом восстанавливают годами",
+   "accent": "восстанавливают годами",
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
