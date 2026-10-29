@@ -1,0 +1,60 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "duration_sec": 10.0,
+   "visual_prompt": "БАЗА/БЫТ-УКРАИНА/ЭСКАЛАТОР-КИЕВСКОГО-МЕТРО",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ЭСКАЛАТОР-КИЕВСКОГО-МЕТРО"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "duration_sec": 15.0,
+   "visual_prompt": "троллейбус на улице украинского города 2026",
+   "source": "press_photo",
+   "source_query": "троллейбус на улице украинского города 2026"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "duration_sec": 9.5,
+   "visual_prompt": "БАЗА/БЫТ-УКРАИНА/ПОЛКА-МАГАЗИНА-БУТИЛИРОВАННОЙ",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ПОЛКА-МАГАЗИНА-БУТИЛИРОВАННОЙ"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "duration_sec": 11.8,
+   "visual_prompt": "закрытая витрина магазина в украинском городе 2026",
+   "source": "press_photo",
+   "source_query": "закрытая витрина магазина в украинском городе 2026"
+  },
+  {
+   "id": 71,
+   "text": "",
+   "duration_sec": 9.6,
+   "visual_prompt": "БАЗА/БЫТ-УКРАИНА/РЫНОК-КИЕВЕ-ПРИЛАВОК",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/РЫНОК-КИЕВЕ-ПРИЛАВОК"
+  },
+  {
+   "id": 75,
+   "text": "",
+   "duration_sec": 12.0,
+   "visual_prompt": "радиатор отопления в киевской квартире 2026",
+   "source": "press_photo",
+   "source_query": "радиатор отопления в киевской квартире 2026"
+  },
+  {
+   "id": 79,
+   "text": "",
+   "duration_sec": 12.9,
+   "visual_prompt": "БАЗА/БЫТ-УКРАИНА/ТРАМВАЙ-УЛИЦЕ-КИЕВА",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ТРАМВАЙ-УЛИЦЕ-КИЕВА"
+  }
+ ]
+}
