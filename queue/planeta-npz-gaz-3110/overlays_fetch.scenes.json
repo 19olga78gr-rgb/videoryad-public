@@ -1,0 +1,85 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "автоцистерна у наливной эстакады нефтебазы США 2026",
+   "source": "press_photo",
+   "source_query": "автоцистерна у наливной эстакады нефтебазы США 2026"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "Джейми Раскин конгрессмен США 2026",
+   "source": "press_photo",
+   "source_query": "Джейми Раскин конгрессмен США 2026"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "Ричард Блюменталь сенатор США 2026",
+   "source": "press_photo",
+   "source_query": "Ричард Блюменталь сенатор США 2026"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "завод по сжижению природного газа Ямал СПГ 2026",
+   "source": "press_photo",
+   "source_query": "завод по сжижению природного газа Ямал СПГ 2026"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "Кирилл Буданов глава ГУР Украины 2026",
+   "source": "press_photo",
+   "source_query": "Кирилл Буданов глава ГУР Украины 2026"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "газоизмерительная площадка подземного газохранилища Украины 2026",
+   "source": "press_photo",
+   "source_query": "газоизмерительная площадка подземного газохранилища Украины 2026"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "нефтеперерабатывающий завод в Техасе США 2026",
+   "source": "press_photo",
+   "source_query": "нефтеперерабатывающий завод в Техасе США 2026"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "здание Сейма Польши Варшава 2026",
+   "source": "press_photo",
+   "source_query": "здание Сейма Польши Варшава 2026"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "труба газопровода Северный поток на берегу Балтики 2026",
+   "source": "press_photo",
+   "source_query": "труба газопровода Северный поток на берегу Балтики 2026"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "duration_sec": 8,
+   "visual_prompt": "высоковольтная линия электропередачи опора 2026",
+   "source": "press_photo",
+   "source_query": "высоковольтная линия электропередачи опора 2026"
+  }
+ ]
+}
