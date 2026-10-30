@@ -1,0 +1,715 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0,
+   "duration_sec": 10,
+   "visual_prompt": "Путин на дискуссионной площадке — та Россия, вокруг которой строили стену",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/НПЗ-ГАЗ-ЭНЕРГЕТИКА/08_2026_kremlin_va8UQH.mp4",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 10,
+   "duration_sec": 9.7,
+   "visual_prompt": "Зал заседаний НАТО — это и есть «Европа орёт»",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЗАСЕДАНИЙ-НАТО",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 19.7,
+   "duration_sec": 9.9,
+   "visual_prompt": "Трамп отвечает журналистам во время пресс-подхода",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/РФ-США-ЭНЕРГЕТИКА-БИЗНЕС/30_2025_WhiteHouse_nMxzGw.mp4",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 29.6,
+   "duration_sec": 10.1,
+   "visual_prompt": "Причалы Новороссийска и грузовые суда в современной портовой акватории",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ПОРТ-НОВОРОССИЙСКА-ПРИЧАЛЫ",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 39.7,
+   "duration_sec": 9.8,
+   "visual_prompt": "Морской терминал СПГ с трубными эстакадами и причалом",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ГАЗОВЫЙ-ТЕРМИНАЛ-СПГ",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 49.5,
+   "duration_sec": 9.9,
+   "visual_prompt": "Путин подписывает бумаги за рабочим столом, широкий план кабинета",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/РФ-США-ЭНЕРГЕТИКА-БИЗНЕС/05_2026_kremlin_Khs3iw.mp4",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 59.4,
+   "duration_sec": 10,
+   "visual_prompt": "Наливной терминал у причала — то, что везут танкеры",
+   "source": "press_photo",
+   "source_query": "нефтеналивной терминал причал погрузка судна 2026",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 69.4,
+   "duration_sec": 9.8,
+   "visual_prompt": "Плотный поток автомобилей движется по американскому хайвею",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ХАЙВЕЙ-США-ПОТОК",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 79.2,
+   "duration_sec": 10.1,
+   "visual_prompt": "Зал заседаний НАТО — там и показывают пальцем на теневой флот",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЗАСЕДАНИЙ-НАТО",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 89.3,
+   "duration_sec": 9.7,
+   "visual_prompt": "Белый дом со стороны Южного газона, современный дневной кадр",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БЕЛЫЙ-ДОМ-СО",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 99,
+   "duration_sec": 10,
+   "visual_prompt": "Купол Капитолия в Вашингтоне в ясный день",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КАПИТОЛИЙ-ВАШИНГТОНЕ-ДНЁМ",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 109,
+   "duration_sec": 9.9,
+   "visual_prompt": "Современный брифинг-зал Белого дома перед выступлением",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 118.9,
+   "duration_sec": 9.8,
+   "visual_prompt": "Трамп во время официального общения с прессой",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ТРАМП",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 128.7,
+   "duration_sec": 10.1,
+   "visual_prompt": "Путин выступает на международном арктическом форуме",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/РФ-США-ЭНЕРГЕТИКА-БИЗНЕС/16_2025_kremlin_97I42p.mp4",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 138.8,
+   "duration_sec": 9.7,
+   "visual_prompt": "Современная газовая станция с протяжёнными трубными линиями",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ГАЗОВАЯ-КОМПРЕССОРНАЯ-СТАНЦИЯ",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 148.5,
+   "duration_sec": 10,
+   "visual_prompt": "Путин отвечает на вопрос американского журналиста",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/РФ-США-ЭНЕРГЕТИКА-БИЗНЕС/07_2024_kremlin_ncPW2p.mp4",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 158.5,
+   "duration_sec": 9.9,
+   "visual_prompt": "Дом правительства России на набережной, современный общий вид",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ДОМ-ПРАВИТЕЛЬСТВА-РОССИИ",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 168.4,
+   "duration_sec": 9.8,
+   "visual_prompt": "Московский Кремль со стороны набережной днём",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/МОСКОВСКИЙ-КРЕМЛЬ-СО",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 178.2,
+   "duration_sec": 10.1,
+   "visual_prompt": "Второй ракурс нефтеперерабатывающего комплекса с факелом",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/НЕФТЕПЕРЕРАБАТЫВАЮЩИЙ-ЗАВОД-ФАКЕЛ",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 188.3,
+   "duration_sec": 9.7,
+   "visual_prompt": "Здание МИД России на Смоленской площади, современный фасад",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ЗДАНИЕ-МИД-РОССИИ",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 198,
+   "duration_sec": 10,
+   "visual_prompt": "Самолёт Air Force One движется по рулёжной дорожке",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/САМОЛЁТ-AIR-FORCE",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 208,
+   "duration_sec": 9.9,
+   "visual_prompt": "Кирилл Дмитриев, названный в этой фразе посредник",
+   "source": "press_photo",
+   "source_query": "Кирилл Дмитриев глава РФПИ выступление 2026",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 217.9,
+   "duration_sec": 9.8,
+   "visual_prompt": "Порт Гамбурга с воздуха, контейнеровоз стоит у причала",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ПОРТ-ГАМБУРГА-ВОЗДУХА",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 227.7,
+   "duration_sec": 9.5,
+   "visual_prompt": "Морская платформа сахалинского проекта — где США хотят зарабатывать",
+   "source": "press_photo",
+   "source_query": "морская нефтяная платформа Сахалин добыча 2026",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 237.2,
+   "duration_sec": 12.2,
+   "visual_prompt": "Фасад Министерства финансов США в Вашингтоне, октябрь 2026 года",
+   "source": "press_photo",
+   "source_query": "Министерство финансов США фасад Вашингтон октябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 249.4,
+   "duration_sec": 12.3,
+   "visual_prompt": "Досье на Стива Уиткоффа и Джареда Кушнера как американских участников экономического диалога",
+   "source": "card:doc",
+   "source_query": "карточка «doc» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 261.7,
+   "duration_sec": 12.6,
+   "visual_prompt": "Офис президента Украины на Банковой, современный дневной кадр",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ОФИС-ПРЕЗИДЕНТА-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 274.3,
+   "duration_sec": 12.5,
+   "visual_prompt": "Берлаймон в Брюсселе, фасад Еврокомиссии в 2026 году",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-БЕРЛАЙМОН-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 286.8,
+   "duration_sec": 12.4,
+   "visual_prompt": "Современная газоизмерительная станция украинской транспортной сети",
+   "source": "press_photo",
+   "source_query": "газоизмерительная станция Украины современный комплекс 2026",
+   "overlays": []
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 299.2,
+   "duration_sec": 12.2,
+   "visual_prompt": "Зеленский во время срочного рабочего совещания",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ЗЕЛЕНСКИЙ",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 311.4,
+   "duration_sec": 12.3,
+   "visual_prompt": "Фасад Верховной Рады в Киеве, современный общий вид",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ФАСАД-ЗДАНИЯ-ВЕРХОВНОЙ",
+   "overlays": []
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 323.7,
+   "duration_sec": 12.6,
+   "visual_prompt": "Городская трансформаторная подстанция за металлической сеткой",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ТРАНСФОРМАТОРНАЯ-ПОДСТАНЦИЯ-СЕТКОЙ",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 336.3,
+   "duration_sec": 12.5,
+   "visual_prompt": "Угольная электростанция Германии с трубами и клубами пара",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/УГОЛЬНАЯ-ЭЛЕКТРОСТАНЦИЯ-ГЕРМАНИИ",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 348.8,
+   "duration_sec": 12.4,
+   "visual_prompt": "Ветропарк в Северном море, вид с воздуха",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ВЕТРОПАРК-СЕВЕРНОМ-МОРЕ",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 361.2,
+   "duration_sec": 12.2,
+   "visual_prompt": "Второй современный ракурс комплекса Еврокомиссии в Брюсселе",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-БЕРЛАЙМОН-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 373.4,
+   "duration_sec": 12.3,
+   "visual_prompt": "Промежуточная насосная станция европейской энергетической сети",
+   "source": "web_search",
+   "source_query": "промежуточная насосная станция европейской энергетической сети 2026",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 385.7,
+   "duration_sec": 12.6,
+   "visual_prompt": "Цитатная карточка о противоречии между европейскими заявлениями и закупками",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 398.3,
+   "duration_sec": 12.5,
+   "visual_prompt": "Газовый терминал СПГ — Нидерланды среди крупных покупателей",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ГАЗОВЫЙ-ТЕРМИНАЛ-СПГ",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 410.8,
+   "duration_sec": 12.4,
+   "visual_prompt": "Грузовой поезд с контейнерами на европейской магистрали",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ГРУЗОВОЙ-ПОЕЗД-КОНТЕЙНЕРАМИ",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 423.2,
+   "duration_sec": 12.2,
+   "visual_prompt": "Нефтеперерабатывающий завод сверху, установки и трубы",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/НЕФТЬ:нефтезавод",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 435.4,
+   "duration_sec": 12.3,
+   "visual_prompt": "Факел и колонны НПЗ — объект удара",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/НЕФТЕПЕРЕРАБАТЫВАЮЩИЙ-ЗАВОД-ФАКЕЛ",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 447.7,
+   "duration_sec": 12.6,
+   "visual_prompt": "Промзона нефтепереработки сверху — выросший выпуск",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/НЕФТЬ:промзона",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 460.3,
+   "duration_sec": 12.5,
+   "visual_prompt": "Танкер с нефтепродуктами пересекает Атлантику в 2026 году",
+   "source": "press_photo",
+   "source_query": "танкер с нефтепродуктами в Атлантике 2026",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 472.8,
+   "duration_sec": 12.4,
+   "visual_prompt": "Второй ракурс контейнерных причалов Лос-Анджелеса с океанским судном",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КОНТЕЙНЕРНЫЙ-ПОРТ-ЛОС-АНДЖЕЛЕСА",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 485.2,
+   "duration_sec": 12.2,
+   "visual_prompt": "Кабинет министров Украины на Грушевского, современный фасад",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/КАБИНЕТ-МИНИСТРОВ-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 497.4,
+   "duration_sec": 12.3,
+   "visual_prompt": "БАЗА/УНИВЕРСАЛЬНОЕ/ПОЖАРНЫЕ-РАСЧЁТЫ-ЗДАНИЯ",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ПОЖАРНЫЕ-РАСЧЁТЫ-ЗДАНИЯ",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 509.7,
+   "duration_sec": 12.6,
+   "visual_prompt": "флаги США в Овальном кабинете Белого дома 2026",
+   "source": "press_photo",
+   "source_query": "флаги США в Овальном кабинете Белого дома 2026",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 522.3,
+   "duration_sec": 12.5,
+   "visual_prompt": "Современный комплекс Министерства торговли США в Вашингтоне",
+   "source": "press_photo",
+   "source_query": "Министерство торговли США Вашингтон фасад 2026",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 534.8,
+   "duration_sec": 12.4,
+   "visual_prompt": "Карточка-дуэль: две модели будущего",
+   "source": "card:duel",
+   "source_query": "карточка «duel» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 547.2,
+   "duration_sec": 12.2,
+   "visual_prompt": "Магистральный трубопровод — та самая труба транзита",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/НЕФТЬ:трубопровод",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 559.4,
+   "duration_sec": 12.3,
+   "visual_prompt": "Польский фермер работает на поле рядом с трактором",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ФЕРМЕР-ПОЛЕ-ПОЛЬШИ",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 571.7,
+   "duration_sec": 12.6,
+   "visual_prompt": "Фуры ожидают въезда на складской терминал в Польше",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ФУРЫ-ОЧЕРЕДИ-СКЛАДСКОМ",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 584.3,
+   "duration_sec": 12.5,
+   "visual_prompt": "Федеральный верховный суд Германии Карлсруэ здание 2026",
+   "source": "press_photo",
+   "source_query": "Федеральный верховный суд Германии Карлсруэ здание 2026",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 596.8,
+   "duration_sec": 12.4,
+   "visual_prompt": "Судно технического обследования работает в Балтийском море",
+   "source": "web_search",
+   "source_query": "судно технического обследования в Балтийском море 2026",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 609.2,
+   "duration_sec": 12.2,
+   "visual_prompt": "Крупный энергетический объект — тот самый предмет прецедента",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ГАЗОВАЯ-КОМПРЕССОРНАЯ-СТАНЦИЯ",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 621.4,
+   "duration_sec": 12.3,
+   "visual_prompt": "Второй ракурс угольной электростанции Германии с градирнями",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/УГОЛЬНАЯ-ЭЛЕКТРОСТАНЦИЯ-ГЕРМАНИИ",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 633.7,
+   "duration_sec": 12.6,
+   "visual_prompt": "Второй вид причалов Новороссийска с судами и промышленными сооружениями",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ПОРТ-НОВОРОССИЙСКА-ПРИЧАЛЫ",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 646.3,
+   "duration_sec": 12.5,
+   "visual_prompt": "Второй воздушный вид Гамбурга с контейнеровозом у причала",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ПОРТ-ГАМБУРГА-ВОЗДУХА",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 658.8,
+   "duration_sec": 12.4,
+   "visual_prompt": "Подстанция за сеткой — энергообъект как бизнес и как цель",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ТРАНСФОРМАТОРНАЯ-ПОДСТАНЦИЯ-СЕТКОЙ",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 671.2,
+   "duration_sec": 12.2,
+   "visual_prompt": "Министерство транспорта Турции в Анкаре, современный фасад",
+   "source": "press_photo",
+   "source_query": "Министерство транспорта Турции Анкара фасад 2026",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 683.4,
+   "duration_sec": 12.3,
+   "visual_prompt": "Торговое судно проходит через Чёрное море у Босфора",
+   "source": "web_search",
+   "source_query": "торговое судно в Чёрном море у Босфора 2026",
+   "overlays": []
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 695.7,
+   "duration_sec": 12.6,
+   "visual_prompt": "Кружки стран Чёрного моря: Румыния, Болгария, Турция и Греция",
+   "source": "card:bubbles",
+   "source_query": "карточка «bubbles» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 708.3,
+   "duration_sec": 12.5,
+   "visual_prompt": "Контейнеровоз проходит Босфор среди буксиров",
+   "source": "press_photo",
+   "source_query": "контейнеровоз проходит Босфор современная морская перевозка 2026",
+   "overlays": []
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 720.8,
+   "duration_sec": 12.4,
+   "visual_prompt": "Прилавок немецкого супермаркета с покупателями у полок",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ПРИЛАВОК-НЕМЕЦКОГО-СУПЕРМАРКЕТА",
+   "overlays": []
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 733.2,
+   "duration_sec": 12.2,
+   "visual_prompt": "Полукруг Европарламента в Страсбурге во время современной сессии",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЕВРОПАРЛАМЕНТА-СТРАСБУРГЕ",
+   "overlays": []
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 745.4,
+   "duration_sec": 12.3,
+   "visual_prompt": "Второй современный ракурс Капитолия в Вашингтоне",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КАПИТОЛИЙ-ВАШИНГТОНЕ-ДНЁМ",
+   "overlays": []
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 757.7,
+   "duration_sec": 12.6,
+   "visual_prompt": "Второй поток автомобилей на многоуровневом американском хайвее",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ХАЙВЕЙ-США-ПОТОК",
+   "overlays": []
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 770.3,
+   "duration_sec": 12.5,
+   "visual_prompt": "Контейнерный порт — американские деньги в чистом виде",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КОНТЕЙНЕРНЫЙ-ПОРТ-ЛОС-АНДЖЕЛЕСА",
+   "overlays": []
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 782.8,
+   "duration_sec": 12.4,
+   "visual_prompt": "Трамп во время современного пресс-подхода у Белого дома",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ТРАМП",
+   "overlays": []
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 795.2,
+   "duration_sec": 12,
+   "visual_prompt": "Брифинг-зал Белого дома, трибуна с эмблемой",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА",
+   "overlays": []
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 807.2,
+   "duration_sec": 9.5,
+   "visual_prompt": "Финальная цитатная карточка о мелком шрифте у принципов",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  }
+ ]
+}
