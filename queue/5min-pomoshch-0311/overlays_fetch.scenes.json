@@ -1,0 +1,93 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "Джорджа Мелони на пресс-конференции в Риме 2026",
+   "source": "press_photo",
+   "source_query": "Джорджа Мелони на пресс-конференции в Риме 2026"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "Маттео Сальвини на пресс-конференции Рим 2026",
+   "source": "press_photo",
+   "source_query": "Маттео Сальвини на пресс-конференции Рим 2026"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "Антонио Таяни глава МИД Италии 2026",
+   "source": "press_photo",
+   "source_query": "Антонио Таяни глава МИД Италии 2026"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "страница газеты Berliner Zeitung с материалом о Кае Каллас реальное фото",
+   "source": "web_search",
+   "source_query": "страница газеты Berliner Zeitung с материалом о Кае Каллас реальное фото"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "КАРТЫ/БЛИЖНИЙ ВОСТОК",
+   "source": "local_library",
+   "source_query": "КАРТЫ/БЛИЖНИЙ ВОСТОК"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "кассир пересчитывает фунты в окошке британского банка",
+   "source": "press_photo",
+   "source_query": "кассир пересчитывает фунты в окошке британского банка"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "ПОЛИТИКА/ПВО-укр",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПВО-укр"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "Financial Times публикация о кризисе финансирования Украины 2026",
+   "source": "web_search",
+   "source_query": "Financial Times публикация о кризисе финансирования Украины 2026"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "КАРТЫ/УКРАИНА",
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА"
+  },
+  {
+   "id": 58,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "эмблема Военно-воздушных сил США на здании штаба",
+   "source": "press_photo",
+   "source_query": "эмблема Военно-воздушных сил США на здании штаба"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "duration_sec": 3.0,
+   "visual_prompt": "Дональд Трамп пресс-подход 2026",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп пресс-подход 2026"
+  }
+ ]
+}
