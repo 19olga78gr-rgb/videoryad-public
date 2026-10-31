@@ -1,0 +1,95 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 8,
+   "text": "",
+   "duration_sec": 13.915,
+   "visual_prompt": "Карта Донбасса: где именно спорят о территориях",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ДОНБАСС",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 9.2,
+   "visual_prompt": "Карта мира: три участника основного формата",
+   "source": "local_library",
+   "source_query": "КАРТЫ/МИР",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "duration_sec": 12.48,
+   "visual_prompt": "Карта Европы: страны, которые остались за дверью",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЕВРОПА",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "duration_sec": 9.6,
+   "visual_prompt": "Карта России: где стоят заводы, по которым идут удары",
+   "source": "local_library",
+   "source_query": "КАРТЫ/РОССИЯ",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "duration_sec": 9.311,
+   "overlays": [],
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/s0MNSNVq5qCKNeOcGw5e-OFIrtv5GyuTA_VWK0_yVpL8fVpNFNvE8TjYNnMdmc1zj57FRA4cpD1OGSUHHN0z4Nu5Ws-JfM4D2cDuxgVUu7GAXkE9Po55d6mlpItAEzLrOf45mPjp3Ld9-zoJUMzdOm1hl8qfZQ3XjuPCPdgiKdLgnyAGARim_Cs5mlEPQuyj-Byi-qWzfcQPjukhcsQnljoFHGeRhNDb1uGEnlFRM2KB0w3Pf21L7aXoSbVs_HKDpPUsdAmGzUDo5vFBlrBJKxmIpIsr-NVkYYx1U-Dtw-wJflyxnnfPy8QjyNeY2Mh1wLMrc7pU3x-H_Ai5ZyiLYg.jpg",
+   "visual_prompt": "вложение поста-источника https://t.me/OstashkoNews/227685"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "duration_sec": 12.48,
+   "overlays": [],
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/TGUQ3iq97V3VgGWL83AcsXXNQ_Sm1mr7pKoeMhzIy318YHWRwyww_CowBCh41xBsanleqNh5BBNiNjvdFGBiuZ7fGYn-SZBGyqdFTdAu3RGEneHF0uRGBfg62coFFF1PJmMVsn4VPJWLsHKI8IETssW-8Ab-gYg8lpABwUIH3XVAddFQg0PXOWPQ_Sm3xSvxeLtkrZBzptS7uX35bU4Pwg4zCRb6Mo-9LxFpjAzcpWyNGzbfe0Awmi8OUV-H_LO_xjXG1v1A77QWozYT5m63OyE9sIMQDNPwI4YkMGuuTFtv7PX0dVcU0OEX4KN8xjtfRmX2c04qSJDoPYrxesz1fw.jpg",
+   "visual_prompt": "вложение поста-источника https://t.me/OstashkoNews/227651"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "duration_sec": 12.026,
+   "overlays": [],
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/t6HVeq2Hd9Y9O3iPDkFrui6beY7bmxmgGIMARz4xZk1EMYicScCh5flRxqPayMs18TMs8oxI455z49BRNBVr5ooj2d9biK3PcMVKR3XNHS2ceCzYD67syhq85ZiLGzCStAhveqF2ln35rXfIXRLD3m9985q-PxSyN8YE7lzmmDNgOBqBFVuboWFHUXfxudpEB_iv4ceKpmc3hKoLfOSTkOkUC7KXru1mqiPIqnNfXjizREQEBoEjb8YGDM7ncSFA3JCIYbDaI4kNdhDoRFe5iJUe-XtTqHU60WZ_NRKRoGRK0nuw4hFj6_S5QGcutYIADYf1XKGXu4J6annXXWrblQ.jpg",
+   "visual_prompt": "карта линии фронта из поста-источника"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "duration_sec": 11.12,
+   "visual_prompt": "Чем именно помогают: ящики боеприпасов на складе",
+   "source": "press_photo",
+   "source_query": "ящики с боеприпасами на складе военной помощи Украине, 2026",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "duration_sec": 12.046,
+   "visual_prompt": "Карта Украины: территория, на которой считается цена времени",
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "duration_sec": 12.56,
+   "overlays": [],
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/Lj838reUmKMB-UrIj9EPUGq2WzQXTm7WfwHBg9oxVWSER2ujnAQK6aDiY85UnbQnEjsLrrjmj9GLsbgGl495mBJTLSX3UgsLJP2O35LbzvFyGuSYMzSYClINEi25TBrlKnaii1TSQXQweUmPnUGfvhqdwyuL9lnMp-ZUjGhwup2CjtagdPaq0P6RMoY2HRZ77APX8V32L3FUYisBdzByIj5wcJuVf8WCRM-Mi5vq9IE_j2CExK3n7xrF5G4ATGLg1CUG3Sb19cP1bfs8zuVlj0r-45-J10EDl3UxjOIN2oQjf-cDoOsth8ftu_yHoC1vQfaFkRYksy2zVgNyA0Y8LQ.jpg",
+   "visual_prompt": "вложение поста-источника https://t.me/OstashkoNews/227436"
+  }
+ ]
+}
