@@ -1,0 +1,227 @@
+{
+ "anchor": "top",
+ "8": {
+  "photo": "overlays/scene_008.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "ТЕРРИТОРИИ",
+   "color": "white",
+   "pos": "tc",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "12": {
+  "photo": "overlays/scene_012.jpg",
+  "sound": "zatvor",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "РОССИЯ · США · УКРАИНА",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.5,
+   "scale": 1.0
+  }
+ },
+ "16": {
+  "photo": "overlays/scene_016.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "ОСТАЛЬНЫЕ — ЗА ДВЕРЬЮ",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.0,
+   "scale": 1.0
+  }
+ },
+ "19": {
+  "photo": "overlays/scene_019.jpg",
+  "sound": "whoosh",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "УДАРЫ ПО НПЗ",
+   "color": "red",
+   "pos": "tc",
+   "at": 3.0,
+   "scale": 1.0
+  }
+ },
+ "32": {
+  "photo": "overlays/scene_032.jpg",
+  "sound": "zatvor",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "text": {
+   "words": "ВРЕМЯ НЕ ДАРИТ БЕСПЛАТНО",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.5,
+   "scale": 1.0
+  }
+ },
+ "33": {
+  "photo": "overlays/scene_033.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "1": {
+  "text": {
+   "words": "РАЗГОВАРИВАТЬ НЕ БУДУ",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "4": {
+  "text": {
+   "words": "УКАЗ 2022 ГОДА",
+   "color": "red",
+   "pos": "mc",
+   "at": 3.0,
+   "scale": 1.0
+  }
+ },
+ "5": {
+  "text": {
+   "words": "ГОТОВ НА ЛИЧНУЮ ВСТРЕЧУ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.0,
+   "scale": 1.0
+  }
+ },
+ "10": {
+  "text": {
+   "words": "АБУ-ДАБИ",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "13": {
+  "text": {
+   "words": "ЕВРОПА ИЩЕТ ВХОД",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.0,
+   "scale": 1.0
+  }
+ },
+ "15": {
+  "text": {
+   "words": "ФОРМАТ Е3",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.0,
+   "scale": 1.0
+  }
+ },
+ "20": {
+  "text": {
+   "words": "ТРАМП ТРЕБОВАЛ ПРЕКРАТИТЬ",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.5,
+   "scale": 1.0
+  }
+ },
+ "22": {
+  "text": {
+   "words": "ПЕРЕГОВОРЫ ПРОДОЛЖАЮТСЯ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.0,
+   "scale": 1.0
+  }
+ },
+ "26": {
+  "text": {
+   "words": "НЕ ПЕРЕМИРИЕ, А МИР",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 3.0,
+   "scale": 1.0
+  }
+ },
+ "28": {
+  "text": {
+   "words": "РАКЕТЫ БУДУТ НОВЫЕ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.0,
+   "scale": 1.0
+  }
+ },
+ "35": {
+  "text": {
+   "words": "КРАСНАЯ ЛИНИЯ ГНЁТСЯ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.0,
+   "scale": 1.0
+  }
+ },
+ "36": {
+  "text": {
+   "words": "С ЕВРОПОЙ ПЕРЕГОВОРОВ НЕТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.0,
+   "scale": 1.0
+  }
+ },
+ "39": {
+  "text": {
+   "words": "ВОПРОС О ПОДПИСИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.0,
+   "scale": 1.0
+  }
+ },
+ "42": {
+  "text": {
+   "words": "ПОВЕДЕНИЕ УЖЕ МЕНЯЕТСЯ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.0,
+   "scale": 1.0
+  }
+ },
+ "46": {
+  "text": {
+   "words": "МЕСТО ЗА СТОЛОМ?",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.0,
+   "scale": 1.0
+  }
+ }
+}
