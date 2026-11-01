@@ -1,0 +1,686 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 15.64,
+   "visual_prompt": "Л1 — закрытый вход в Кабинет министров Украины ранним утром",
+   "source": "press_photo",
+   "source_query": "закрытый вход в Кабинет министров Украины ранним утром",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 15.64,
+   "duration_sec": 9.36,
+   "visual_prompt": "Л2 — свежая политическая хроника России с совещаниями и официальными поездками",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/РОССИЯ",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 25.0,
+   "duration_sec": 12.8,
+   "visual_prompt": "Л1 — Андрей Сибига выступает перед прессой в Киеве",
+   "source": "press_photo",
+   "source_query": "Андрей Сибига выступает в МИД Украины, Киев, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 37.8,
+   "duration_sec": 9.281,
+   "visual_prompt": "ПОЛИТИКА/УКРАИНА ВСУ и Азов",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/УКРАИНА ВСУ и Азов",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 47.081,
+   "duration_sec": 8.879,
+   "visual_prompt": "Л2 — портрет Дмитрия Пескова крупным планом",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/ow6dWZL0r1d3zuCIOz6sTueQzWCWJet2XuYg2s4TFr0sRG0clncjnLkPwqokanxjrqgobDZuDri5_yAUn8wqAco7Xg4xTRTLYM9yo9Hz8ibCc7NC2yadlE3WRjz3xbw8-UnMZCBVjibywxuzwgBUkg4OS7Pa7_MQ4radb9mD2aAFYqcj1zTET8-bnQDTBhUa9ons2jCf3t2bepjcTpmPonrmbPaKfauyIAyqA9lRxfRrmolXHU8LJj80n1dPDA4l9J6xbwKmLSoJJQCzrOnnKvilrxF9-UAI9-dkfK8ednwXns-Ika_hVOrUWlQZhx_AXSwvbEFRJ_u4jXuBiOpDsA.jpg",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 55.96,
+   "duration_sec": 8.4,
+   "visual_prompt": "Л2 — Владимир Путин проводит рабочее совещание",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ПУТИН",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 64.36,
+   "duration_sec": 9.155,
+   "visual_prompt": "Л2 — российская официальная хроника с протокольными встречами",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПУТИН",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 73.515,
+   "duration_sec": 13.052,
+   "visual_prompt": "Л1 — служебные автомобили у Офиса президента Украины перед вечерним совещанием",
+   "source": "press_photo",
+   "source_query": "служебные автомобили у Офиса президента Украины, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 86.567,
+   "duration_sec": 9.3,
+   "visual_prompt": "Л4 — военнослужащая идёт по коридору штаба НАТО после брифинга",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 95.867,
+   "duration_sec": 11.693,
+   "visual_prompt": "Л1 — депутаты Верховной Рады на рабочих местах во время обсуждения",
+   "source": "press_photo",
+   "source_query": "депутаты Верховной Рады в рабочих креслах, Киев, 2026",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 107.56,
+   "duration_sec": 9.645,
+   "visual_prompt": "Л4 — бронетехника НАТО движется по полигону",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/УЧЕНИЯ-НАТО-БРОНЕТЕХНИКА",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 117.205,
+   "duration_sec": 12.171,
+   "visual_prompt": "Л5 — украинская радиолокационная станция развёрнута возле военной дороги",
+   "source": "press_photo",
+   "source_query": "украинская радиолокационная станция возле военной дороги, 2026",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 129.376,
+   "duration_sec": 9.311,
+   "visual_prompt": "Л5 — украинская система противовоздушной обороны меняет позицию",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПВО-укр",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 138.687,
+   "duration_sec": 10.639,
+   "visual_prompt": "Л5 — мобильная установка украинской ПВО движется по шоссе",
+   "source": "press_photo",
+   "source_query": "пусковая установка украинской ПВО на марше, 2026",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 149.326,
+   "duration_sec": 9.05,
+   "visual_prompt": "Л1 — Зеленский выступает на совещании по вопросам вооружений",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ЗЕЛЕНСКИЙ",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 158.376,
+   "duration_sec": 9.042,
+   "visual_prompt": "Л5 — украинские военные и техника перемещаются по дороге",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/УКРАИНА ВСУ и Азов",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 167.418,
+   "duration_sec": 9.117,
+   "visual_prompt": "памятник Степану Бандере в украинском городе, общий вид, 2026",
+   "source": "press_photo",
+   "source_query": "памятник Степану Бандере в украинском городе, общий вид, 2026",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 176.535,
+   "duration_sec": 8.801,
+   "visual_prompt": "пустой постамент на месте снесённого памятника в украинском городе, 2026",
+   "source": "press_photo",
+   "source_query": "пустой постамент на месте снесённого памятника в украинском городе, 2026",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 185.336,
+   "duration_sec": 17.916,
+   "visual_prompt": "Киево-Печерская лавра в Киеве, общий вид, 2026",
+   "source": "press_photo",
+   "source_query": "Киево-Печерская лавра в Киеве, общий вид, 2026",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 203.252,
+   "duration_sec": 8.915,
+   "visual_prompt": "Л1 — Зеленский выступает перед представителями украинской власти",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЗЕЛЕНСКИЙ",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 212.167,
+   "duration_sec": 19.219,
+   "visual_prompt": "Л5 — колонна бронетехники ВСУ на марше, документальная съёмка",
+   "source": "press_photo",
+   "source_query": "колонна бронетехники ВСУ на шоссе, съёмка с земли, 2026",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 231.386,
+   "duration_sec": 17.339,
+   "visual_prompt": "Л7 — карта регионов с выделенными Крымом, Севастополем, Донецкой, Луганской, Запорожской и Херсонской областями",
+   "source": "card:map_regions",
+   "source_query": "карточка «map_regions» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 248.725,
+   "duration_sec": 7.171,
+   "visual_prompt": "Л7 — город Запорожской области, обычная улица",
+   "source": "press_photo",
+   "source_query": "Мелитополь, центральная улица города, 2026",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 255.896,
+   "duration_sec": 6.8,
+   "visual_prompt": "Л7 — блокпост на въезде в Донецк",
+   "source": "press_photo",
+   "source_query": "блокпост с бетонными блоками на въезде в Донецк, съёмка с земли, 2026",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 262.696,
+   "duration_sec": 6.32,
+   "visual_prompt": "Л2 — Московский Кремль со стороны реки в пасмурный день",
+   "source": "press_photo",
+   "source_query": "Кремль со стороны Москвы-реки, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 269.016,
+   "duration_sec": 7.548,
+   "visual_prompt": "украинский ударный беспилотник на пусковой катапульте, 2026",
+   "source": "press_photo",
+   "source_query": "украинский ударный беспилотник на пусковой катапульте, 2026",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 276.564,
+   "duration_sec": 8.24,
+   "visual_prompt": "Л5 — украинский военный самолёт готовится к вылету",
+   "source": "press_photo",
+   "source_query": "военный самолёт Украины на аэродроме, 2026",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 284.804,
+   "duration_sec": 6.24,
+   "visual_prompt": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ИСТРЕБИТЕЛЬ-EUROFIGHTER-РУЛЁЖКЕ",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ИСТРЕБИТЕЛЬ-EUROFIGHTER-РУЛЁЖКЕ",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 291.044,
+   "duration_sec": 4.956,
+   "visual_prompt": "Л1 — Кабинет министров Украины на улице Грушевского",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/КАБИНЕТ-МИНИСТРОВ-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 296.0,
+   "duration_sec": 4.917,
+   "visual_prompt": "Л1 — фасад Офиса президента Украины на Банковой",
+   "source": "press_photo",
+   "source_query": "Офис президента Украины на Банковой, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 300.917,
+   "duration_sec": 20.002,
+   "visual_prompt": "Л8 — карточка с пятью авторскими вопросами без ответов",
+   "source": "card:bullets",
+   "source_query": "карточка «bullets» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "bullets",
+    "kick": "ВОПРОСЫ БЕЗ ОТВЕТОВ",
+    "lines": [
+     "Зеленский останется у власти?",
+     "Антирусская линия исчезнет?",
+     "Снесённые памятники вернут?",
+     "Украинская армия сократится?",
+     "НАТО остановится или пойдёт дальше?"
+    ],
+    "watermark": "5 МИНУТ",
+    "anim": 20.0
+   }
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 320.919,
+   "duration_sec": 5.189,
+   "visual_prompt": "разрушенный автомобильный мост через реку на Украине, 2026",
+   "source": "press_photo",
+   "source_query": "разрушенный автомобильный мост через реку на Украине, 2026",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 326.108,
+   "duration_sec": 7.495,
+   "visual_prompt": "Л7 — украинская артиллерийская установка движется по дороге",
+   "source": "web_search",
+   "source_query": "артиллерийская установка Украины на дороге, 2026",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 333.603,
+   "duration_sec": 6.912,
+   "visual_prompt": "Л2 — Дмитрий Песков отвечает журналистам в Кремле",
+   "source": "press_photo",
+   "source_query": "Дмитрий Песков отвечает журналистам в Кремле, 30 октября 2026",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 340.515,
+   "duration_sec": 5.518,
+   "visual_prompt": "Л5 — украинские бронемашины движутся по загородной трассе",
+   "source": "press_photo",
+   "source_query": "украинские бронемашины движутся по трассе, 2026",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 346.033,
+   "duration_sec": 8.727,
+   "visual_prompt": "Л5 — сборка украинских беспилотников на современном предприятии",
+   "source": "web_search",
+   "source_query": "сборка украинских беспилотников на современном предприятии, 2026",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 354.76,
+   "duration_sec": 8.64,
+   "visual_prompt": "Л1 — здание украинского внешнеполитического ведомства вечером",
+   "source": "press_photo",
+   "source_query": "здание МИД Украины вечером, Киев, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 363.4,
+   "duration_sec": 6.438,
+   "visual_prompt": "Л5 — испытания украинской ракеты на специальной площадке",
+   "source": "press_photo",
+   "source_query": "испытания украинской ракеты на специальной площадке, 2026",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 369.838,
+   "duration_sec": 4.636,
+   "visual_prompt": "Л5 — станок обрабатывает корпуса для украинских беспилотников",
+   "source": "web_search",
+   "source_query": "станок для корпусов украинских беспилотников, 2026",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 374.474,
+   "duration_sec": 5.844,
+   "visual_prompt": "Л2 — цитата автора о попытке выиграть время",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "quote",
+    "text": "Прекращение огня без устранения причин конфликта — это попытка выиграть время",
+    "accent": "попытка выиграть время",
+    "watermark": "5 МИНУТ"
+   }
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 380.318,
+   "duration_sec": 15.28,
+   "visual_prompt": "Л3 — Дональд Трамп выступает в Белом доме",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп выступает в Белом доме, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 395.598,
+   "duration_sec": 10.4,
+   "visual_prompt": "Л3 — Белый дом со стороны Южного газона",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БЕЛЫЙ-ДОМ-СО",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 405.998,
+   "duration_sec": 13.6,
+   "visual_prompt": "Л3 — Блэр-хаус в Вашингтоне перед закрытой дипломатической встречей",
+   "source": "press_photo",
+   "source_query": "Блэр-хаус в Вашингтоне перед дипломатической встречей, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 419.598,
+   "duration_sec": 10.08,
+   "visual_prompt": "Л3 — Марко Рубио за трибуной на фоне флагов США",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/eSn1SVwVvev7ojrkQF4v1T3glKxlwVElEifRLwYvOoG0b9svXO_cNJHrdHcPV8nN0VqmLt1P0VUqjyVD65a_8suqq6UQNbzfwAM4l9fVphxY9hzioRQFxYtPAuyMYTNZVHcwDKaIijKPFUzU_r_7ZF7-iU-LtaRssQXh3V8ifMclL2kRjsdDEo48YfowZCaGbAsCI0-lZwUvx_YiNXfOUqoRZqqoTczytH2MOhSA5CyCgU6ik7LoUYumrSanjrMK3l---0fad0d8zG9497BSfSDeIkOCuETfVEazdbutDBEhUy2avWrP6SVUCAAe4MLtH80MnLOID1_pwJn8JU4alw.jpg",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 429.678,
+   "duration_sec": 16.2,
+   "visual_prompt": "Л3 — Марко Рубио отвечает на вопросы журналистов",
+   "source": "press_photo",
+   "source_query": "Марко Рубио отвечает на вопросы журналистов, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 445.878,
+   "duration_sec": 16.122,
+   "visual_prompt": "БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 462.0,
+   "duration_sec": 16.0,
+   "visual_prompt": "Л3 — фасад Госдепартамента США в Вашингтоне",
+   "source": "press_photo",
+   "source_query": "фасад Госдепартамента США в Вашингтоне, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 478.0,
+   "duration_sec": 16.0,
+   "visual_prompt": "Л5 — готовые украинские дроны на сборочной площадке",
+   "source": "press_photo",
+   "source_query": "украинские дроны на сборочной площадке предприятия, 2026",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 494.0,
+   "duration_sec": 16.0,
+   "visual_prompt": "Л5 — истребитель Воздушных сил Украины на рулёжной дорожке",
+   "source": "press_photo",
+   "source_query": "истребитель Воздушных сил Украины на рулёжной дорожке, 2026",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 510.0,
+   "duration_sec": 16.0,
+   "visual_prompt": "Л6 — российская система ПВО на боевом дежурстве",
+   "source": "press_photo",
+   "source_query": "российская система ПВО на боевом дежурстве, 2026",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 526.0,
+   "duration_sec": 16.0,
+   "visual_prompt": "Л2 — Дом правительства России, фасад и флаг",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ДОМ-ПРАВИТЕЛЬСТВА-РОССИИ",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 542.0,
+   "duration_sec": 16.0,
+   "visual_prompt": "колонна Ракетных войск стратегического назначения России на марше, 2026",
+   "source": "press_photo",
+   "source_query": "колонна Ракетных войск стратегического назначения России на марше, 2026",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 558.0,
+   "duration_sec": 16.0,
+   "visual_prompt": "Л2 — Москва-река и стены Кремля в широком городском кадре",
+   "source": "press_photo",
+   "source_query": "Москва-река у стен Кремля, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 574.0,
+   "duration_sec": 16.0,
+   "visual_prompt": "Л4 — танк НАТО движется по полигону в сумеречном тумане",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 590.0,
+   "duration_sec": 17.537,
+   "visual_prompt": "Л4 — фасад Совета Европы в Страсбурге",
+   "source": "press_photo",
+   "source_query": "фасад Совета Европы в Страсбурге, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 607.537,
+   "duration_sec": 15.051,
+   "visual_prompt": "Л1, Л3 — три кадра с Сибигой, Трампом и Рубио и тремя различными позициями",
+   "source": "card:film",
+   "source_query": "карточка «film» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 622.588,
+   "duration_sec": 13.909,
+   "visual_prompt": "Л2 — здание МИД России на Смоленской площади",
+   "source": "press_photo",
+   "source_query": "Смоленская площадь перед зданием МИД России, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 636.497,
+   "duration_sec": 13.84,
+   "visual_prompt": "Л5 — подразделение украинской армии проводит современные учения",
+   "source": "press_photo",
+   "source_query": "подразделение украинской армии на учениях, 2026",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 650.337,
+   "duration_sec": 14.673,
+   "visual_prompt": "Л3 — служебный вход Белого дома без журналистов",
+   "source": "press_photo",
+   "source_query": "служебный вход Белого дома без журналистов, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 665.01,
+   "duration_sec": 13.99,
+   "visual_prompt": "Л3 — Дональд Трамп проводит встречу в Овальном кабинете",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ТРАМП",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 679.0,
+   "duration_sec": 14.323,
+   "visual_prompt": "Л1 — украинское руководство проводит совещание в Киеве",
+   "source": "press_photo",
+   "source_query": "совещание украинского руководства в Киеве, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 693.323,
+   "duration_sec": 13.92,
+   "visual_prompt": "Л3 — брифинг-зал Белого дома, трибуна: место, откуда звучат заявления",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА",
+   "overlays": []
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 707.243,
+   "duration_sec": 14.0,
+   "visual_prompt": "Л2 — депутаты Государственной думы проходят через фойе",
+   "source": "press_photo",
+   "source_query": "депутаты Государственной думы в фойе, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 721.243,
+   "duration_sec": 13.757,
+   "visual_prompt": "Л7 — пограничный шлагбаум у въезда в Херсонскую область",
+   "source": "card:bullets",
+   "source_query": "карточка «bullets» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "bullets",
+    "kick": "СТАВИМ ГАЛОЧКУ, КОГДА",
+    "lines": [
+     "Появился нейтральный статус",
+     "Договорились об армии",
+     "Решили территориальный вопрос",
+     "Новая система безопасности для обеих сторон"
+    ],
+    "watermark": "5 МИНУТ",
+    "anim": 13.76
+   }
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 735.0,
+   "duration_sec": 12.1,
+   "visual_prompt": "Л1 — вечерний Киев после завершения официальных заявлений",
+   "source": "press_photo",
+   "source_query": "вечерний Киев после официальных заявлений, ноябрь 2026",
+   "overlays": []
+  }
+ ]
+}
