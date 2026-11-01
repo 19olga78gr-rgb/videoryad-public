@@ -1,0 +1,124 @@
+{
+ "scenes": [
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/Zti_0nLKOI9XFPLUb42rRlLt3EgtwlSX9a5TGaixLq16-WGKtGKOVczRH4PiBSBqzSRpCaK7_6fHYkjcjj5EZfS936kBnLn-jug6dDJ5O-mbxrPywCP77fHtgklpXsLR2oA3oIJTjqWSECHIQGVHOC9hpa8c5TRURbG_i17Qo1RHH13N4bZeWwK8zweJ3SOrTPxOdfbkqrnhSNefQE33UQQyap21tT11K_n71_bJ9GDXlrW-CLFT6wW0JbnmMKrqw8SiQo0YII1UH1lxXAhM9fNsdBLR6ZHHILH2676ZHPoIh7TMvvDkZBkqUyPOcNUFXhVNxzuv1YMt59FA3KqZqg.jpg",
+   "visual_prompt": "https://cdn4.telesco.pe/file/Zti_0nLKOI9XFPLUb42rRlLt3EgtwlSX9a5TGaixLq16-WGKtGKOVczRH4PiBSBqzSRpCaK7_6fHYkjcjj5EZfS936kBnLn-jug6dDJ5O-mbxrPywCP77fHtgklpXsLR2oA3oIJTjqWSECHIQGVHOC9hpa8c5TRURbG_i17Qo1RHH13N4bZeWwK8zweJ3SOrTPxOdfbkqrnhSNefQE33UQQyap21tT11K_n71_bJ9GDXlrW-CLFT6wW0JbnmMKrqw8SiQo0YII1UH1lxXAhM9fNsdBLR6ZHHILH2676ZHPoIh7TMvvDkZBkqUyPOcNUFXhVNxzuv1YMt59FA3KqZqg.jpg"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "здание Европейской комиссии в Брюсселе, реальное фото",
+   "visual_prompt": "здание Европейской комиссии в Брюсселе, реальное фото"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "зерновой элеватор в американском фермерском хозяйстве, реальное фото",
+   "visual_prompt": "зерновой элеватор в американском фермерском хозяйстве, реальное фото"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ИРАН-ЯДЕРНАЯ-ДОКТРИНА-3110_АТОМНЫЙ-ОБЪЕКТ-НАТАНЗЕ/06_2048x1366.jpg",
+   "visual_prompt": "БАЗА/ТЕМЫ/ИРАН-ЯДЕРНАЯ-ДОКТРИНА-3110_АТОМНЫЙ-ОБЪЕКТ-НАТАНЗЕ/06_2048x1366.jpg"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "web_search",
+   "source_query": "торговая улица Тегерана днём, реальное фото",
+   "visual_prompt": "торговая улица Тегерана днём, реальное фото"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "противобункерная бомба GBU-57 на тележке, реальное фото",
+   "visual_prompt": "противобункерная бомба GBU-57 на тележке, реальное фото"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "контрольно-пропускной пост у въезда в резиденцию Мар-а-Лаго, реальное фото",
+   "visual_prompt": "контрольно-пропускной пост у въезда в резиденцию Мар-а-Лаго, реальное фото"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "пограничная полоса между КНДР и Южной Кореей, реальное фото",
+   "visual_prompt": "пограничная полоса между КНДР и Южной Кореей, реальное фото"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/In1iKr8cnU5OLu7jmyYFR7L6KJ97og3nb4eyg5ONTsOHbi7M7w_wc4CVbeaQQ95SiaRf2mZBXkjuv1fCEncHGQXhOxFU9Cq7FRFULT_wJtsu97Wmya7bqnLNMD189fVcVMF410Jjbz__d9ZinMmr-tcSmOa7uWT-17VfsnsW_f2sRDSooaSABTInPNJNudBbPeGbWRQAN5iz4kFbD_MYfo4KmUvgqEtGyYKqEAIQZ_s1Oi7BMpfH7gVqERD7RVDXxXRZd0pBZ9povP3EvsJme8niRmOEKEOQFTH4tr1Ga6TZmHhioy9TUmgKQvuMdNR91i3usC8dP-3dwNcPVgss_A.jpg",
+   "visual_prompt": "Публикация Yahoo News: австралийцев призывают запасать консервы и воду"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "китайская ракета-носитель на стартовом столе, реальное фото",
+   "visual_prompt": "китайская ракета-носитель на стартовом столе, реальное фото"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "истребитель F-35 ВВС США в полёте, реальное фото",
+   "visual_prompt": "истребитель F-35 ВВС США в полёте, реальное фото"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "лазерная установка в исследовательской лаборатории, реальное фото",
+   "visual_prompt": "лазерная установка в исследовательской лаборатории, реальное фото"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "здание Скупщины Сербии в Белграде, реальное фото",
+   "visual_prompt": "здание Скупщины Сербии в Белграде, реальное фото"
+  },
+  {
+   "id": 73,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "здание Национального конгресса Аргентины, реальное фото",
+   "visual_prompt": "здание Национального конгресса Аргентины, реальное фото"
+  },
+  {
+   "id": 88,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "слесарь газовой службы у ввода в жилой дом, реальное фото",
+   "visual_prompt": "слесарь газовой службы у ввода в жилой дом, реальное фото"
+  }
+ ]
+}
