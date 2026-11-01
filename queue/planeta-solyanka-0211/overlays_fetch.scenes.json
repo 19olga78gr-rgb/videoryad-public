@@ -1,0 +1,228 @@
+{
+ "scenes": [
+  {
+   "id": 2,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "картонная коробка с вещами в руках на лестничной площадке, реальное фото",
+   "visual_prompt": "картонная коробка с вещами в руках на лестничной площадке, реальное фото"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/Zti_0nLKOI9XFPLUb42rRlLt3EgtwlSX9a5TGaixLq16-WGKtGKOVczRH4PiBSBqzSRpCaK7_6fHYkjcjj5EZfS936kBnLn-jug6dDJ5O-mbxrPywCP77fHtgklpXsLR2oA3oIJTjqWSECHIQGVHOC9hpa8c5TRURbG_i17Qo1RHH13N4bZeWwK8zweJ3SOrTPxOdfbkqrnhSNefQE33UQQyap21tT11K_n71_bJ9GDXlrW-CLFT6wW0JbnmMKrqw8SiQo0YII1UH1lxXAhM9fNsdBLR6ZHHILH2676ZHPoIh7TMvvDkZBkqUyPOcNUFXhVNxzuv1YMt59FA3KqZqg.jpg",
+   "visual_prompt": "https://cdn4.telesco.pe/file/Zti_0nLKOI9XFPLUb42rRlLt3EgtwlSX9a5TGaixLq16-WGKtGKOVczRH4PiBSBqzSRpCaK7_6fHYkjcjj5EZfS936kBnLn-jug6dDJ5O-mbxrPywCP77fHtgklpXsLR2oA3oIJTjqWSECHIQGVHOC9hpa8c5TRURbG_i17Qo1RHH13N4bZeWwK8zweJ3SOrTPxOdfbkqrnhSNefQE33UQQyap21tT11K_n71_bJ9GDXlrW-CLFT6wW0JbnmMKrqw8SiQo0YII1UH1lxXAhM9fNsdBLR6ZHHILH2676ZHPoIh7TMvvDkZBkqUyPOcNUFXhVNxzuv1YMt59FA3KqZqg.jpg"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "насыпь калийных удобрений в портовом складе, реальное фото",
+   "visual_prompt": "насыпь калийных удобрений в портовом складе, реальное фото"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "флаг Беларуси над административным зданием в Минске, реальное фото",
+   "visual_prompt": "флаг Беларуси над административным зданием в Минске, реальное фото"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "здание Сейма Литвы в Вильнюсе, реальное фото",
+   "visual_prompt": "здание Сейма Литвы в Вильнюсе, реальное фото"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "штабель мешков удобрений на складе порта, реальное фото",
+   "visual_prompt": "штабель мешков удобрений на складе порта, реальное фото"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "здание Министерства финансов США в Вашингтоне, реальное фото",
+   "visual_prompt": "здание Министерства финансов США в Вашингтоне, реальное фото"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ИРАН-ЯДЕРНАЯ-ДОКТРИНА-3110_АТОМНЫЙ-ОБЪЕКТ-НАТАНЗЕ/06_2048x1366.jpg",
+   "visual_prompt": "БАЗА/ТЕМЫ/ИРАН-ЯДЕРНАЯ-ДОКТРИНА-3110_АТОМНЫЙ-ОБЪЕКТ-НАТАНЗЕ/06_2048x1366.jpg"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "градирни атомной электростанции Бушер в Иране, реальное фото",
+   "visual_prompt": "градирни атомной электростанции Бушер в Иране, реальное фото"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "ядерный полигон Пунгери в горах Северной Кореи, реальное фото",
+   "visual_prompt": "ядерный полигон Пунгери в горах Северной Кореи, реальное фото"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "web_search",
+   "source_query": "уличное движение в центре Тегерана днём, реальное фото",
+   "visual_prompt": "уличное движение в центре Тегерана днём, реальное фото"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "противобункерная бомба GBU-57 на тележке, реальное фото",
+   "visual_prompt": "противобункерная бомба GBU-57 на тележке, реальное фото"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "контрольно-пропускной пост у въезда в резиденцию Мар-а-Лаго, реальное фото",
+   "visual_prompt": "контрольно-пропускной пост у въезда в резиденцию Мар-а-Лаго, реальное фото"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "американская авиабаза Эль-Удейд в Катаре, реальное фото",
+   "visual_prompt": "американская авиабаза Эль-Удейд в Катаре, реальное фото"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "пограничная полоса между КНДР и Южной Кореей, реальное фото",
+   "visual_prompt": "пограничная полоса между КНДР и Южной Кореей, реальное фото"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "реактивная система залпового огня Град на позиции, реальное фото",
+   "visual_prompt": "реактивная система залпового огня Град на позиции, реальное фото"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "ракета Северной Кореи в полёте на испытаниях, реальное фото",
+   "visual_prompt": "ракета Северной Кореи в полёте на испытаниях, реальное фото"
+  },
+  {
+   "id": 49,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "лесной пожар в Австралии, дым над эвкалиптами, реальное фото",
+   "visual_prompt": "лесной пожар в Австралии, дым над эвкалиптами, реальное фото"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "китайская ракета-носитель на стартовом столе, реальное фото",
+   "visual_prompt": "китайская ракета-носитель на стартовом столе, реальное фото"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "приёмник GPS в руках военнослужащего США, реальное фото",
+   "visual_prompt": "приёмник GPS в руках военнослужащего США, реальное фото"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "лазерная установка в исследовательской лаборатории, реальное фото",
+   "visual_prompt": "лазерная установка в исследовательской лаборатории, реальное фото"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "избирательный участок в Сербии в день голосования, реальное фото",
+   "visual_prompt": "избирательный участок в Сербии в день голосования, реальное фото"
+  },
+  {
+   "id": 65,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/СЕРБИЯ-АРГЕНТИНА-СЧЕТА-3110_ОТДЕЛЕНИЕ-ALTA-BANKA",
+   "visual_prompt": "БАЗА/ТЕМЫ/СЕРБИЯ-АРГЕНТИНА-СЧЕТА-3110_ОТДЕЛЕНИЕ-ALTA-BANKA"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "курс сербского динара на информационной панели в отделении, реальное фото",
+   "visual_prompt": "курс сербского динара на информационной панели в отделении, реальное фото"
+  },
+  {
+   "id": 71,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "флаги Сербии и России на фасаде здания, реальное фото",
+   "visual_prompt": "флаги Сербии и России на фасаде здания, реальное фото"
+  },
+  {
+   "id": 75,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "флаг Аргентины на фасаде государственного ведомства, реальное фото",
+   "visual_prompt": "флаг Аргентины на фасаде государственного ведомства, реальное фото"
+  },
+  {
+   "id": 83,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "купюры аргентинских песо в руках кассира, реальное фото",
+   "visual_prompt": "купюры аргентинских песо в руках кассира, реальное фото"
+  },
+  {
+   "id": 86,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "web_search",
+   "source_query": "ночное небо со следами спутников над горизонтом, реальное фото",
+   "visual_prompt": "ночное небо со следами спутников над горизонтом, реальное фото"
+  }
+ ]
+}
