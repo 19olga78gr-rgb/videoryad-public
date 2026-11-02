@@ -18,36 +18,6 @@
   }
  },
  {
-  "scene": 26,
-  "view": "charts.map_dist",
-  "dur": 13.0,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "points": [
-    {
-     "label": "Мар-а-Лаго",
-     "lat": 26.677,
-     "lon": -80.037,
-     "accent": false
-    },
-    {
-     "label": "место падения",
-     "lat": 26.6235,
-     "lon": -80.1146,
-     "accent": true
-    }
-   ],
-   "kick": "ФЛОРИДА · 1 НОЯБРЯ 2026",
-   "title": "Место падения и резиденция Трампа",
-   "admin": "США",
-   "place": "Флорида",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
   "scene": 42,
   "view": "quote",
   "dur": 12.5,
