@@ -1,0 +1,641 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0,
+   "duration_sec": 9.32,
+   "visual_prompt": "Пустой подземный коридор гражданской обороны в Иране",
+   "source": "press_photo",
+   "source_query": "пустой подземный коридор гражданской обороны Иран 2026",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 9.32,
+   "duration_sec": 9.36,
+   "visual_prompt": "Противогаз на металлической полке из комплекта гражданской обороны",
+   "source": "press_photo",
+   "source_query": "противогаз на металлической полке гражданская оборона СССР 1985",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 18.68,
+   "duration_sec": 10.24,
+   "visual_prompt": "Капитолий в Вашингтоне после промежуточных выборов",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КАПИТОЛИЙ-ВАШИНГТОНЕ-ДНЁМ",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 28.92,
+   "duration_sec": 9.36,
+   "visual_prompt": "Белый дом за оградой после поражения республиканцев",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БЕЛЫЙ-ДОМ-СО",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 38.28,
+   "duration_sec": 9.44,
+   "visual_prompt": "Трамп отвечает журналистам возле самолёта",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ТРАМП",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 47.72,
+   "duration_sec": 9.44,
+   "visual_prompt": "Плотный поток автомобилей движется по американскому хайвею",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ХАЙВЕЙ-США-ПОТОК",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 57.16,
+   "duration_sec": 9.44,
+   "visual_prompt": "Президентский самолёт США движется по рулёжной дорожке",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/САМОЛЁТ-AIR-FORCE",
+   "overlays": [],
+   "fx": "wipe"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 66.6,
+   "duration_sec": 9.2,
+   "visual_prompt": "Контейнерный порт Лос-Анджелеса, краны",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КОНТЕЙНЕРНЫЙ-ПОРТ-ЛОС-АНДЖЕЛЕСА",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 75.8,
+   "duration_sec": 9.549,
+   "visual_prompt": "Борт номер один на рулёжке",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/САМОЛЁТ-AIR-FORCE",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 85.349,
+   "duration_sec": 9.28,
+   "visual_prompt": "Трамп на пресс-подходе",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/TRAMP",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 94.629,
+   "duration_sec": 9.52,
+   "visual_prompt": "Трибуна брифинг-зала Белого дома",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 104.149,
+   "duration_sec": 9.628,
+   "visual_prompt": "ПОЛИТИКА/TRAMP",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/TRAMP",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 113.777,
+   "duration_sec": 9.812,
+   "visual_prompt": "Северный фасад Белого дома за металлической оградой",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БЕЛЫЙ-ДОМ-СО",
+   "overlays": [],
+   "fx": "panels"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 123.589,
+   "duration_sec": 10.24,
+   "visual_prompt": "Карточка с цитатой Лукашенко о поддержке Трампа",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "quote",
+    "kick": "Минск · 4 ноября 2026",
+    "text": "Я же трампист. И вообще Дональда надо поставить руководить ООН",
+    "accent": "руководить ООН",
+    "author": "Александр Лукашенко",
+    "watermark": "ПЛАНЕТА"
+   }
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 133.829,
+   "duration_sec": 9.788,
+   "visual_prompt": "Представители стран работают в штаб-квартире ООН",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ООН",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 143.617,
+   "duration_sec": 9.92,
+   "visual_prompt": "Лукашенко выступает на Минской конференции по евразийской безопасности",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/БЕЛОРУСИЯ",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 153.537,
+   "duration_sec": 9.652,
+   "visual_prompt": "Штаб-квартира ООН в Нью-Йорке со стороны Ист-Ривер",
+   "source": "press_photo",
+   "source_query": "штаб-квартира Организации Объединённых Наций Нью-Йорк ноябрь 2026",
+   "overlays": [],
+   "fx": "panels"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 163.189,
+   "duration_sec": 9.6,
+   "visual_prompt": "зал Генеральной Ассамблеи ООН делегации за столами",
+   "source": "press_photo",
+   "source_query": "зал Генеральной Ассамблеи ООН делегации за столами",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 172.789,
+   "duration_sec": 9.228,
+   "visual_prompt": "Лукашенко отвечает журналистам после конференции в Минске",
+   "source": "press_photo",
+   "source_query": "Александр Лукашенко отвечает журналистам Минск 4 ноября 2026",
+   "overlays": [],
+   "fx": "inset"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 182.017,
+   "duration_sec": 11.76,
+   "visual_prompt": "Дипломаты покидают помещение Генеральной Ассамблеи ООН",
+   "source": "press_photo",
+   "source_query": "дипломаты покидают Генеральную Ассамблею ООН ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 193.777,
+   "duration_sec": 12.428,
+   "visual_prompt": "Пентагон с воздуха как центр американского военного руководства",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ПЕНТАГОН-ВОЗДУХА",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 206.205,
+   "duration_sec": 12.428,
+   "visual_prompt": "Пит Хегсет и Дэн Кейн на совместном мероприятии Пентагона",
+   "source": "web_search",
+   "source_query": "Пит Хегсет Дэн Кейн Пентагон совместное выступление 2026",
+   "overlays": [],
+   "fx": "mosaic"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 218.633,
+   "duration_sec": 12.428,
+   "visual_prompt": "Американские офицеры обсуждают ход учений возле техники",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/АРМИЯ-США",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 231.061,
+   "duration_sec": 12.428,
+   "visual_prompt": "Трамп отвечает на вопросы журналистов у входа в Белый дом",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ТРАМП",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 243.489,
+   "duration_sec": 12.428,
+   "visual_prompt": "Плотный поток машин на американском хайвее сверху",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ХАЙВЕЙ-США-ПОТОК",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 255.917,
+   "duration_sec": 12.428,
+   "visual_prompt": "американские истребители на стоянке военной авиабазы",
+   "source": "press_photo",
+   "source_query": "американские истребители на стоянке военной авиабазы",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 268.345,
+   "duration_sec": 12.428,
+   "visual_prompt": "Штаб НАТО в Брюсселе и движение транспорта у комплекса",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ШТАБ-НАТО-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 280.773,
+   "duration_sec": 12.428,
+   "visual_prompt": "Европейский истребитель движется по рулёжной дорожке авиабазы",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ИСТРЕБИТЕЛЬ-EUROFIGHTER-РУЛЁЖКЕ",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 293.201,
+   "duration_sec": 12.428,
+   "visual_prompt": "Карточка с выводом о переносе последствий войны в Европу",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "quote",
+    "text": "Решение принимают в Вашингтоне. Воевать начинают на Ближнем Востоке. А прилететь за это способно уже в Европу",
+    "accent": "способно уже в Европу",
+    "watermark": "ПЛАНЕТА"
+   }
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 305.629,
+   "duration_sec": 12.428,
+   "visual_prompt": "Нефтяной терминал Саудовской Аравии на побережье Персидского залива",
+   "source": "press_photo",
+   "source_query": "нефтяной терминал Саудовской Аравии побережье Персидского залива 2026",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 318.057,
+   "duration_sec": 12.428,
+   "visual_prompt": "Иранские беспилотники выстроены на военной базе КСИР",
+   "source": "web_search",
+   "source_query": "иранские беспилотники на военной базе КСИР 2026",
+   "overlays": [],
+   "fx": "panels"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 330.485,
+   "duration_sec": 12.428,
+   "visual_prompt": "Торговые суда проходят узким фарватером Ормузского пролива",
+   "source": "press_photo",
+   "source_query": "торговые суда проходят Ормузский пролив 2026",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 342.913,
+   "duration_sec": 12.428,
+   "visual_prompt": "Контейнерные краны работают ночью в порту Дубая",
+   "source": "press_photo",
+   "source_query": "контейнерные краны порта Дубая работают ночью 2026",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 355.341,
+   "duration_sec": 12.428,
+   "visual_prompt": "Вход в общественное бомбоубежище в Тегеране",
+   "source": "web_search",
+   "source_query": "вход в общественное бомбоубежище Тегеран ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 367.769,
+   "duration_sec": 12.428,
+   "visual_prompt": "Герметичные канистры и консервы на полках подвала",
+   "source": "press_photo",
+   "source_query": "запас питьевой воды в канистрах и консервы на полках подвального укрытия реальное фото",
+   "overlays": [],
+   "fx": "mosaic"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 380.197,
+   "duration_sec": 12.428,
+   "visual_prompt": "Советские взрослые на занятии гражданской обороны в противогазах",
+   "source": "press_photo",
+   "source_query": "советские занятия гражданской обороны взрослые в противогазах 1985 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 392.625,
+   "duration_sec": 12.428,
+   "visual_prompt": "Сирена воздушной тревоги на крыше советского жилого дома",
+   "source": "press_photo",
+   "source_query": "сирена воздушной тревоги на крыше жилого дома СССР 1985 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 405.053,
+   "duration_sec": 12.428,
+   "visual_prompt": "Круглый стол зала заседаний НАТО, флаги делегаций",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЗАСЕДАНИЙ-НАТО",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 417.481,
+   "duration_sec": 12.428,
+   "visual_prompt": "Операторы советского центра предупреждения следят за экранами",
+   "source": "press_photo",
+   "source_query": "центр предупреждения о ракетном нападении СССР операторы 1985 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 429.909,
+   "duration_sec": 12.428,
+   "visual_prompt": "Пустые микрофоны в брифинг-зале Белого дома",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 442.337,
+   "duration_sec": 12.428,
+   "visual_prompt": "Наземный вид атомного объекта в Натанзе",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ИРАН-ЯДЕРНАЯ-ДОКТРИНА-3110_АТОМНЫЙ-ОБЪЕКТ-НАТАНЗЕ",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 454.765,
+   "duration_sec": 12.428,
+   "visual_prompt": "Американский стратегический бомбардировщик готовится к вылету",
+   "source": "press_photo",
+   "source_query": "американский стратегический бомбардировщик на взлётной полосе 2026",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 467.193,
+   "duration_sec": 12.428,
+   "visual_prompt": "Пентагон с воздуха",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ПЕНТАГОН-ВОЗДУХА",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 479.621,
+   "duration_sec": 12.428,
+   "visual_prompt": "бетонный вход в подземное убежище массивная стальная дверь",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "quote",
+    "text": "Когда слово «ядерный» звучит слишком часто сразу в нескольких местах — обстановка уже дошла до определённой точки",
+    "accent": "в нескольких местах",
+    "watermark": "ПЛАНЕТА"
+   }
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 492.049,
+   "duration_sec": 12.428,
+   "visual_prompt": "Расчёт КСИР готовит иранскую баллистическую ракету",
+   "source": "web_search",
+   "source_query": "расчёт КСИР готовит баллистическую ракету Иран 2026",
+   "overlays": [],
+   "fx": "mosaic"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 504.477,
+   "duration_sec": 12.428,
+   "visual_prompt": "Почти пустые полки питьевой воды в магазине Тегерана",
+   "source": "press_photo",
+   "source_query": "пустые полки магазина с бутилированной водой покупатели 2026",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 516.905,
+   "duration_sec": 12.428,
+   "visual_prompt": "Капитолий после смены большинства в обеих палатах",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КАПИТОЛИЙ-ВАШИНГТОНЕ-ДНЁМ",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 529.333,
+   "duration_sec": 12.428,
+   "visual_prompt": "Нефтяной причал Персидского залива и проходящие грузовые суда",
+   "source": "press_photo",
+   "source_query": "нефтяной причал Персидского залива грузовые суда 2026",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 541.761,
+   "duration_sec": 12.428,
+   "visual_prompt": "Северокорейские ракеты движутся на многоосных тягачах",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/КНДР-РСЗО-600-3110_ПУСКОВАЯ-УСТАНОВКА-ШАССИ",
+   "overlays": [],
+   "fx": "wipe"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 554.189,
+   "duration_sec": 12.428,
+   "visual_prompt": "Ким Ё Чжон выступает на заседании Трудовой партии Кореи",
+   "source": "press_photo",
+   "source_query": "Ким Ё Чжон выступает на заседании Трудовой партии Кореи 2026",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 566.617,
+   "duration_sec": 12.428,
+   "visual_prompt": "Фасад Центрального телеграфного агентства Кореи в Пхеньяне",
+   "source": "web_search",
+   "source_query": "фасад Центрального телеграфного агентства Кореи Пхеньян 2026",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 579.045,
+   "duration_sec": 12.428,
+   "visual_prompt": "Американские и южнокорейские истребители летят совместным строем",
+   "source": "press_photo",
+   "source_query": "американские и южнокорейские истребители на совместных учениях 2026",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 591.473,
+   "duration_sec": 12.428,
+   "visual_prompt": "Северокорейская баллистическая ракета проходит по площади Пхеньяна",
+   "source": "press_photo",
+   "source_query": "военный парад в Пхеньяне колонна военнослужащих КНДР 2026",
+   "overlays": [],
+   "fx": "wipe"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 603.901,
+   "duration_sec": 12.428,
+   "visual_prompt": "Ракета КНДР на многоосном тягаче",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/КНДР-РСЗО-600-3110_ПУСКОВАЯ-УСТАНОВКА-ШАССИ",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 616.329,
+   "duration_sec": 12.428,
+   "visual_prompt": "Наземная аллея иранского атомного объекта в Натанзе",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ИРАН-ЯДЕРНАЯ-ДОКТРИНА-3110_АТОМНЫЙ-ОБЪЕКТ-НАТАНЗЕ",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 628.757,
+   "duration_sec": 12.428,
+   "visual_prompt": "Микрофоны национальных делегаций в штаб-квартире ООН",
+   "source": "press_photo",
+   "source_query": "микрофоны делегаций в штаб-квартире ООН ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 641.185,
+   "duration_sec": 12.428,
+   "visual_prompt": "Контейнерные краны работают в порту Лос-Анджелеса",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КОНТЕЙНЕРНЫЙ-ПОРТ-ЛОС-АНДЖЕЛЕСА",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 653.613,
+   "duration_sec": 12.428,
+   "visual_prompt": "Телекамеры и микрофоны в международном пресс-центре ООН",
+   "source": "press_photo",
+   "source_query": "телекамеры и микрофоны в пресс-центре ООН ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 666.041,
+   "duration_sec": 12.428,
+   "visual_prompt": "Карточка с выводом о цене политических обещаний",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "quote",
+    "text": "Слова всё дешевле. Каждый хочет увидеть, что ты реально способен сделать и что готов выполнить",
+    "accent": "Слова всё дешевле",
+    "watermark": "ПЛАНЕТА"
+   }
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 678.469,
+   "duration_sec": 12.431,
+   "visual_prompt": "массивная стальная дверь бомбоубежища изнутри",
+   "source": "press_photo",
+   "source_query": "массивная стальная дверь бомбоубежища изнутри",
+   "overlays": []
+  }
+ ]
+}
