@@ -1,0 +1,37 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 2,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "карточка «переговоры 10-11 ноября в Абу-Даби», спецпосланник Уиткофф",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/ncSjEm4JA28DrUCV119g0Hy2ibiflNxMtNCdAfxD-PNwci48v2QDNaFBanAnMcdx_agnJku0Z1MoRbHGRMbtvf44MS-UVKJZYZWE7EzYv9cHz6jjLVNIRQs7YgfUjWuJe-blFyVzwdfvVMKzNdGUfqB-9sypoKoHqlMsB3BzEX6q5aL4RyLRmudZwwY9qUiYNxXCndml7iraTlf2MJZ8UwH2a7nmBaI4XJTrWY7jsNtu71r7U1T9e8N2C__is_Y2vl4Cg-6vBhPulfQZKeEzOo-9rycOhGL1FOwk3Gx2tZz5L06YJ6gvq0zchLA4lXd_o3B7tNbr-REEblGgKJApzg.jpg"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "еврокомиссар Хаджа Лахбиб на Европейском форуме гражданской защиты в Брюсселе",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/WRzYkVoi-EnXL6aWMKEQehLOC63yDBfBpAsZYaoojLvd21mTCdFQczRdustl_levq9GRXzTJB3SPxy6hpjVQ8DBoFMi6z_4L9O_Z5SOLsGyYDv0dVi7HgXyD57a2b5kZ17-ScxowTwFVJns6cvftPDJYsBPtX9_YBuCFhjq0TinMBB0pPunrj1n5Fer0_d_GSyeG_Di13ygCX8mYuxPMGF5-AeVmV0HypueOW6JY6iVWMeXTU1RmMviYPSOKzrK1tdvP26AsCGTePczf-bh-5lzi-uiDgou24UQvhpbaDtaKuIpcsDByZqZ3rzLA_Wtzy4B3TdFxiuRKiJWmWT0NCA.jpg"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "учения «коалиции желающих» в Польше",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/BcMGizKiigmckYvO04owQ3909mRqeEKGupA5VSKIhkJBiLguLf_y6KfuuA5bmEsh8Tz_cWsyehx0Ys83b_S4Xkl1hyQ8Gs85N-ysl7l05pP_L7_EW7KEEqyJW2RnHmckOYw7xBvdsDUdJQZlYzNR8oK5mY5ePm4W__FccyH2HmyFQcazdQl3-XFrkDfDmQ3D1iMm0_VkWEJ4Wl1FPZ_IzvU78V_Lsgh_JXGjdrDqgvfbsehKQXK09yveDn-Z5CVg6R5m8N36FQVvFLUn299n1QibZxRc2Q1sUxu7OmP-rFpAGWNWXXXb7DExxYaqIQLpru_PzzJdRgccPxRMK7dxvA.jpg"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "публикация The Guardian: западные войска на Украине смогут открывать ответный огонь",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/fPVBhZ2Q1E_GD_7auS8TtliiBDYgqxXvGtCVN1myaGwD1iIc_kLS0DCgL9rE2dgW-FJ04iRW1baLjaJuyvzNZvDpPIxEX-BmF4KeaQ4gvvpeKp-zLZ2CeT9gzEjkQjnzfwcwufMOP5DzgFY9fh2ZXKeQxrZyemwVd8_UfIHrgU0NqCo8mFbDZ6CcTHU8xjQwmto-XIdk4VI0g-4eO_mHsrnUg46gRBLJhEvF9MDVryIFP1243avdxwIPkHbDwc9mAdLi_EgtJ60RV3oKAIt69a0pdTBRpEKyVWITzVu_UgRjz5M-pqzvAD2KON41-DCC6IPYyAZE7DL4m1DnusbpZw.jpg"
+  }
+ ]
+}
