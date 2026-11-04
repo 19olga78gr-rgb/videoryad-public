@@ -1,0 +1,745 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 9.692,
+   "visual_prompt": "Участники международного форума входят в помещение перед началом встречи.",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/АБУ-ДАБИ-ЛУКАШЕНКО-0411/sammit_es_kosta.mp4",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 9.692,
+   "duration_sec": 9.668,
+   "visual_prompt": "Президент США отвечает журналистам перед вылетом на международную встречу.",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ТРАМП",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 19.36,
+   "duration_sec": 13.601,
+   "visual_prompt": "Современный деловой район Абу-Даби накануне встречи трёх делегаций.",
+   "source": "web_search",
+   "source_query": "деловой район Абу-Даби накануне международной встречи ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 32.961,
+   "duration_sec": 9.202,
+   "visual_prompt": "Представитель европейских институтов выступает в рабочем помещении.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕС-форумы-Украина/Павел Медведев 2.0 - Мерц саммит ЕС8.mp4",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 42.162,
+   "duration_sec": 9.729,
+   "visual_prompt": "Американская делегация входит в помещение с государственными флагами.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/ГОСДЕП-США",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 51.891,
+   "duration_sec": 12.949,
+   "visual_prompt": "Фасад штаб-квартиры НАТО в Брюсселе перед встречей министров.",
+   "source": "press_photo",
+   "source_query": "фасад штаб-квартиры НАТО в Брюсселе ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 64.84,
+   "duration_sec": 9.943,
+   "visual_prompt": "Военнослужащая идёт по коридору штаба после брифинга.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 74.784,
+   "duration_sec": 9.399,
+   "visual_prompt": "Британские чиновники прибывают на официальное мероприятие в Лондоне.",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/АБУ-ДАБИ-ЛУКАШЕНКО-0411/starmer_voennye.mp4",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 84.183,
+   "duration_sec": 12.056,
+   "visual_prompt": "Досье на многонациональные силы для Украины с названием, назначением и руководящими странами.",
+   "source": "card:doc",
+   "source_query": "карточка «doc» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 96.239,
+   "duration_sec": 9.368,
+   "visual_prompt": "Бронетехника европейских стран движется по трассе учебного полигона.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/УЧЕНИЯ-НАТО-БРОНЕТЕХНИКА",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 105.607,
+   "duration_sec": 9.28,
+   "visual_prompt": "Французские военные проводят рабочее совещание возле техники.",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/АБУ-ДАБИ-ЛУКАШЕНКО-0411/rafale_more.jpg",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 114.887,
+   "duration_sec": 10.18,
+   "visual_prompt": "Здание Министерства обороны Великобритании в центре Лондона.",
+   "source": "press_photo",
+   "source_query": "здание Министерства обороны Великобритании в Лондоне ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 125.067,
+   "duration_sec": 9.797,
+   "visual_prompt": "Европейская бронетехника и расчёты готовятся к совместным учениям.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/БРИТАНИЯ",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 134.864,
+   "duration_sec": 9.943,
+   "visual_prompt": "Подразделение Бундесвера отрабатывает действия возле боевой машины.",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/АБУ-ДАБИ-ЛУКАШЕНКО-0411/bundesver_kolonna.mp4",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 144.807,
+   "duration_sec": 10.686,
+   "visual_prompt": "Украинские военнослужащие осматривают технику перед выполнением задачи.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/УКРАИНА ВСУ и Азов",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 155.493,
+   "duration_sec": 9.549,
+   "visual_prompt": "Зеленский записывает официальное обращение в рабочем кабинете.",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ЗЕЛЕНСКИЙ",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 165.042,
+   "duration_sec": 12.726,
+   "visual_prompt": "Британские и французские офицеры обсуждают план совместных действий.",
+   "source": "press_photo",
+   "source_query": "британские и французские офицеры на рабочем совещании ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 177.768,
+   "duration_sec": 9.564,
+   "visual_prompt": "Путин выступает за столом на международном саммите.",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ПУТИН",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 187.332,
+   "duration_sec": 11.63,
+   "visual_prompt": "Здание российской миссии при НАТО в Брюсселе в декабре 2021 года.",
+   "source": "press_photo",
+   "source_query": "миссия России при НАТО в Брюсселе декабрь 2021",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 198.962,
+   "duration_sec": 13.44,
+   "visual_prompt": "Современная ракетная техника и бронемашины на территории военной базы.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ШТАБ-НАТО-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 212.402,
+   "duration_sec": 9.465,
+   "visual_prompt": "Российские и американские официальные лица на международной встрече.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/МОСКОВСКИЙ-КРЕМЛЬ-СО",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 221.867,
+   "duration_sec": 11.115,
+   "visual_prompt": "Микрофоны пресс-центра возле штаб-квартиры НАТО перед заявлением.",
+   "source": "press_photo",
+   "source_query": "микрофоны пресс-центра у штаб-квартиры НАТО ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 232.981,
+   "duration_sec": 13.157,
+   "visual_prompt": "Британская бронетехника прибывает на совместные учения в Польше.",
+   "source": "press_photo",
+   "source_query": "бронетехника британской 7-й лёгкой механизированной бригады на польском полигоне ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 246.139,
+   "duration_sec": 9.432,
+   "visual_prompt": "Военная техника и представители стран альянса на совместном мероприятии.",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/АБУ-ДАБИ-ЛУКАШЕНКО-0411/nato_istrebiteli_flag.mp4",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 255.571,
+   "duration_sec": 12.733,
+   "visual_prompt": "колонна грузовиков Войска Польского на марше ноябрь 2026",
+   "source": "press_photo",
+   "source_query": "колонна грузовиков Войска Польского на марше ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 268.304,
+   "duration_sec": 12.817,
+   "visual_prompt": "Страны — участницы учений показаны отдельными кругами вокруг общего центра.",
+   "source": "card:bubbles",
+   "source_query": "карточка «bubbles» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 281.121,
+   "duration_sec": 11.075,
+   "visual_prompt": "британские военнослужащие в строю у бронетехники на полигоне ноябрь 2026",
+   "source": "press_photo",
+   "source_query": "британские военнослужащие в строю у бронетехники на полигоне ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 292.196,
+   "duration_sec": 10.206,
+   "visual_prompt": "Польская бронемашина пересекает мост во время военных манёвров.",
+   "source": "press_photo",
+   "source_query": "военнослужащие Войска Польского у бронетранспортёра Rosomak на полигоне ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 302.402,
+   "duration_sec": 11.971,
+   "visual_prompt": "Европейский центр военного управления с рабочими экранами и операторами.",
+   "source": "press_photo",
+   "source_query": "центр командования европейской миссией рабочие экраны ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 314.373,
+   "duration_sec": 11.962,
+   "visual_prompt": "Бронемашины коалиции проходят учебную трассу Нова-Демба.",
+   "source": "web_search",
+   "source_query": "бронемашины коалиции на учебной трассе Нова-Демба ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 326.335,
+   "duration_sec": 12.616,
+   "visual_prompt": "Истребитель европейского производства рулит по авиабазе перед вылетом.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ИСТРЕБИТЕЛЬ-EUROFIGHTER-РУЛЁЖКЕ",
+   "overlays": []
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 338.951,
+   "duration_sec": 12.318,
+   "visual_prompt": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 351.269,
+   "duration_sec": 12.343,
+   "visual_prompt": "Резиденция британского премьер-министра во время встречи лидеров в январе 2026 года.",
+   "source": "press_photo",
+   "source_query": "резиденция премьер-министра Великобритании встреча лидеров январь 2026",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 363.612,
+   "duration_sec": 10.93,
+   "visual_prompt": "Фасад Офиса президента Украины на Банковой.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ОФИС-ПРЕЗИДЕНТА-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 374.542,
+   "duration_sec": 11.163,
+   "visual_prompt": "погрузка военных грузов в транспортный самолёт Королевских ВВС Великобритании 2026",
+   "source": "press_photo",
+   "source_query": "погрузка военных грузов в транспортный самолёт Королевских ВВС Великобритании 2026",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 385.705,
+   "duration_sec": 12.137,
+   "visual_prompt": "Британские морские пехотинцы готовятся к высадке с военного корабля.",
+   "source": "press_photo",
+   "source_query": "британские морские пехотинцы на борту корабля ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 397.842,
+   "duration_sec": 12.56,
+   "visual_prompt": "Здание МИД России на Смоленской площади.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ЗДАНИЕ-МИД-РОССИИ",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 410.402,
+   "duration_sec": 11.589,
+   "visual_prompt": "Зенитная установка и радиолокационная машина европейского подразделения.",
+   "source": "press_photo",
+   "source_query": "зенитная установка и радиолокационная машина европейского контингента 2026",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 421.991,
+   "duration_sec": 11.976,
+   "visual_prompt": "Британская бронемашина с расчётом во время совместных учений в Польше.",
+   "source": "web_search",
+   "source_query": "британская бронемашина с расчётом на учениях в Польше ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 433.968,
+   "duration_sec": 12.636,
+   "visual_prompt": "Французская самоходная артиллерия ведёт учебные стрельбы.",
+   "source": "press_photo",
+   "source_query": "французская самоходная артиллерия на учебных стрельбах ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 446.603,
+   "duration_sec": 12.69,
+   "visual_prompt": "Польские военнослужащие стоят рядом с современным бронетранспортёром.",
+   "source": "press_photo",
+   "source_query": "польские военнослужащие рядом с бронетранспортёром ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 459.293,
+   "duration_sec": 11.92,
+   "visual_prompt": "Российские дипломаты выходят к журналистам после совещания.",
+   "source": "press_photo",
+   "source_query": "российские дипломаты выходят к журналистам Москва ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 471.213,
+   "duration_sec": 12.18,
+   "visual_prompt": "Здание Еврокомиссии в Брюсселе как центр европейской позиции.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-БЕРЛАЙМОН-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 483.393,
+   "duration_sec": 11.75,
+   "visual_prompt": "Контрастная карточка с двумя противоположными определениями одного военного присутствия.",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 495.143,
+   "duration_sec": 10.9,
+   "visual_prompt": "Три пустых кресла стоят перед микрофонами на международной встрече.",
+   "source": "press_photo",
+   "source_query": "три пустых кресла перед микрофонами международной встречи ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 506.043,
+   "duration_sec": 13.207,
+   "visual_prompt": "Фридрих Мерц выступает перед журналистами с официальным заявлением.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/МЕРЦ",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 519.25,
+   "duration_sec": 12.772,
+   "visual_prompt": "Зеленский выступает на встрече с зарубежными лидерами.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЗЕЛЕНСКИЙ",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 532.022,
+   "duration_sec": 11.352,
+   "visual_prompt": "Владимир Мединский выходит к прессе перед работой российской делегации.",
+   "source": "web_search",
+   "source_query": "Владимир Мединский перед встречей российской делегации ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 543.373,
+   "duration_sec": 11.205,
+   "visual_prompt": "Сергей Лавров выступает в Москве с заявлением о российской позиции.",
+   "source": "press_photo",
+   "source_query": "Сергей Лавров выступление в Москве ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 554.578,
+   "duration_sec": 13.184,
+   "visual_prompt": "Здание Кабинета министров Украины на улице Грушевского.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/КАБИНЕТ-МИНИСТРОВ-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 567.762,
+   "duration_sec": 11.646,
+   "visual_prompt": "Фасад Верховной Рады в Киеве как политический центр украинской позиции.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ФАСАД-ЗДАНИЯ-ВЕРХОВНОЙ",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 579.408,
+   "duration_sec": 13.554,
+   "visual_prompt": "Российская делегация входит в здание МИД перед обсуждением условий мира.",
+   "source": "press_photo",
+   "source_query": "российская делегация входит в здание МИД Москва ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 592.962,
+   "duration_sec": 12.66,
+   "visual_prompt": "Европейские министры обороны собираются на совместное совещание.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЗАСЕДАНИЙ-НАТО",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 605.622,
+   "duration_sec": 11.327,
+   "visual_prompt": "Стеклянный купол Бундестага в Берлине как символ германской власти.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/БУНДЕСТАГ-БЕРЛИНЕ-СТЕКЛЯННЫЙ",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 616.949,
+   "duration_sec": 12.002,
+   "visual_prompt": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЕЛИСЕЙСКИЙ-ДВОРЕЦ-ПАРИЖЕ",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЕЛИСЕЙСКИЙ-ДВОРЕЦ-ПАРИЖЕ",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 628.951,
+   "duration_sec": 13.517,
+   "visual_prompt": "Микрофоны Совета Европейского союза перед началом саммита.",
+   "source": "press_photo",
+   "source_query": "микрофоны Совета Европейского союза перед саммитом ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 642.468,
+   "duration_sec": 9.643,
+   "visual_prompt": "Лукашенко идёт по залу Минской конференции и здоровается с делегатами.",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/9a09a4527b.mp4?token=lZvwy7RkdzBiPdFlXqI8L68_2aKJHjKK3irVC0VvEogFheN9Rp3NmD-QoGEKV5L9kzkMTigtnVo-qnWSzeOWIXvciTFXOh36QrArvmWmPE-4zpiTvimRaoNKkBBlaqS1YvgBrVwrOVBkG8-WndObtKDzjo4R0fboeX6zEIGm45M3iASvFsLjO8bY413odKtNJGN5UNwOJkNxMZN1mnRgFcTlcUk3OT_drqHLpEW42sBZ1YYzQcCX-H1GhCVjOqc1AxpVTROHKECRYJnQGhceyXBLwNKyaqA5Mm6xX6JMPiEpn-WYN0PA2jzbaHv2npoPjgyOeuVQjSUPL2kHrdaClJk_7oe7aUCl1hTwMKXrM06mM3Sp4fVfflEz5Bj79w4DEZyvcBrJn2WqrgOHK1tVbrewPzkuDyA1GIrmr5Vw-QDjxx7wtGTY2Q-Fugn0rEDu5hgX1m_T3q7tOFkO39cxjfrQksTpcVLjwETeneIid-Uzftbc91jOJa0KOMJKdh-zuVMTRBvp26BPbhmejj2EXf81cyBsZHDpYKyYsvROlF1wLYM--8RsqyCCr8YVcl525h5td4Re6y05I9lscmfa5uZt0GQT-1zNCPwGHpFaRZW5MIz9D8e0yqL0EbNi8Apd5NUKVALsr0F65nD7OiJqWwsw7dBbd9p3EHm1S0eynBU",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 652.111,
+   "duration_sec": 11.365,
+   "visual_prompt": "Белорусские официальные лица и участники международной конференции в Минске.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/БЕЛОРУСИЯ",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 663.476,
+   "duration_sec": 9.846,
+   "visual_prompt": "Лукашенко выступает за кафедрой под гербом Беларуси перед делегатами.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/УЧЕНИЯ-НАТО-БРОНЕТЕХНИКА",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 673.322,
+   "duration_sec": 12.443,
+   "visual_prompt": "Карточка с ключевым противоречием между вооружённым присутствием и угрозой ответного огня.",
+   "source": "card:duel",
+   "source_query": "карточка «duel» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 685.765,
+   "duration_sec": 10.709,
+   "visual_prompt": "Радиолокационная станция сопровождает учебную воздушную цель.",
+   "source": "press_photo",
+   "source_query": "радиолокационная станция сопровождает учебную цель ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 696.474,
+   "duration_sec": 11.316,
+   "visual_prompt": "Дворец Независимости в Минске перед официальным мероприятием.",
+   "source": "press_photo",
+   "source_query": "Дворец Независимости Минск фасад ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 707.79,
+   "duration_sec": 13.005,
+   "visual_prompt": "Советник по безопасности отвечает журналистам перед международной встречей.",
+   "source": "press_photo",
+   "source_query": "советник по безопасности у микрофонов перед международной встречей ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 720.794,
+   "duration_sec": 11.877,
+   "visual_prompt": "Украинские военнослужащие стоят на построении возле военной техники.",
+   "source": "press_photo",
+   "source_query": "украинские военнослужащие на построении Киев ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 732.671,
+   "duration_sec": 10.731,
+   "visual_prompt": "Полукруг Европарламента в Страсбурге во время рабочего дня.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЕВРОПАРЛАМЕНТА-СТРАСБУРГЕ",
+   "overlays": []
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 743.402,
+   "duration_sec": 10.422,
+   "visual_prompt": "Британские военнослужащие отрабатывают высадку из бронемашины.",
+   "source": "web_search",
+   "source_query": "британские военнослужащие отрабатывают высадку из бронемашины ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 753.824,
+   "duration_sec": 11.688,
+   "visual_prompt": "Самолёт официальной делегации стоит на перроне аэропорта Абу-Даби.",
+   "source": "web_search",
+   "source_query": "самолёт делегации на перроне аэропорта Абу-Даби ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 765.512,
+   "duration_sec": 13.48,
+   "visual_prompt": "Операторы с телекамерами ожидают выхода участников международной встречи.",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ",
+   "overlays": []
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 778.992,
+   "duration_sec": 12.857,
+   "visual_prompt": "Дом правительства России в Москве во время рабочего дня.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ДОМ-ПРАВИТЕЛЬСТВА-РОССИИ",
+   "overlays": []
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 791.849,
+   "duration_sec": 12.783,
+   "visual_prompt": "Лидеры европейских государств идут к месту общей встречи.",
+   "source": "press_photo",
+   "source_query": "лидеры европейских государств идут на общую встречу ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 804.632,
+   "duration_sec": 11.544,
+   "visual_prompt": "сотрудники расставляют таблички стран в зале Берлемон перед саммитом 2026",
+   "source": "press_photo",
+   "source_query": "сотрудники расставляют таблички стран в зале Берлемон перед саммитом 2026",
+   "overlays": []
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 816.176,
+   "duration_sec": 11.956,
+   "visual_prompt": "Финальная карточка с главным вопросом ролика.",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 828.132,
+   "duration_sec": 11.061,
+   "visual_prompt": "Пустые места трёх делегаций перед началом международной встречи.",
+   "source": "press_photo",
+   "source_query": "пустые места трёх делегаций перед международной встречей ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 839.193,
+   "duration_sec": 11.407,
+   "visual_prompt": "панорама небоскрёбов Абу-Даби днём 2026",
+   "source": "press_photo",
+   "source_query": "панорама небоскрёбов Абу-Даби днём 2026",
+   "overlays": []
+  }
+ ]
+}
