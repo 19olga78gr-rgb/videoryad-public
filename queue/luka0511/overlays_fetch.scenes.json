@@ -1,0 +1,37 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 5,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "Всемирный банк",
+   "source": "press_photo",
+   "source_query": "штаб-квартира Всемирного банка в Вашингтоне здание 2026"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "обучение",
+   "source": "press_photo",
+   "source_query": "британские инструкторы обучают украинских военных на полигоне 2026"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "командующий",
+   "source": "press_photo",
+   "source_query": "генерал-лейтенант Том Бейтман британская армия 2026"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "Лукашенко",
+   "source": "press_photo",
+   "source_query": "Александр Лукашенко на международной конференции в Минске ноябрь 2026"
+  }
+ ]
+}
