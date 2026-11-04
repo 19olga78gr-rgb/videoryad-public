@@ -1,0 +1,457 @@
+{
+  "anchor": "top",
+  "2": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "10-11 НОЯБРЯ · АБУ-ДАБИ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "4": {
+    "sound": "pop",
+    "at": 1.8,
+    "photo": "overlays/scene_004.jpg",
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "4 НОЯБРЯ · БРЮССЕЛЬ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true
+  },
+  "5": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "ГАРАНТИИ БЕЗОПАСНОСТИ УКРАИНЫ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": "overlays/scene_005.jpg",
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "anchor": "middle",
+    "approved": true
+  },
+  "6": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "5 НОЯБРЯ · ВСТРЕЧА В НАТО",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "8": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "photo": "overlays/scene_008.jpg",
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "anchor": "bottom",
+    "approved": true
+  },
+  "10": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "35 ГОСУДАРСТВ В КОАЛИЦИИ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "11": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "КОМАНДУЮТ БРИТАНИЯ И ФРАНЦИЯ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "12": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "«ЭТО НЕ ГИПОТЕТИЧЕСКИЙ ПЛАН»",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "13": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "«ЭТО НЕ МИРОТВОРЦЫ»",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "14": {
+    "sound": "pop",
+    "at": 1.8,
+    "photo": "overlays/scene_014.jpg",
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "24 СТРАНЫ ДАЛИ ОБЯЗАТЕЛЬСТВА",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "src_url": "https://cdn4.telesco.pe/file/BcMGizKiigmckYvO04owQ3909mRqeEKGupA5VSKIhkJBiLguLf_y6KfuuA5bmEsh8Tz_cWsyehx0Ys83b_S4Xkl1hyQ8Gs85N-ysl7l05pP_L7_EW7KEEqyJW2RnHmckOYw7xBvdsDUdJQZlYzNR8oK5mY5ePm4W__FccyH2HmyFQcazdQl3-XFrkDfDmQ3D1iMm0_VkWEJ4Wl1FPZ_IzvU78V_Lsgh_JXGjdrDqgvfbsehKQXK09yveDn-Z5CVg6R5m8N36FQVvFLUn299n1QibZxRc2Q1sUxu7OmP-rFpAGWNWXXXb7DExxYaqIQLpru_PzzJdRgccPxRMK7dxvA.jpg",
+    "anchor": "middle",
+    "approved": true
+  },
+  "16": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "СДЕРЖИВАНИЕ НОВОГО НАПАДЕНИЯ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "18": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "СПОР ИДЁТ С 2021 ГОДА",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "19": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "ДЕКАБРЬ 2021 · ПРОЕКТЫ ДОГОВОРОВ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "24": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "ФОРМАЛЬНО — НЕ НАТО",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": "overlays/scene_024.jpg",
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "25": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "9 НОЯБРЯ · УЧЕНИЯ В ПОЛЬШЕ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "30": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "2800 ВОЕННЫХ · 11 СТРАН",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "31": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "300 БРИТАНСКИХ ВОЕННЫХ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "32": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "ЗА ДЕНЬ ДО ПЕРЕГОВОРОВ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "34": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "НА ЗЕМЛЕ, В ВОЗДУХЕ И НА МОРЕ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "37": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "«ЗАКОННАЯ ВОЕННАЯ ЦЕЛЬ»",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "41": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "ВЗАИМНЫЙ ОГОНЬ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "46": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "КТО УСТУПИЛ?",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "48": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "ПОЗИЦИЯ РОССИИ НЕ ИЗМЕНИЛАСЬ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "54": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "МЕРЦ: ЕВРОПА ДОЛЖНА БЫТЬ ВНУТРИ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "57": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "ЛУКАШЕНКО · 3 НОЯБРЯ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "58": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "ВОЙНА КОНЧИТСЯ ЗА МЕСЯЦЫ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "62": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "А ЗА СЧЁТ ЧЕГО?",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "66": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "ПЕРЕГОВОРЫ ЧЕРЕЗ НЕСКОЛЬКО ДНЕЙ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "69": {
+    "sound": "whoosh",
+    "at": 1.8,
+    "text": {
+      "words": "КТО ОТ ЧЕГО ОТСТУПИЛ?",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "74": {
+    "sound": "pop",
+    "at": 1.8,
+    "text": {
+      "words": "АБУ-ДАБИ · 10-11 НОЯБРЯ",
+      "color": "yellow",
+      "pos": "bc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "15": {
+    "sound": "pop",
+    "at": 1.8,
+    "photo": "overlays/scene_015.jpg",
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  }
+}
