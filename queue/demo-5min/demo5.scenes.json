@@ -1,0 +1,37 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 8.0,
+   "visual_prompt": "показ кнопки",
+   "source": "press_photo",
+   "source_query": "газовый терминал СПГ причал 2025",
+   "overlays": [],
+   "fx": "subscribe2"
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 8.0,
+   "duration_sec": 8.0,
+   "visual_prompt": "показ кнопки",
+   "source": "press_photo",
+   "source_query": "компрессорная станция трубы 2025",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 16.0,
+   "duration_sec": 8.0,
+   "visual_prompt": "показ кнопки",
+   "source": "press_photo",
+   "source_query": "здание Еврокомиссии Брюссель 2025",
+   "overlays": [],
+   "fx": "subscribe2"
+  }
+ ]
+}
