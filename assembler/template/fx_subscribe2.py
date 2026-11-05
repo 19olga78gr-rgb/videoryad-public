@@ -256,9 +256,13 @@ def frame(t):
         if g0 <= t <= g0 + 0.42:
             glare = (t - g0) / 0.42
 
-    typed = min(1.0, max(0.0, (t - 0.05) / 0.45))
+    typed = min(1.0, max(0.0, (t - 0.04) / 0.26))
     face_im = _face(face, bw, bh, glare, t, typed)
-    squeeze = max(0.06, abs(math.cos(ang)))        # переворот = сжатие по X
+    # ПЛАСТИНА НЕ СХЛОПЫВАЕТСЯ В ПОЛОСКУ (05.11, по листу кадров): при
+    # сжатии до 6% она на миг превращается в красную щепку, и это читается
+    # как сбой картинки, а не как переворот. Держим минимум 28% ширины —
+    # силуэт меняется, но кнопка всё время остаётся кнопкой.
+    squeeze = max(0.28, abs(math.cos(ang)))
     fw = max(2, int(bw * squeeze))
     face_im = face_im.resize((fw, int(bh)), Image.BICUBIC)
     fx0 = int(bx + (bw - fw) / 2.0)
