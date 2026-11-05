@@ -187,7 +187,7 @@ def _face(face, w, h, glare):
     d.rounded_rectangle([0, 0, w - 1, h - 1], radius=RADIUS,
                         outline=(255, 255, 255, 60), width=2)
     # фирменная черта слева — как в наших надписях
-    d.rounded_rectangle([18, h * 0.26, 24, h * 0.74], radius=3,
+    d.rounded_rectangle([18, h * 0.24, 27, h * 0.76], radius=4,
                         fill=ACCENT if not face else (255, 255, 255, 230))
     track = 4
     f = _fit(TEXT, w - 96, track)
@@ -240,17 +240,21 @@ def frame(t):
     # пластина в этот момент стоит ребром, и дорожки у неё нет.
     if ang < 0.2:
         pts = _ring_path(bx, by, bx + bw, by + bh, RADIUS, 200)
-        head = (t * 0.9) % 1.0
+        head = (t * 0.75) % 1.0
         n = len(pts)
         hi = int(head * n)
-        for j in range(44):                       # хвост искры
-            idx = (hi - j) % n
-            a = int(235 * (1.0 - j / 44.0) ** 1.6)
-            if a < 8:
-                continue
-            x, y = pts[idx]
-            nx, ny = pts[(idx + 1) % n]
-            d.line([x, y, nx, ny], fill=ACCENT + (a,), width=3)
+        # ДВА ПРОХОДА: широкий тусклый ореол и узкая яркая жила. На листе
+        # кадров первая версия (одна линия в 3 px) была не видна вовсе —
+        # на превью 480 px это меньше пикселя, и «замысловатость» пропадала.
+        for width, mul in ((9, 0.30), (4, 1.0)):
+            for j in range(56):
+                idx = (hi - j) % n
+                a = int(245 * mul * (1.0 - j / 56.0) ** 1.5)
+                if a < 8:
+                    continue
+                x, y = pts[idx]
+                nx, ny = pts[(idx + 1) % n]
+                d.line([x, y, nx, ny], fill=ACCENT + (a,), width=width)
 
     # курсор-стрелка: та же, что в принятой кнопке — набор один, рука одна
     if t < T_LEAVE + 0.4:
