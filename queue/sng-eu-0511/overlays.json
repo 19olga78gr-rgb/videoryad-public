@@ -1,0 +1,622 @@
+{
+ "anchor": "top",
+ "2": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ЗАЯВКА, А НЕ ВСТУПЛЕНИЕ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "5": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ПАШИНЯН НАЗВАЛ 2027 И 2028",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "8": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "РЫНОК, ЛОГИСТИКА, ЕАЭС",
+   "color": "green",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_008.jpg",
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "style": "left",
+  "approved": true
+ },
+ "9": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ОДНОЙ КНОПКОЙ НЕ ВЫКЛЮЧИТЬ",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_009.jpg",
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "style": "right",
+  "approved": true
+ },
+ "11": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ПРИВЫЧНЫЕ РЫНКИ И МАРШРУТЫ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "13": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "РОССИЯ ОГРАНИЧИЛА ЧАСТЬ ТОВАРОВ",
+   "color": "green",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "15": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ВОПРОС ПРОСТОЙ: КУДА ДЕВАТЬ ЯЩИКИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "16": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "АБРИКОСЫ, ВИНО, ПРОДУКЦИЯ ЗАВОДА",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "18": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ЦЕНА ПОЯВЛЯЕТСЯ РАНЬШЕ ЗАЯВКИ",
+   "color": "green",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "19": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "НА СЦЕНУ ВЫХОДИТ ОДКБ",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_019.jpg",
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "style": "right",
+  "approved": true
+ },
+ "20": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ВЗНОСЫ ПЕРЕСТАЛИ ПЛАТИТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "21": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ОБСУЖДАЮТ ЛИШЕНИЕ ПРАВА ГОЛОСА",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "22": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ОСНОВАНИЕ — СТАТЬЯ 25",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "24": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "СТАРОЕ РАЗОБРАНО, НОВОЕ НЕ ГОТОВО",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "25": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "УЧАСТИЕ ЗАМОРОЖЕНО ОКОЛО ТРЁХ ЛЕТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "28": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ГЛАВА — ЭТО ЗАКОНЫ И ИНСТИТУТЫ",
+   "color": "green",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "30": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "МОЛДОВЕ — ДВАДЦАТЬ ПЯТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "31": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "УКРАИНЕ — СЕМЬ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_031.jpg",
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "style": "right",
+  "approved": true
+ },
+ "33": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "СМОТРЯТ СУДЫ И РЕЕСТРЫ",
+   "color": "green",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "34": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "СПРАШИВАЮТ ПРО ИСПОЛНЕНИЕ",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "35": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "БУХГАЛТЕР ОТКРЫВАЕТ ПАПКУ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_035.jpg",
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "style": "right",
+  "approved": true
+ },
+ "37": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "РЕСУРСЫ УХОДЯТ НА ОБОРОНУ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_037.jpg",
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "style": "right",
+  "approved": true
+ },
+ "38": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ЭКЗАМЕН ИЗ-ЗА ВОЙНЫ НЕ ОТМЕНЯЮТ",
+   "color": "green",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "41": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ТЕРРИТОРИАЛЬНЫЙ ВОПРОС НЕ РЕШЁН",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "42": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ПЕРЕГОВОРЫ ИДУТ ПАРАЛЛЕЛЬНО",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "44": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ВОЛШЕБНОЙ ПЕЧАТИ НЕТ",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_044.jpg",
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "style": "left",
+  "approved": true
+ },
+ "45": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ДАЛЬШЕ РЕШАЮТ ГОСУДАРСТВА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "48": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ВСПОМНЯТ ФЕРМЕРОВ И МИГРАЦИЮ",
+   "color": "green",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "49": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ЭТО НЕ ПОЕЗД, А ШЛАГБАУМЫ",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "50": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ГЕОГРАФИЮ НЕ ОТМЕНИТЬ ЗАЯВЛЕНИЕМ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "52": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ГЛАВНЫЙ МАРШРУТ ИДЁТ ЧЕРЕЗ ГРУЗИЮ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_052.jpg",
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "style": "left",
+  "approved": true
+ },
+ "55": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "МАШИНЫ ИДУТ, ПРОЕКТЫ СТОЯТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "57": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ГРУЗИЯ УЖЕ КАНДИДАТ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "59": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "ТБИЛИСИ ГОВОРИТ О ВМЕШАТЕЛЬСТВЕ",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "60": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "СПОР ДОШЁЛ ДО ПРИНЦИПА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "64": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "НАЛОГИ, СУДЫ, СТАНДАРТЫ",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "66": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ЗАЯВКА ЕЩЁ НЕ ПОДАНА",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "68": {
+  "sound": "whoosh",
+  "at": 1.8,
+  "text": {
+   "words": "СТАТУС НИЧЕГО НЕ ГАРАНТИРУЕТ",
+   "color": "green",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "69": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ДАТА — НЕ САМОЕ ГЛАВНОЕ",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "47": {
+  "sound": "pop",
+  "at": 1.8,
+  "anchor": "top",
+  "pos": "tc",
+  "color": "orange",
+  "photo": "overlays/scene_047.jpg",
+  "shape": "rect",
+  "size": "m",
+  "scale": 1.0,
+  "style": "right",
+  "approved": true
+ },
+ "29": {
+  "text": {
+   "words": "ШЛИ ОДНИМ ПАКЕТОМ",
+   "color": "orange",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ }
+}
