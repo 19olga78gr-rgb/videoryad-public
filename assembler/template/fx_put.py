@@ -324,19 +324,36 @@ def _auto(a, data, scenes):
              for i in range(_rest)]
     targets = [max(first + 2, first + int(n * (f + rnd.uniform(-0.02, 0.02))))
                for f in (_head + _tail)]
+    # ШАГ МЕЖДУ ЭФФЕКТАМИ УСТУПАЕТ НОРМЕ «КАЖДЫЙ ВИД ПО ТРИ» (05.11, его
+    # прямое слово по сданному ролику про Киев: «Нахуя я разрабатываю каждый
+    # раз новый эффект… чтобы применился один? Они все по 3 раза на
+    # видеоряд, чтобы ВСЕ эффекты присутствовали»). Шаг в четыре сцены стоял
+    # жёстко, и при пяти видах места кончались: на 56 сценах вставало 8
+    # эффектов вместо 15, причём виды выпадали целиком. Теперь шаг —
+    # уступающее правило: пробуем 4, потом 3, потом 2, и берём первый, при
+    # котором помещается ВСЯ норма. Ближе двух сцен не ставим никогда.
+    def _pick(gap):
+        _p = []
+        for t in targets:
+            cand = [x for x in ok if x not in _p]
+            if not cand:
+                break
+            _p.append(min(cand, key=lambda x: (abs(x - t), x)))
+        _p.sort()
+        _keep, _busy = [], list(have)
+        for x in _p:
+            if all(abs(x - y) >= gap for y in _busy):
+                _keep.append(x); _busy.append(x)
+        return _keep
+
     picked = []
-    for t in targets:
-        cand = [x for x in ok if x not in picked]
-        if not cand:
+    for _gap in (4, 3, 2):
+        picked = _pick(_gap)
+        if len(picked) >= free:
+            if _gap < 4:
+                print("шаг между эффектами уменьшен до %d сцен — иначе норма "
+                      "«%d каждого вида» не помещается" % (_gap, FX_MAX))
             break
-        picked.append(min(cand, key=lambda x: (abs(x - t), x)))
-    # соседние эффекты — не ближе четырёх сцен друг к другу и к уже стоящим
-    picked.sort()
-    keep, busy = [], list(have)
-    for x in picked:
-        if all(abs(x - y) >= 4 for y in busy):
-            keep.append(x); busy.append(x)
-    picked = keep
     if not picked:
         print("!! подходящие сцены есть, но все ближе четырёх сцен к уже "
               "стоящим эффектам — ставить не буду", file=sys.stderr)
