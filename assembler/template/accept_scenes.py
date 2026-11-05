@@ -382,7 +382,7 @@ def main():
         # ПОТОЛОК ТРИ СЧИТАЕТСЯ НА ВСЕ ВИДЫ ВМЕСТЕ — «эффекты не больше 3 раз
         # на видеоряд».
         _ok_fx = {"inset", "mosaic", "panels", "wipe", "depth", "tear",
-                  "subscribe"}
+                  "subscribe", "subscribe2"}
         _trans = {"mosaic", "panels", "wipe", "depth", "tear"}
         _first = min((int(sc.get("id", 0)) for sc in scenes), default=0)
         for sc in scenes:
