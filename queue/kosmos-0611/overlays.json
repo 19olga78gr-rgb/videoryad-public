@@ -1,0 +1,103 @@
+{
+  "anchor": "top",
+  "1": {
+    "photo": "overlays/scene_001.jpg",
+    "sound": "pop",
+    "at": 2.6,
+    "approved": true,
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "12": {
+    "photo": "overlays/scene_012.jpg",
+    "sound": "whoosh",
+    "at": 2.8,
+    "approved": true,
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "16": {
+    "photo": "overlays/scene_016.jpg",
+    "sound": "ding",
+    "at": 2.5,
+    "style": "right",
+    "anchor": "middle",
+    "approved": true,
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "22": {
+    "photo": "overlays/scene_022.jpg",
+    "sound": "pop",
+    "at": 3.0,
+    "shape": "rect",
+    "scale": 1.0,
+    "approved": true
+  },
+  "38": {
+    "photo": "overlays/scene_038.jpg",
+    "sound": "whoosh",
+    "at": 3.1,
+    "style": "right",
+    "anchor": "middle",
+    "approved": true,
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "49": {
+    "photo": "overlays/scene_049.jpg",
+    "sound": "ding",
+    "at": 2.9,
+    "approved": true,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "left",
+    "anchor": "top"
+  },
+  "55": {
+    "photo": "overlays/scene_055.jpg",
+    "sound": "whoosh",
+    "at": 3.0,
+    "style": "left",
+    "anchor": "middle",
+    "shape": "rect",
+    "scale": 1.0,
+    "approved": true
+  },
+  "70": {
+    "photo": "overlays/scene_070.jpg",
+    "sound": "zatvor",
+    "at": 2.8,
+    "style": "right",
+    "anchor": "middle",
+    "shape": "rect",
+    "scale": 1.0,
+    "approved": true
+  },
+  "72": {
+    "photo": "overlays/scene_072.jpg",
+    "sound": "ding",
+    "at": 3.0,
+    "style": "left",
+    "anchor": "top",
+    "shape": "rect",
+    "scale": 1.0,
+    "approved": true
+  },
+  "62": {
+    "photo": "overlays/scene_062.jpg",
+    "sound": "pop",
+    "at": 3.2,
+    "approved": true,
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "43": {
+    "photo": "overlays/scene_043.jpg",
+    "sound": "pop",
+    "at": 2.4,
+    "approved": true,
+    "shape": "rect",
+    "scale": 1.0
+  }
+}
