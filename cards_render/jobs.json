@@ -1,0 +1,245 @@
+[
+ {
+  "scene": 2,
+  "view": "film.film_single",
+  "dur": 12.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_008.jpg",
+   "kick": "по версии Financial Times",
+   "title": "РАЗГОВОР БЫЛ ОЧЕНЬ КОРОТКИЙ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 9,
+  "view": "split",
+  "dur": 11.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Чем дальше Украина способна бить, тем ближе конец конфликта",
+   "author": "Андрей Сибига",
+   "role": "глава МИД Украины",
+   "photo": "images/scene_010.jpg",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 18,
+  "view": "slider",
+  "dur": 10.0,
+  "anim": 10.0,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "ГОРОДУ НУЖНО ОКОЛО ДВУХ ГИГАВАТТ",
+   "min": 0.0,
+   "max": 2000.0,
+   "low": 0.0,
+   "high": 2000.0,
+   "marker_value": 120.0,
+   "marker_display": "120",
+   "seconds": 10.0,
+   "range_label": "мегаватты: что реально закрывают дизели",
+   "caption": "Полностью обеспечить Киев генераторами невозможно",
+   "source": ""
+  }
+ },
+ {
+  "scene": 24,
+  "view": "cinematic.depth_of_field",
+  "dur": 9.6,
+  "anim": 9.6,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_023.jpg",
+   "kick": "ТРОЕЩИНА · ДОЛГИЙ БЛЭКАУТ",
+   "title": "СНАЧАЛА НАД ЭТИМ СМЕЯЛИСЬ",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 30,
+  "view": "photo",
+  "dur": 11.4,
+  "anim": 11.4,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "kick": "ОРБИТА · НОЯБРЬ 2026",
+   "watermark": "5 МИНУТ",
+   "photo": "images/scene_029.jpg",
+   "title": "ГРУППИРОВКА «РАССВЕТ»",
+   "lines": [
+    "Связь и передача данных для военных",
+    "Используется над территорией Украины",
+    "Запуски продолжаются"
+   ]
+  }
+ },
+ {
+  "scene": 36,
+  "view": "poster.poster",
+  "dur": 13.0,
+  "anim": 13.0,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "kick": "ЗАЧЕМ ЭТО РАБОТАЕТ",
+   "title": "ТРИДЦАТЬ ДВА АППАРАТА УЖЕ ДАЮТ СИСТЕМУ",
+   "bottom": "Накрывать спутниками всю планету для этого не требуется",
+   "facts": [
+    {
+     "label": "Связь",
+     "value": "канал там, где он нужен"
+    },
+    {
+     "label": "Управление",
+     "value": "работа беспилотных систем"
+    },
+    {
+     "label": "Устойчивость",
+     "value": "растёт с каждым запуском"
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 43,
+  "view": "bars",
+  "dur": 11.4,
+  "anim": 11.4,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "РАЗНОЕ КОЛИЧЕСТВО ОРУЖИЯ",
+   "caption": "",
+   "seconds": 11.4,
+   "bars": [
+    {
+     "label": "РОССИЯ",
+     "value": 1.0,
+     "color": "B92526"
+    },
+    {
+     "label": "ЕВРОПА НАТО",
+     "value": 0.35,
+     "color": "EABD23"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 49,
+  "view": "marker_serif",
+  "dur": 11.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Городские власти готовятся к сценариям, которые ещё недавно сами выглядели анекдотом",
+   "accent": "выглядели анекдотом",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 55,
+  "view": "film.film_strip",
+  "dur": 11.4,
+  "anim": 11.4,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "images/scene_017.jpg",
+    "images/scene_021.jpg",
+    "images/scene_048.jpg"
+   ],
+   "kick": "разрушили · восстановили · повредили другой",
+   "title": "РЕМОНТ ИДЁТ ВМЕСТЕ С УДАРАМИ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 61,
+  "view": "cinematic.evidence_wall",
+  "dur": 12.5,
+  "anim": 12.5,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    [
+     "images/scene_013.jpg",
+     240,
+     250,
+     -4,
+     "Москва"
+    ],
+    [
+     "images/scene_050.jpg",
+     800,
+     250,
+     3,
+     "Киев"
+    ],
+    [
+     "images/scene_040.jpg",
+     1360,
+     250,
+     -2,
+     "НАТО"
+    ],
+    [
+     "images/scene_029.jpg",
+     240,
+     580,
+     4,
+     "орбита"
+    ]
+   ],
+   "kick": "СОРЕВНОВАНИЕ ИНСТРУМЕНТОВ",
+   "title": "ЧЕЙ РАСЧЁТ ВЫДЕРЖИТ ДОЛЬШЕ",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 67,
+  "view": "pull",
+  "dur": 10.7,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Когда обе стороны одновременно решили поднять ставки, фраза «ещё немного надавим» становится очень опасной",
+   "kick": "Главная мысль",
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
