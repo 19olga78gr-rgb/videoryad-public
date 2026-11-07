@@ -1,0 +1,570 @@
+{
+ "anchor": "top",
+ "3": {
+  "photo": "overlays/scene_003.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "6": {
+  "photo": "overlays/scene_006.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "10": {
+  "photo": "overlays/scene_010.jpg",
+  "sound": "zatvor",
+  "at": 2.8,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "17": {
+  "photo": "overlays/scene_017.jpg",
+  "sound": "ding",
+  "at": 3.1,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "20": {
+  "text": {
+   "words": "ЗЕЛЕНСКИЙ ГОВОРИТ ЕЩЁ ЖЁСТЧЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "27": {
+  "photo": "overlays/scene_027.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "29": {
+  "text": {
+   "words": "ТРИДЦАТЬ ДВА АППАРАТА НА ОРБИТЕ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "34": {
+  "text": {
+   "words": "РАЗВЕДКА: СЕТЬ РАБОТАЕТ НАД УКРАИНОЙ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.4,
+   "scale": 1.0
+  }
+ },
+ "40": {
+  "photo": "overlays/scene_040.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "54": {
+  "photo": "overlays/scene_054.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "58": {
+  "photo": "overlays/scene_058.jpg",
+  "sound": "zatvor",
+  "at": 2.8,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "65": {
+  "photo": "overlays/scene_065.jpg",
+  "sound": "ding",
+  "at": 3.1,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "1": {
+  "text": {
+   "words": "ПУТИН ПЕРЕСТАЛ УГОВАРИВАТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "4": {
+  "text": {
+   "words": "ОТВЕТ НА УДАРЫ ПО РОССИЙСКИМ НПЗ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "5": {
+  "text": {
+   "words": "СОГЛАШАЙТЕСЬ — ИЛИ ИНФРАСТРУКТУРЫ НЕ БУДЕТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "7": {
+  "text": {
+   "words": "НАЗЫВАЮТ УЖЕ И ЦЕНУ ОТКАЗА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "8": {
+  "text": {
+   "words": "ПЕРЕГОВОРНЫЙ ЯЗЫК ПОМЕНЯЛСЯ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "11": {
+  "text": {
+   "words": "БЬЁТЕ ПО НПЗ — ЦЕНА РАСТЁТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "12": {
+  "text": {
+   "words": "ОБА СЧИТАЮТ, ЧТО ПРИБЛИЖАЮТ КОНЕЦ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "13": {
+  "text": {
+   "words": "НУ И КТО ПЕРВЫЙ ПЕРЕДУМАЕТ?",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "14": {
+  "text": {
+   "words": "НОВОГО ОРУЖИЯ ДЛЯ ЭТОГО НЕ НУЖНО",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "15": {
+  "text": {
+   "words": "УДАР ПО ЭНЕРГЕТИКЕ КИЕВСКОГО РЕГИОНА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "16": {
+  "text": {
+   "words": "ТРИПОЛЬСКАЯ ТЭС, ТЭЦ, ПОДСТАНЦИИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "19": {
+  "text": {
+   "words": "ДВА ГИГАВАТТА ГЕНЕРАТОРАМИ НЕ ЗАКРЫТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "21": {
+  "text": {
+   "words": "ЦЕЛЫХ ЭЛЕКТРОСТАНЦИЙ НЕ ОСТАЛОСЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "23": {
+  "text": {
+   "words": "ОБСУЖДАЮТ ТО, ЧТО БЫЛО ШУТКОЙ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "25": {
+  "text": {
+   "words": "СНАЧАЛА СМЕЯЛИСЬ. ПОТОМ ИСКАЛИ МЕСТО",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "26": {
+  "text": {
+   "words": "РЕЗЕРВЫ ТОЛКОМ НЕ ПОДГОТОВЛЕНЫ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "28": {
+  "text": {
+   "words": "ДЕНЬГИ НА ГОРОД РАСТВОРИЛИСЬ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "31": {
+  "text": {
+   "words": "СПУТНИКОВ МАЛО — И ЧТО?",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "33": {
+  "text": {
+   "words": "СВЯЗЬ. ДАННЫЕ. УПРАВЛЕНИЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "38": {
+  "text": {
+   "words": "РАЗВЕДКА. НАВИГАЦИЯ. КОРРЕКТИРОВКА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "39": {
+  "text": {
+   "words": "ТЕПЕРЬ К МАРКУ РЮТТЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "41": {
+  "text": {
+   "words": "ДЕНЕГ БОЛЬШЕ, А ЗАКАЗА МЕНЬШЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "42": {
+  "text": {
+   "words": "ВАЖНО, СКОЛЬКО МОЖНО КУПИТЬ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "44": {
+  "text": {
+   "words": "БОЛЬШЕ ПРОДУКЦИИ НА ТЕ ЖЕ ДЕНЬГИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "45": {
+  "text": {
+   "words": "АВТОПРОМУ ПРЕДЛАГАЮТ ВОЕННЫЙ ЗАКАЗ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "47": {
+  "text": {
+   "words": "ЭТО НЕ ЭМОЦИОНАЛЬНАЯ ФРАЗА",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "48": {
+  "text": {
+   "words": "ДАВЯТ ТУДА, ГДЕ УЖЕ ТЯЖЕЛО",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "50": {
+  "text": {
+   "words": "А КИЕВ ГОВОРИТ: БУДЕМ БИТЬ ДАЛЬШЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "51": {
+  "text": {
+   "words": "ЧЕЙ РАСЧЁТ ВЫДЕРЖИТ ДОЛЬШЕ?",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "53": {
+  "text": {
+   "words": "УСТОЙЧИВОСТЬ У СТОРОН РАЗНАЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "56": {
+  "text": {
+   "words": "РЕМОНТ ИДЁТ ВМЕСТЕ С НОВЫМИ УДАРАМИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "57": {
+  "text": {
+   "words": "СИСТЕМА РЕМОНТИРУЕТ САМА СЕБЯ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "59": {
+  "text": {
+   "words": "ЦЕНА СЧИТАЕТСЯ УЖЕ НЕ КИЛОМЕТРАМИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "60": {
+  "text": {
+   "words": "У ФОРМУЛЫ ПОЯВИЛАСЬ ВТОРАЯ ПОЛОВИНА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "62": {
+  "text": {
+   "words": "УДАРЫ СТАЛИ ИНСТРУМЕНТОМ ТОРГА",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "63": {
+  "text": {
+   "words": "ЦЕНА ПРОДОЛЖЕНИЯ ДОЛЖНА РАСТИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "64": {
+  "text": {
+   "words": "УЛЬТИМАТУМ РАБОТАЕТ, КОГДА ЕМУ ВЕРЯТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "66": {
+  "text": {
+   "words": "КАЖДЫЙ ЖДЁТ, ЧТО ДРУГОЙ УСТУПИТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "68": {
+  "text": {
+   "words": "ГОРОДА ИЩУТ РЕЗЕРВНУЮ ЖИЗНЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "69": {
+  "text": {
+   "words": "ПЕРЕГОВОРЫ СТАЛИ СОРЕВНОВАНИЕМ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "72": {
+  "text": {
+   "words": "НОВЫЕ ПАРТИИ. НОВЫЕ РЕМОНТЫ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "73": {
+  "text": {
+   "words": "ТОРГ КОНЧИЛСЯ, СТАВКИ ПОДНИМАЮТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ }
+}
