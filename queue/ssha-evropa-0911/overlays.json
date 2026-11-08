@@ -1,0 +1,409 @@
+{
+ "anchor": "top",
+ "3": {
+  "photo": "overlays/scene_003.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "anchor": "top",
+  "approved": true
+ },
+ "7": {
+  "photo": "overlays/scene_007.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "anchor": "bottom",
+  "approved": true
+ },
+ "14": {
+  "photo": "overlays/scene_014.jpg",
+  "sound": "pop",
+  "at": 2.8,
+  "shape": "square",
+  "scale": 1.0,
+  "style": "right",
+  "approved": true
+ },
+ "21": {
+  "photo": "overlays/scene_021.jpg",
+  "sound": "whoosh",
+  "at": 2.6,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left",
+  "approved": true
+ },
+ "24": {
+  "photo": "overlays/scene_024.jpg",
+  "sound": "ding",
+  "at": 2.7,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "approved": true
+ },
+ "27": {
+  "photo": "overlays/scene_027.jpg",
+  "sound": "pop",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left",
+  "approved": true
+ },
+ "31": {
+  "photo": "overlays/scene_031.jpg",
+  "sound": "whoosh",
+  "at": 2.8,
+  "shape": "square",
+  "scale": 1.0,
+  "style": "right",
+  "approved": true
+ },
+ "36": {
+  "photo": "overlays/scene_036.jpg",
+  "sound": "ding",
+  "at": 2.6,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left",
+  "approved": true
+ },
+ "44": {
+  "photo": "overlays/scene_044.jpg",
+  "sound": "pop",
+  "at": 2.7,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "anchor": "bottom",
+  "approved": true
+ },
+ "50": {
+  "photo": "overlays/scene_050.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "anchor": "bottom",
+  "approved": true
+ },
+ "1": {
+  "text": {
+   "words": "ВЫБОРЫ ЗАКОНЧИЛИСЬ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "2": {
+  "text": {
+   "words": "ИНСТРУКЦИЮ ПОТЕРЯЛИ",
+   "color": "white",
+   "pos": "tl",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.4,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "4": {
+  "text": {
+   "words": "КАЖДЫЙ ЗАНЯТ СВОИМ",
+   "color": "red",
+   "pos": "mc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "5": {
+  "text": {
+   "words": "ЧТО ПОЛУЧАЕТСЯ ВМЕСТЕ",
+   "color": "orange",
+   "pos": "tr",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.4,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "8": {
+  "text": {
+   "words": "ПРЕЖНЕГО УДОБСТВА НЕТ",
+   "color": "green",
+   "pos": "ml",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "11": {
+  "text": {
+   "words": "ХОТЯТ УБРАТЬ С ДОЛЖНОСТИ",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "13": {
+  "text": {
+   "words": "КОНКРЕТНЫЙ КОНФЛИКТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 3.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "15": {
+  "text": {
+   "words": "ПЕРВЫЙ ВЫЛЕТЕЛ",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.4,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "17": {
+  "text": {
+   "words": "ВЫБОРЫ УЖЕ НЕ ДАЛЕКО",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "18": {
+  "text": {
+   "words": "РАССЛЕДУЮТ ВСЕХ СРАЗУ",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "23": {
+  "text": {
+   "words": "НЕ С МЕЧТОЙ, А С ЭТИМ",
+   "color": "yellow",
+   "pos": "ml",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "26": {
+  "text": {
+   "words": "ЕС ПОКУПАЕТ ТОТ ЖЕ РЕСУРС",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "28": {
+  "text": {
+   "words": "«СОВСЕМ ДРУГОЙ ГАЗ»",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "30": {
+  "text": {
+   "words": "«НЕ ХВАТАЕТ МЕРКЕЛЬ»",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "pop",
+   "at": 3.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "33": {
+  "text": {
+   "words": "ПЛАН ЭВАКУАЦИИ ПРЕЗИДЕНТА",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "37": {
+  "text": {
+   "words": "ВЫБОРЫ ЗАКАНЧИВАЮТСЯ ТУТ",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "40": {
+  "text": {
+   "words": "ПОТОЛОК ДАЛЬНОСТИ СНЯТ",
+   "color": "yellow",
+   "pos": "ml",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "41": {
+  "text": {
+   "words": "ЗВУЧАТ БАЗЫ В ЕВРОПЕ",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "43": {
+  "text": {
+   "words": "СЛОВО «СЮРПРИЗ»",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "46": {
+  "text": {
+   "words": "КАБЕЛЬ ЛЕЖИТ БЕЗ ЗАЩИТЫ",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "49": {
+  "text": {
+   "words": "ДОСТАТОЧНО ЗАСТАВИТЬ СМОТРЕТЬ",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "53": {
+  "text": {
+   "words": "СТАРЫЕ ОГРАНИЧЕНИЯ УБИРАЮТ",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "55": {
+  "text": {
+   "words": "ОБЩЕГО ВЫКЛЮЧАТЕЛЯ НЕТ",
+   "color": "yellow",
+   "pos": "ml",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.8,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ },
+ "58": {
+  "text": {
+   "words": "ГЛАВНЫЙ ДЕФИЦИТ — ВНИМАНИЕ",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.4,
+   "scale": 1.0,
+   "approved": true
+  },
+  "sound": "pop"
+ }
+}

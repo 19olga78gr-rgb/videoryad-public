@@ -1,0 +1,85 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 3,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "флаг Евросоюза у здания Берлемон в Брюсселе 2026",
+   "visual_prompt": "флаг Евросоюза у здания Берлемон в Брюсселе 2026"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "купол Капитолия в Вашингтоне 2026 вечерний вид",
+   "visual_prompt": "купол Капитолия в Вашингтоне 2026 вечерний вид"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "Дональд Трамп 2026 портрет",
+   "visual_prompt": "Дональд Трамп 2026 портрет"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "Рейхстаг в Берлине 2026 фасад с флагами без людей",
+   "visual_prompt": "Рейхстаг в Берлине 2026 фасад с флагами без людей"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "истребитель Eurofighter на рулёжке 2026",
+   "visual_prompt": "истребитель Eurofighter на рулёжке 2026"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "танкер СПГ у терминала в Роттердаме 2026",
+   "visual_prompt": "танкер СПГ у терминала в Роттердаме 2026"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "Эмманюэль Макрон 2026 портрет",
+   "visual_prompt": "Эмманюэль Макрон 2026 портрет"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "самолёт на подлёте к аэропорту Вильнюса 2026",
+   "visual_prompt": "самолёт на подлёте к аэропорту Вильнюса 2026"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "контейнеровоз в Ормузском проливе 2026",
+   "visual_prompt": "контейнеровоз в Ормузском проливе 2026"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "танкер в Красном море 2026",
+   "visual_prompt": "танкер в Красном море 2026"
+  }
+ ]
+}
