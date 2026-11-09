@@ -1,0 +1,369 @@
+[
+ {
+  "scene": 6,
+  "view": "paper_typed",
+  "dur": 9.7,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Гарантии безопасности: нерасширение НАТО, отвод сил, запрет на размещение ударных систем у границ",
+   "kick": "ДЕКАБРЬ ДВАДЦАТЬ ПЕРВОГО",
+   "title": "Пакет требований",
+   "source": "МИД России",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 11,
+  "view": "vyrezka.gazeta",
+  "dur": 9.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_011.jpg",
+   "author": "РУСТЕМ УМЕРОВ",
+   "role": "секретарь СНБО Украины",
+   "kick": "кто в делегации",
+   "title": "Украинская сторона",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 16,
+  "view": "marker_serif",
+  "dur": 10.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Война закончится, а Украина станет немного другой",
+   "accent": "немного другой",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 22,
+  "view": "charts.cartogram",
+  "dur": 12.0,
+  "anim": 12.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Москва",
+    "Вашингтон",
+    "Брюссель"
+   ],
+   "kick": "КТО РЕШАЕТ",
+   "title": "Принцип нескольких держав",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 31,
+  "view": "pull",
+  "dur": 12.35,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Европейская архитектура безопасности уже существует: НАТО и Евросоюз играют в ней свои роли",
+   "author": "Кая Каллас",
+   "role": "глава евродипломатии ЕС",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "cinematic.depth_of_field",
+  "dur": 11.74,
+  "anim": 11.74,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_036.jpg",
+   "title": "Рим говорит вслух: единства нет",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 40,
+  "view": "duel",
+  "dur": 12.34,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "kick": "СОВЕТ РОССИЯ — НАТО",
+   "top": {
+    "who": "",
+    "text": "Площадка, где Москва и Альянс разбирают безопасность вместе",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Последнее заседание — январь две тысячи двадцать второго",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "photo",
+  "dur": 12.14,
+  "anim": 12.14,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "watermark": "ПЛАНЕТА",
+   "photo": "images/scene_045.jpg",
+   "title": "Девяносто седьмой",
+   "lines": [
+    "Больше не противники — так заявили обе стороны",
+    "Расширение шло без баз у границ"
+   ]
+  }
+ },
+ {
+  "scene": 50,
+  "view": "film.film_single",
+  "dur": 10.94,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_050.jpg",
+   "kick": "ТОГДА",
+   "title": "Парад, оркестр, гости",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 54,
+  "view": "timeline",
+  "dur": 12.54,
+  "anim": 12.54,
+  "tail_zoom": 0.06,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "kick": "КАК ЭТО ШЛО",
+   "watermark": "ПЛАНЕТА",
+   "events": [
+    {
+     "date": "1997",
+     "text": "Основополагающий акт"
+    },
+    {
+     "date": "2004",
+     "text": "расширение НАТО"
+    },
+    {
+     "date": "2021",
+     "text": "требования Москвы",
+     "hot": true
+    },
+    {
+     "date": "2022",
+     "text": "последнее заседание"
+    },
+    {
+     "date": "2026",
+     "text": "Рябков снова за столом",
+     "hot": true
+    }
+   ]
+  }
+ },
+ {
+  "scene": 63,
+  "view": "bars",
+  "dur": 12.94,
+  "anim": 12.94,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Три уровня «другой формы»",
+   "caption": "",
+   "seconds": 12.94,
+   "bars": [
+    {
+     "label": "ТЕРРИТОРИЯ",
+     "value": 0.45,
+     "color": "4A90E2"
+    },
+    {
+     "label": "ВОЕННЫЙ СТАТУС",
+     "value": 0.75,
+     "color": "48BB78"
+    },
+    {
+     "label": "УСТРОЙСТВО ГОСУДАРСТВА",
+     "value": 1.0,
+     "color": "84848A"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 65,
+  "view": "slider",
+  "dur": 11.54,
+  "anim": 11.54,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "Насколько глубока правка",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 15.0,
+   "high": 95.0,
+   "marker_value": 80.0,
+   "marker_display": "80",
+   "seconds": 11.54,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "",
+   "source": ""
+  }
+ },
+ {
+  "scene": 70,
+  "view": "cinematic.dossier",
+  "dur": 12.54,
+  "anim": 12.54,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "case": "РОССИЙСКАЯ ГРУППА",
+   "rows": [
+    "Мединский — глава делегации",
+    "Рябков — стратегическая стабильность и США",
+    "Галузин — украинское направление МИД"
+   ],
+   "title": "ДОСЬЕ",
+   "photo": "images/card070.jpg",
+   "stamp": "РАСШИРЕНА",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 74,
+  "view": "film.film_strip",
+  "dur": 10.94,
+  "anim": 10.94,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    "/home/andrey/projects/media-library/ПОЛИТИКА/Украина-РФ-Переговоры/Screenshot_12.jpg",
+    "/home/andrey/projects/media-library/ПОЛИТИКА/Украина-РФ-Переговоры/234 (2).jpg",
+    "/home/andrey/projects/media-library/ПОЛИТИКА/Украина-РФ-Переговоры/Screenshot_14.jpg"
+   ],
+   "kick": "КАК ЭТО ВЫГЛЯДИТ",
+   "title": "Стол, флаги, подписи",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 79,
+  "view": "cinematic.evidence_wall",
+  "dur": 12.94,
+  "anim": 12.94,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    [
+     "dossier/OstashkoNews_228151_f0.jpg",
+     240,
+     380,
+     -4,
+     "Москва ищет посредника"
+    ],
+    [
+     "dossier/OstashkoNews_227826_f0.jpg",
+     800,
+     380,
+     3,
+     "Вашингтон задаёт рамку"
+    ],
+    [
+     "images/scene_079.jpg",
+     1360,
+     380,
+     -2,
+     "Ялта, сорок пятый"
+    ]
+   ],
+   "kick": "ЧТО С ЧЕМ СВЯЗАНО",
+   "title": "Ялта, Париж, Абу-Даби — одна линия",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 85,
+  "view": "poster.poster",
+  "dur": 12.14,
+  "anim": 12.14,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "title": "Вашингтон говорит с Москвой напрямую",
+   "hero_photo": "/home/andrey/projects/media-library/ПОЛИТИКА/ВИТКОФФ-КУШНЕР/кушнеш и уитков в москве2.jpg",
+   "features": [
+    {
+     "text": "Европа узнаёт о решениях после"
+    },
+    {
+     "text": "Форматы множатся, позиции нет"
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 100,
+  "view": "split",
+  "dur": 13.01,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "После соглашения Украина будет немного другой формы",
+   "author": "Дональд Трамп",
+   "role": "президент США",
+   "photo": "images/card100.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
