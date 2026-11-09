@@ -1,0 +1,319 @@
+[
+ {
+  "scene": 5,
+  "view": "cinematic.dossier",
+  "dur": 10.0,
+  "anim": 10.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "case": "СКОЛЬКО УЖЕ И СКОЛЬКО ЕЩЁ",
+   "rows": [
+    "Новые совместные кредиты — свыше 40 млрд евро",
+    "Общий долг на помощь — более 200 млрд евро",
+    "Перечислено Киеву — 166 млрд евро",
+    "Дали замороженные активы — около 8 млрд евро"
+   ],
+   "kick": "СЧЁТ ЕВРОСОЮЗА",
+   "title": "СЧЁТ ЕВРОСОЮЗА",
+   "photo": "images/scene_005.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 10,
+  "view": "poster.poster",
+  "dur": 10.0,
+  "anim": 10.0,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "kick": "ЦЕНА ПРОДОЛЖЕНИЯ",
+   "title": "ЗА ЧТО ПЛАТИТ ЕВРОПЕЕЦ",
+   "hero_photo": "cards/photo/kadr_202.jpg",
+   "bottom": "И всё это сопровождается одной фразой: надо продолжать",
+   "facts": [
+    {
+     "label": "Бюджет",
+     "value": "опять тугой"
+    },
+    {
+     "label": "Социальные расходы",
+     "value": "пересматривают"
+    },
+    {
+     "label": "Энергия",
+     "value": "давит на издержки"
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 16,
+  "view": "photo",
+  "dur": 13.5,
+  "anim": 13.5,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "watermark": "5 МИНУТ",
+   "photo": "images/scene_016.jpg",
+   "title": "ГЕРМАНИЯ — «БЕСПОМОЩНЫЙ ПАРТНЁР НОМЕР ОДИН»",
+   "lines": [
+    "Берлин даёт деньги, оружие и обещания",
+    "О будущем Украины говорят Москва и Вашингтон",
+    "Handelsblatt, 4 ноября 2026"
+   ]
+  }
+ },
+ {
+  "scene": 20,
+  "view": "bars",
+  "dur": 13.6,
+  "anim": 13.6,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "ОБЕЩАНО — И НЕ НАЙДЕНО",
+   "caption": "Семь миллиардов из семидесяти странам НАТО собрать не удалось",
+   "seconds": 13.6,
+   "bars": [
+    {
+     "label": "ОБЕЩАНО КИЕВУ",
+     "value": 1.0,
+     "color": "EABD23"
+    },
+    {
+     "label": "НЕ ОБЕСПЕЧЕНО",
+     "value": 0.1,
+     "color": "B92526"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 24,
+  "view": "split",
+  "dur": 11.8,
+  "anim": 2.0,
+  "tail_zoom": 0.06,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_024.jpg",
+   "text": "Украина после соглашения будет иметь немного другую форму.",
+   "author": "Дональд Трамп",
+   "role": "президент США, интервью CBS News",
+   "accent": "Украина после соглашения будет",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 28,
+  "view": "marker_serif",
+  "dur": 11.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Если Путин приедет на саммит двадцатки в Майами, я не стану избегать разговора.",
+   "accent": "не стану избегать разговора",
+   "author": "Фридрих Мерц",
+   "role": "канцлер Германии",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "charts.cartogram",
+  "dur": 11.5,
+  "anim": 11.5,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Германия",
+    "Россия",
+    "США",
+    "ОАЭ"
+   ],
+   "kick": "ПРЕДЛОЖЕНИЕ АДГ",
+   "title": "САММИТ БЕЗ УКРАИНЫ",
+   "source": "Le Monde",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "slider",
+  "dur": 11.4,
+  "anim": 11.4,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "АДГ: ОТ 27 ДО 30 ПРОЦЕНТОВ",
+   "min": 0.0,
+   "max": 40.0,
+   "low": 27.0,
+   "high": 30.0,
+   "marker_value": 20.0,
+   "marker_display": "20",
+   "seconds": 11.4,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "У ХДС и ХСС — девятнадцать",
+   "source": "INSA"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "cinematic.evidence_wall",
+  "dur": 11.9,
+  "anim": 11.9,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    [
+     "images/scene_040.jpg",
+     240,
+     380,
+     -4,
+     "урна для бюллетеней"
+    ],
+    [
+     "images/scene_038.jpg",
+     800,
+     380,
+     3,
+     "треть избирателей за АдГ"
+    ],
+    [
+     "images/scene_037.jpg",
+     1360,
+     380,
+     -2,
+     "коалицию собирают без них"
+    ]
+   ],
+   "kick": "КАК ЭТО СВЯЗАНО",
+   "title": "ГОЛОС ЕСТЬ, ПРАВИТЕЛЬСТВА НЕТ",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 45,
+  "view": "film.film_single",
+  "dur": 12.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_045.jpg",
+   "kick": "АВГУСТ 1991",
+   "title": "ЖДАТЬ НОВОГО ЕЛЬЦИНА",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "vyrezka.gazeta",
+  "dur": 12.3,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_049.jpg",
+   "author": "ВЛАДИМИР ПУТИН",
+   "role": "президент России",
+   "kick": "НЕ БУДЕТ ОДНОГО — ПРИДЁТ СЛЕДУЮЩИЙ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 53,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.1,
+  "anim": 12.1,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_053.jpg",
+   "kick": "ЭКОНОМИКА НЕ В ВАКУУМЕ",
+   "title": "ПРОМЫШЛЕННОСТЬ ГЕРМАНИИ ДЕРЖИТСЯ НА НИЗКОМ УРОВНЕ",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 57,
+  "view": "film.film_strip",
+  "dur": 12.0,
+  "anim": 12.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "images/scene_013.jpg",
+    "images/scene_021.jpg",
+    "images/scene_058.jpg",
+    "images/scene_060.jpg"
+   ],
+   "kick": "ОЧЕРЕДЬ ОБЕЩАНИЙ",
+   "title": "СНАЧАЛА. ПОТОМ. ПОТОМ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 62,
+  "view": "pull",
+  "dur": 11.5,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Там уже не обсуждают размер пособия и стоимость газа. Вся геополитика помещается в один вопрос: где сегодня будет безопасно спать.",
+   "accent": "где сегодня будет безопасно спать",
+   "author": "5 МИНУТ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 67,
+  "view": "vyrezka.figura",
+  "dur": 11.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_067.jpg",
+   "author": "ФРИДРИХ МЕРЦ",
+   "role": "канцлер Германии",
+   "kick": "ОСТОРОЖНО ОТКРЫВАЕТ ДВЕРЬ",
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
