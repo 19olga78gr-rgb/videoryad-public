@@ -1,0 +1,390 @@
+{
+ "33": {
+  "photo": "overlays/scene_033.jpg",
+  "sound": "whoosh",
+  "at": 1.8,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "anchor": "middle",
+  "text": {
+   "words": "ГРАНИЦА — 1340 КМ",
+   "color": "yellow",
+   "pos": "ml",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  },
+  "approved": true,
+  "dash_ok": true
+ },
+ "60": {
+  "photo": "overlays/scene_060.jpg",
+  "sound": "whoosh",
+  "at": 1.8,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "anchor": "middle",
+  "approved": true,
+  "dash_ok": true
+ },
+ "2": {
+  "photo": "overlays/scene_002.jpg",
+  "sound": "whoosh",
+  "at": 1.8,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "anchor": "middle",
+  "text": {
+   "words": "ПРЯМАЯ ВОЕННАЯ СВЯЗЬ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  },
+  "approved": true,
+  "dash_ok": true
+ },
+ "63": {
+  "photo": "overlays/scene_063.jpg",
+  "sound": "whoosh",
+  "at": 2.0,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "anchor": "middle",
+  "approved": true,
+  "dash_ok": true
+ },
+ "anchor": "top",
+ "4": {
+  "text": {
+   "words": "ОДНОГО ПОСОЛЬСТВА УЖЕ МАЛО",
+   "color": "white",
+   "pos": "tl",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "6": {
+  "text": {
+   "words": "ТЕЛЕФОН НА ПЯТОМ ГОДУ",
+   "color": "red",
+   "pos": "mc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "8": {
+  "text": {
+   "words": "КРАСНАЯ ЛИНИЯ ОТОДВИГАЛАСЬ",
+   "color": "orange",
+   "pos": "tr",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "10": {
+  "text": {
+   "words": "БРОНЕТЕХНИКА И РАКЕТЫ",
+   "color": "green",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "13": {
+  "text": {
+   "words": "КУРС НЕ МЕНЯЕТСЯ",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "16": {
+  "text": {
+   "words": "СТАВКИ ВВЕРХ, ПОСЛЕДСТВИЯ ДРУГИМ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "17": {
+  "text": {
+   "words": "АЛЬЯНС ПРОТИВ ПОДЛОДОК",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "19": {
+  "text": {
+   "words": "КОРАБЛЬ СЛОМАЛСЯ НА ВЫХОДЕ",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "20": {
+  "text": {
+   "words": "БРИТАНИЯ ОТСТАЁТ ОТ СОЮЗНИКОВ",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "22": {
+  "text": {
+   "words": "В БАЛТИКЕ — ПОСТОЯННО",
+   "color": "yellow",
+   "pos": "ml",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "23": {
+  "text": {
+   "words": "КОРАБЛИ И АВИАЦИЯ ТРЁХ СТРАН",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "26": {
+  "text": {
+   "words": "ПЛАН «ЧЁРНОЕ НЕБО»",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_026.jpg",
+  "sound": "whoosh",
+  "at": 2.6,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "27": {
+  "text": {
+   "words": "РЕЗЕРВНОЕ РАДИО: ТРОЕ СУТОК",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "30": {
+  "text": {
+   "words": "ВОДА И ЛЕКАРСТВА НА ТРИ ДНЯ",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "32": {
+  "text": {
+   "words": "ФИНЛЯНДИЯ УЧИТСЯ У УКРАИНЫ",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "40": {
+  "text": {
+   "words": "ПУШКИ ВНУШАЮТ, МАСЛО ВИДНО",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "41": {
+  "text": {
+   "words": "ЗЕРНО ЗАДЕРЖАТ В КЛАЙПЕДЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "44": {
+  "text": {
+   "words": "ЭСТОНИЯ: ГОСУДАРСТВЕННЫЙ ТЕРРОРИЗМ",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "45": {
+  "text": {
+   "words": "КИБЕРАТАКИ НА СУПЕРМАРКЕТЫ",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "50": {
+  "text": {
+   "words": "49 МЛН ПРОСМОТРОВ",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "56": {
+  "text": {
+   "words": "МАЛО РЕШИТЬ — НАДО ПРОИЗВЕСТИ",
+   "color": "yellow",
+   "pos": "ml",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "58": {
+  "text": {
+   "words": "ИЗОЛЯЦИЯ НЕ СРАБОТАЛА",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "61": {
+  "text": {
+   "words": "ПЕРЕСТАЛ ЗВОНИТЬ — ЗВОНЯТ ДРУГИЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_061.jpg",
+  "sound": "whoosh",
+  "at": 2.6,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "64": {
+  "text": {
+   "words": "БЮДЖЕТЫ ХОТЯТ УВЕЛИЧИВАТЬ",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "66": {
+  "text": {
+   "words": "БОЛЬШЕ КОРАБЛЕЙ — ВАЖНЕЕ СВЯЗЬ",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  },
+  "at": 2.6
+ },
+ "67": {
+  "text": {
+   "words": "ГРОМЧЕ ВОПРОС: КТО ПЛАТИТ",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.2,
+   "scale": 1.0,
+   "approved": true
+  }
+ }
+}
