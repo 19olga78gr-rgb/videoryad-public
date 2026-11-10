@@ -1,0 +1,609 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 9.6,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ЕВРОПА-ЗВОНИТ-МОСКВЕ-3110_ТЕЛЕФОННАЯ-ТРУБКА-СТОЛЕ"
+  },
+  {
+   "id": 2,
+   "start_sec": 9.6,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Министерство обороны Великобритании Лондон 2026 вход и охрана",
+   "fx": "filmwin"
+  },
+  {
+   "id": 3,
+   "start_sec": 19.0,
+   "duration_sec": 9.8,
+   "text": "",
+   "source": "card:tape",
+   "source_query": "карточка «tape» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 4,
+   "start_sec": 28.8,
+   "duration_sec": 9.5,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/pm79pU_ZLAo5cJv8kP5R3svJimBlQkJt_TStKl0fWrhStXSl4lhFx5njd4V_dkieDYBW_GD5Ryd-S_Er8sBTzHDz4Crrv29NHKz4ujeJT5cFEmsPkg-LZhCjNfEijpFgSs0e2ozHVxxLzJdjwd2ucNQEQHvmuYXEIAfEbYfxFIYCi287MEngfP_pzkmBMpYhYPAa8MQ6cVjZNZE9BG8NnWCRbL5GuPf-gcs6fZfAaYezYQoap-OI3kBYGzzswUBCdW3i_fQzzbFGv7KHMx87jNa4peUGbik6udrajNSL0NX8lMwolLqrFZbCKIhsX65IYprMSFkx89KiQl9vKDMWIA.jpg",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 5,
+   "start_sec": 38.3,
+   "duration_sec": 9.9,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/96ec927e69.mp4?token=lMzLhyWqmV1st3_lKJFN1UyVHXBw2GeUkwyozqDnxBvUGWEqnyI9TijXDaJy0B4b2eehM61Z15o8ysr6j6WqDdjFf1oUaw5urhDZM2I8X6tmORuvkXt51wglBG051KMEj-eIxi35eudXhf5fpqD2bQDEiIovvhlANtdFbYwZCcYjIUYCmOYRRoatvN8028st180DG2NqZeYbO5ndN9tgqhVSasO8Si2jeDm7THLSIBHkVF6R6LotcHp6MXWzILTvSiDPpVZ9uDTQkDFjjO0vXDrTUm4UojhUDVDJXalEBAModaUZgKHZDcF2riRALiLFYrNbHF-Er2H9l-m2YlTxmw"
+  },
+  {
+   "id": 6,
+   "start_sec": 48.2,
+   "duration_sec": 9.3,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "служебный телефон защищённой связи на рабочем столе 2026 рука снимает трубку"
+  },
+  {
+   "id": 7,
+   "start_sec": 57.5,
+   "duration_sec": 9.7,
+   "text": "",
+   "source": "web_search",
+   "source_query": "британские грузовики Украина 2026 перевозят закрытые контейнеры"
+  },
+  {
+   "id": 8,
+   "start_sec": 67.2,
+   "duration_sec": 9.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Challenger 2 армии Британии 2023 колонна танков на полигоне",
+   "fx": "curl"
+  },
+  {
+   "id": 9,
+   "start_sec": 76.8,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:film_frame",
+   "source_query": "карточка «film_frame» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 10,
+   "start_sec": 86.2,
+   "duration_sec": 9.8,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Давид Арахамия Киев 2022 портрет у здания Верховной Рады"
+  },
+  {
+   "id": 11,
+   "start_sec": 96.0,
+   "duration_sec": 9.5,
+   "text": "",
+   "source": "web_search",
+   "source_query": "Арахамия Стамбул 2022 сидит за столом с микрофонами",
+   "fx": "slides"
+  },
+  {
+   "id": 12,
+   "start_sec": 105.5,
+   "duration_sec": 9.9,
+   "text": "",
+   "source": "card:vyrezka",
+   "source_query": "карточка «vyrezka» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 13,
+   "start_sec": 115.4,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЗАСЕДАНИЙ-НАТО"
+  },
+  {
+   "id": 14,
+   "start_sec": 124.6,
+   "duration_sec": 13.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "военная линия связи Лондон Москва 2026 аппараты в защищённом помещении",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 15,
+   "start_sec": 138.2,
+   "duration_sec": 13.2,
+   "text": "",
+   "source": "card:pull",
+   "source_query": "карточка «pull» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 16,
+   "start_sec": 151.4,
+   "duration_sec": 13.8,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Уэс Стритинг Лондон 2026 выходит из министерства обороны"
+  },
+  {
+   "id": 17,
+   "start_sec": 165.2,
+   "duration_sec": 13.4,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "корабли ВМС Великобритании Северная Атлантика 2026 совместный поход",
+   "fx": "torn"
+  },
+  {
+   "id": 18,
+   "start_sec": 178.6,
+   "duration_sec": 13.7,
+   "text": "",
+   "source": "card:map",
+   "source_query": "Объединённые экспедиционные силы: Великобритания, Дания, Норвегия, Швеция, Финляндия, Нидерланды, Исландия, Эстония, Латвия, Литва"
+  },
+  {
+   "id": 19,
+   "start_sec": 192.3,
+   "duration_sec": 13.1,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "авианосец Принц Уэльский Портсмут 2022 ремонт у причала"
+  },
+  {
+   "id": 20,
+   "start_sec": 205.4,
+   "duration_sec": 13.5,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/HSCGJhuXYuz-TB-f1nFBV4tS6LVLBoj3QFtjLL-Cx68W0xNa5rnxLG0IpCfQirClnbAjbqViVtvHS9pxX8ntu2DDIrgEhcurMEFhG8avDLxx5Hu4yPp7_b4gX-SxmwyMcZbpK50zOX87VTHyqlZk7JVpKVMTgwQ88JSvTJe58MHoJqHnDFz_9KR_ZfmGyhKOCuJXmN25UZimSrh136EnAuOeyHzg6LyNDV3Rn1o636sNXBJSmKKBCgv9VUBDBq92bOAeNydyVrnyNNnSL13gmeYWOOUJ6DuuuUp6_RXIz-qGR77_11qpFKBi1X17nOSfQDXC9BiRP8DalWRfQRU53w.jpg",
+   "fx": "player"
+  },
+  {
+   "id": 21,
+   "start_sec": 218.9,
+   "duration_sec": 13.3,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО"
+  },
+  {
+   "id": 22,
+   "start_sec": 232.2,
+   "duration_sec": 13.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "корветы и вертолёты НАТО Балтийское море 2026 совместное патрулирование"
+  },
+  {
+   "id": 23,
+   "start_sec": 245.8,
+   "duration_sec": 13.4,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "корвет ВМС Швеции Балтийское море 2026 с вертолётом над палубой",
+   "fx": "stamps"
+  },
+  {
+   "id": 24,
+   "start_sec": 259.2,
+   "duration_sec": 11.5,
+   "text": "",
+   "source": "card:marker_serif",
+   "source_query": "карточка «marker_serif» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 25,
+   "start_sec": 270.7,
+   "duration_sec": 12.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "патрульный самолёт Британии Северная Атлантика 2026 над морским соединением"
+  },
+  {
+   "id": 26,
+   "start_sec": 282.7,
+   "duration_sec": 11.2,
+   "text": "",
+   "source": "web_search",
+   "source_query": "подстанция National Grid Великобритания 2026 рабочие у трансформатора"
+  },
+  {
+   "id": 27,
+   "start_sec": 293.9,
+   "duration_sec": 12.3,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "аварийная бригада National Grid Великобритания 2026 у подстанции ночью",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 28,
+   "start_sec": 306.2,
+   "duration_sec": 11.7,
+   "text": "",
+   "source": "card:poster",
+   "source_query": "карточка «poster» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "poster",
+    "код": "A6",
+    "title": "Семьдесят миллионов фунтов",
+    "watermark": "5 МИНУТ",
+    "anim": 11.7
+   }
+  },
+  {
+   "id": 29,
+   "start_sec": 317.9,
+   "duration_sec": 11.4,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ШТАБ-НАТО-БРЮССЕЛЕ"
+  },
+  {
+   "id": 30,
+   "start_sec": 329.3,
+   "duration_sec": 11.9,
+   "text": "",
+   "source": "web_search",
+   "source_query": "склад питьевой воды Великобритания 2026 ряды поддонов с бутылями",
+   "fx": "filmwin"
+  },
+  {
+   "id": 31,
+   "start_sec": 341.2,
+   "duration_sec": 11.1,
+   "text": "",
+   "source": "card:paper_hand",
+   "source_query": "карточка «paper_hand» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 32,
+   "start_sec": 352.3,
+   "duration_sec": 12.2,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/Ko-fe96nr2QFJdw-s9fSFkXsmAALiatKruAXBTHH_srpZTcqh9ANCMfdmdnPtmMRWGXBZrqiRqqf5EkIe_y_supFaUb-Wq9V3fPO7WKuuyjFfAOSi1XHgdVASh-PP0xKovUdlB-lFreYIpIvLZnBqzb9R3bgRBSG5knrew-qe0eOwnSNVXy_n0BDFXfscDEpMFJRk3mBUK3vO-7wXdl4eHSFfuG5TRqbYgCeJVTPYLuRTgYnmmEXoz_dmI1dj2KiLLfIY9UB4t-e6bpybUARF6H8p6yiiQ1Ov6dC3TbfiN5XPa4snScA_nDIY2boP29HxqjWBbQcpizgWE85X_MfYw.jpg"
+  },
+  {
+   "id": 33,
+   "start_sec": 364.5,
+   "duration_sec": 11.6,
+   "text": "",
+   "source": "web_search",
+   "source_query": "пограничное ограждение Финляндии Иматра 2026 зимой вдоль лесной дороги",
+   "fx": "curl"
+  },
+  {
+   "id": 34,
+   "start_sec": 376.1,
+   "duration_sec": 11.8,
+   "text": "",
+   "source": "card:slider",
+   "source_query": "карточка «slider» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "slider",
+    "код": "A5",
+    "title": "Граница Финляндии с Россией",
+    "watermark": "5 МИНУТ",
+    "anim": 11.8
+   }
+  },
+  {
+   "id": 35,
+   "start_sec": 387.9,
+   "duration_sec": 11.3,
+   "text": "",
+   "source": "web_search",
+   "source_query": "инженерная техника Финляндии Лапландия 2026 работает в снегу"
+  },
+  {
+   "id": 36,
+   "start_sec": 399.2,
+   "duration_sec": 12.1,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "строительные работы Финляндии Иматра 2026 бетонные препятствия у границы",
+   "fx": "slides"
+  },
+  {
+   "id": 37,
+   "start_sec": 411.3,
+   "duration_sec": 11.5,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/oIzubVyk8RcvSxx-JDcPV3Ov2ShOr1kUhbJXkGrfGLmHYdS1xGvqBtezHl-8Q3U7NiIeXoYAXbAUKkqZUmElL-A2wFLche4kyAc2f4Cghf2ks_p2Li2GIMaFMyPG_erbX-An9VUlUGj-kiavCAGwKvavCuKcGfBq1qTAsctVMAsFQ4EiQmtiJIh1AsPEpyvCdJLl7wyDNKSQyCGFhOCIv6cRijBlNzJ3TBU8FthHLdhdJD9--TIt3S1fP1aSmW4eLsbR6-hVqAuAstMIFUSC6_ixWg5BCj6GlYHHqq1wTUOxh8SmMkTy6P5LLT_i8RLThWecgszAwM8ON-x81kIb4w.jpg"
+  },
+  {
+   "id": 38,
+   "start_sec": 422.8,
+   "duration_sec": 11.9,
+   "text": "",
+   "source": "card:bars",
+   "source_query": "Военные расходы вверх, помощь Украине дороже, инфляция на месте, покупательная способность вниз"
+  },
+  {
+   "id": 39,
+   "start_sec": 434.7,
+   "duration_sec": 11.2,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ПРИЛАВОК-НЕМЕЦКОГО-СУПЕРМАРКЕТА"
+  },
+  {
+   "id": 40,
+   "start_sec": 445.9,
+   "duration_sec": 12.3,
+   "text": "",
+   "source": "web_search",
+   "source_query": "зерновозы Литвы Клайпеда 2026 стоят на портовой дороге"
+  },
+  {
+   "id": 41,
+   "start_sec": 458.2,
+   "duration_sec": 11.7,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/lS5rkJS4FPcWTMucAKqZL55MvRPYEx9ZOJZ0UQNGrtjPklfK6qGC6xkDP35eR2ButyIv0s8t-BxQapJE5P8zXmoEWG73EpE40myYTIPlnkoIpiIaaUfCcYSMmAYdla6LNKBfhrUSVLB7f2GnxNupukOkbbsZIDQfmWvCaFy_2tAWVTitcccLM5QNsunKbfLSl6VRYi_YDEAjjdeyHhoJca2ldzUgo-lxPJfFOjlmIWsolhMqcfkXrspPNqTCAdN4OSkFwcWM4T02yu8mjzGCyDn3GuzOq9MpJqR3WT9CPTeJBSd73_7ju3kTyQtdQAuONEwWsU1xJnCsKVNa9MkYHg.jpg",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 42,
+   "start_sec": 469.9,
+   "duration_sec": 11.4,
+   "text": "",
+   "source": "web_search",
+   "source_query": "лабораторное оборудование Вильнюс Литва 2026 специалист проверяет зерно"
+  },
+  {
+   "id": 43,
+   "start_sec": 481.3,
+   "duration_sec": 12.0,
+   "text": "",
+   "source": "card:wall",
+   "source_query": "карточка «wall» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "wall",
+    "код": "A56",
+    "title": "Каждый занят своим фронтом",
+    "watermark": "5 МИНУТ",
+    "anim": 12.0
+   }
+  },
+  {
+   "id": 44,
+   "start_sec": 493.3,
+   "duration_sec": 11.1,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/XczIltzUMVfqa4JuKEGcgzSe3RLbLRGX6v3bmB6PwWpc5p9DHfYOPS9IDwaQb1YsXXIpYZQl-e3urM_T0qXRwTku_Xq2pZY0ftlV67w3GtzJvv7SuAtX_KvoCpL4-RuLyzHBg8y44_IyAbJRZS-_jTXEtjwcvXQwLDXnA9imj_CPHsziDHvaP4Hz5e9WdmIs8pI4Rv0_lwcxoh17CFBEqDtaWlUonXGpUpf1TrF5YVgDuIX6T348pzTDAhyRu33KADJTX6w7nluJ601IbShdmpqiJfOMRfk0DR_pAkmJOooCruUUx4xSAxiUKpHDqQFZvMwGm7Q1guNiOf2An9XsxQ.jpg"
+  },
+  {
+   "id": 45,
+   "start_sec": 504.4,
+   "duration_sec": 12.2,
+   "text": "",
+   "source": "web_search",
+   "source_query": "холодильная витрина супермаркета Германия 2026 продукты на полках",
+   "fx": "torn"
+  },
+  {
+   "id": 46,
+   "start_sec": 516.6,
+   "duration_sec": 11.6,
+   "text": "",
+   "source": "web_search",
+   "source_query": "центр кибербезопасности Таллин 2026 серверные стойки и операторы"
+  },
+  {
+   "id": 47,
+   "start_sec": 528.2,
+   "duration_sec": 11.8,
+   "text": "",
+   "source": "card:dof",
+   "source_query": "карточка «dof» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "dof",
+    "код": "A64",
+    "title": "Европейская арифметика",
+    "watermark": "5 МИНУТ",
+    "anim": 11.8
+   }
+  },
+  {
+   "id": 48,
+   "start_sec": 540.0,
+   "duration_sec": 11.4,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-БЕРЛАЙМОН-БРЮССЕЛЕ"
+  },
+  {
+   "id": 49,
+   "start_sec": 551.4,
+   "duration_sec": 12.2,
+   "text": "",
+   "source": "web_search",
+   "source_query": "уличные беспорядки Париж 2026 взрослые протестующие и полицейские автомобили",
+   "fx": "player"
+  },
+  {
+   "id": 50,
+   "start_sec": 563.6,
+   "duration_sec": 11.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "сторонники Дональда Трампа Вашингтон 2026 в красных кепках на митинге"
+  },
+  {
+   "id": 51,
+   "start_sec": 575.2,
+   "duration_sec": 12.0,
+   "text": "",
+   "source": "card:bubbles",
+   "source_query": "Просмотры за несколько дней: MAGA-аккаунты — 49 миллионов, израильские — 35 миллионов, пророссийские — 2,8 миллиона"
+  },
+  {
+   "id": 52,
+   "start_sec": 587.2,
+   "duration_sec": 11.3,
+   "text": "",
+   "source": "web_search",
+   "source_query": "взрослые протестующие Париж 2026 идут по бульвару вечером"
+  },
+  {
+   "id": 53,
+   "start_sec": 598.5,
+   "duration_sec": 12.4,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "сборка баллистических ракет Воткинск 2026 рабочие возле корпуса",
+   "fx": "stamps"
+  },
+  {
+   "id": 54,
+   "start_sec": 610.9,
+   "duration_sec": 11.8,
+   "text": "",
+   "source": "card:film",
+   "source_query": "карточка «film» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 55,
+   "start_sec": 622.7,
+   "duration_sec": 11.5,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ИСТРЕБИТЕЛЬ-EUROFIGHTER-РУЛЁЖКЕ",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 56,
+   "start_sec": 634.2,
+   "duration_sec": 12.1,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "рабочие оборонного предприятия Шробенхаузен 2026 обслуживают современные станки"
+  },
+  {
+   "id": 57,
+   "start_sec": 646.3,
+   "duration_sec": 11.2,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ДОСЬЕ-ЕВРОПА-ЦЕЛЬ-0911",
+   "fx": "flash"
+  },
+  {
+   "id": 58,
+   "start_sec": 657.5,
+   "duration_sec": 12.3,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/H8Cjh0EEbvl3UEnSCzAwwcQuAQQvsg61uo2JIbbRqe4G4eDg9OnqV06ZH978husTfgADnd-cuQSETBw-pfxBh2EpmCYVhIVNrWzBOv_tY0XWaXwFVWWzXyr0zmocDfaWxMMdPmXVUf4lYA997Xjwsifan83xSMu4sNCaoxjI9SVp8m6dVGmfcceOOk-RmAZE5DefAHTgfOkir676e1XxZRbLFIw5tRkUXrKwUYQ_Hxw-ItJe9xwhEQxtVE_zc-utIayFDss3ricn39cpiELNLPRyaeDweLgDdoiM_6EKnSZ8y1_VOdzr4rbeiNi_nEZGqx0l9HuH-LuuK-Dwjvz9lg.jpg"
+  },
+  {
+   "id": 59,
+   "start_sec": 669.8,
+   "duration_sec": 11.7,
+   "text": "",
+   "source": "card:split",
+   "source_query": "карточка «split» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 60,
+   "start_sec": 681.5,
+   "duration_sec": 11.9,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ПУТИН"
+  },
+  {
+   "id": 61,
+   "start_sec": 693.4,
+   "duration_sec": 11.4,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Сергей Лавров Москва 2026 у телефонного аппарата на переговорах",
+   "fx": "slides"
+  },
+  {
+   "id": 62,
+   "start_sec": 704.8,
+   "duration_sec": 12.2,
+   "text": "",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 63,
+   "start_sec": 717.0,
+   "duration_sec": 11.6,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/УЧЕНИЯ-НАТО-БРОНЕТЕХНИКА"
+  },
+  {
+   "id": 64,
+   "start_sec": 728.6,
+   "duration_sec": 12.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЕВРОПАРЛАМЕНТА-СТРАСБУРГЕ",
+   "fx": "filmwin"
+  },
+  {
+   "id": 65,
+   "start_sec": 740.6,
+   "duration_sec": 11.3,
+   "text": "",
+   "source": "card:vyrezka_kontur",
+   "source_query": "карточка «vyrezka_kontur» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 66,
+   "start_sec": 751.9,
+   "duration_sec": 12.4,
+   "text": "",
+   "source": "web_search",
+   "source_query": "корабли НАТО Северное море 2026 идут совместным строем"
+  },
+  {
+   "id": 67,
+   "start_sec": 764.3,
+   "duration_sec": 11.8,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "правительство Норвегии Осло 2026 служебный вход и автомобили",
+   "fx": "curl"
+  },
+  {
+   "id": 68,
+   "start_sec": 776.1,
+   "duration_sec": 11.5,
+   "text": "",
+   "source": "card:photo",
+   "source_query": "карточка «photo» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "photo",
+    "title": "Единство объявляют на пресс-конференции",
+    "lines": [
+     "номер ищут перед важным разговором",
+     "Лондон просит прямую связь"
+    ],
+    "watermark": "5 МИНУТ",
+    "anim": 11.5,
+    "photo": "images/scene_068.jpg"
+   }
+  }
+ ]
+}
