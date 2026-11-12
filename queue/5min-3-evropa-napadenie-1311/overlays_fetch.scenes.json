@@ -1,0 +1,32 @@
+{
+ "scenes": [
+  {
+   "id": 2,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Фридрих Мерц выступает в бундестаге Берлин 2026"
+  },
+  {
+   "id": 34,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Марк Рютте на пресс-конференции НАТО Брюссель 2026"
+  },
+  {
+   "id": 41,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дональд Туск на пресс-конференции Варшава 2026"
+  },
+  {
+   "id": 50,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Наполеон Бонапарт портрет живопись"
+  }
+ ]
+}
