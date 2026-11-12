@@ -1,0 +1,961 @@
+[
+ {
+  "scene": 3,
+  "view": "film.film_strip",
+  "dur": 11.93,
+  "anim": 11.93,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "cards/photo/card_003.jpg",
+    "cards/photo/card_003_2.jpg",
+    "cards/photo/card_003_3.jpg",
+    "cards/photo/card_003_4.jpg"
+   ],
+   "captions": [
+    "1871 · Париж",
+    "1945 · Берлин",
+    "1917 · Петроград",
+    "1918 · Москва"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 5,
+  "view": "duel",
+  "dur": 9.75,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "top": {
+    "who": "Берлин",
+    "text": "Дальнобойное оружие нужно для сдерживания",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "Париж",
+    "text": "А кто решает, когда его применять и что делать после ответа",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 7,
+  "view": "zal_shkala",
+  "dur": 10.44,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.44,
+   "sheets": [
+    "не выставочная игрушка",
+    "деньги уже расписаны",
+    "сроки уже названы",
+    "заводы уже загружены",
+    "испытания идут",
+    "очередь на годы вперёд"
+   ],
+   "text": "Десятки миллиардов евро",
+   "value": "40 млрд евро",
+   "value_sub": "дальнобойные системы Европы",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 9,
+  "view": "film.film_single",
+  "dur": 10.24,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_009.jpg",
+   "kick": "Франция и Германия · 2026",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 11,
+  "view": "charts.cartogram",
+  "dur": 9.65,
+  "anim": 9.65,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Франция",
+    "Германия"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 14,
+  "view": "photo",
+  "dur": 13.19,
+  "anim": 13.19,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "watermark": "5 МИНУТ",
+   "photo": "cards/photo/card_014.jpg",
+   "title": "Франция требует ясности",
+   "lines": [
+    "кто решает, когда применять",
+    "по каким целям",
+    "что делать после ответа"
+   ]
+  }
+ },
+ {
+  "scene": 15,
+  "view": "zal_makety",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [
+    "Германия: обычные вооружения",
+    "Британия: своё направление",
+    "Польша: рост армии",
+    "деньги",
+    "заводы",
+    "сроки"
+   ],
+   "text": "Каждый занят своим направлением",
+   "makety": [
+    "банк=БЮДЖЕТЫ",
+    "лэп=ПРОМЫШЛЕННОСТЬ"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 16,
+  "view": "zal_slova",
+  "dur": 9.49,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.49,
+   "sheets": [
+    "Германия вооружается",
+    "Британия давит",
+    "Польша растёт",
+    "все работают на одну задачу",
+    "а Париж считает риски",
+    "и смотрит на Берлин"
+   ],
+   "text": "Франция не расслабилась",
+   "na_polu": "НЕ РАССЛАБИЛАСЬ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 17,
+  "view": "torn_split.torn_split",
+  "dur": 10.03,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "a_path": "cards/photo/card_017.jpg",
+   "b_path": "cards/photo/card_017_2.jpg",
+   "title": "Германия снова набирает силу",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 19,
+  "view": "charts.network",
+  "dur": 9.84,
+  "anim": 9.84,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "Берлин",
+     "label": "Берлин",
+     "weight": 9.0
+    },
+    {
+     "id": "Париж",
+     "label": "Париж",
+     "weight": 5.0
+    },
+    {
+     "id": "Лондон",
+     "label": "Лондон",
+     "weight": 5.0
+    },
+    {
+     "id": "Варшава",
+     "label": "Варшава",
+     "weight": 4.0
+    },
+    {
+     "id": "Москва",
+     "label": "Москва",
+     "weight": 7.0
+    }
+   ],
+   "links": [
+    {
+     "from": "Берлин",
+     "to": "Париж",
+     "weight": 3.0
+    },
+    {
+     "from": "Лондон",
+     "to": "Берлин",
+     "weight": 3.0
+    },
+    {
+     "from": "Лондон",
+     "to": "Варшава",
+     "weight": 2.0
+    },
+    {
+     "from": "Париж",
+     "to": "Москва",
+     "weight": 2.0
+    },
+    {
+     "from": "Берлин",
+     "to": "Москва",
+     "weight": 3.0
+    },
+    {
+     "from": "Варшава",
+     "to": "Москва",
+     "weight": 2.0
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 24,
+  "view": "cinematic.evidence_wall",
+  "dur": 9.76,
+  "anim": 9.76,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    [
+     "cards/photo/card_024.jpg",
+     240,
+     250,
+     -4,
+     "теневой флот"
+    ],
+    [
+     "cards/photo/card_024_2.jpg",
+     800,
+     250,
+     3,
+     "новые зоны применения"
+    ],
+    [
+     "cards/photo/card_024_3.jpg",
+     1360,
+     250,
+     -2,
+     "канал связи"
+    ],
+    [
+     "cards/photo/card_024_4.jpg",
+     240,
+     580,
+     4,
+     "оценка намерений"
+    ]
+   ],
+   "title": "Лондонская линия давления",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 27,
+  "view": "devices.device_scene",
+  "dur": 10.19,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "content_path": "cards/photo/card_027.jpg",
+   "items": [
+    "канал связи — прямой военный",
+    "когда понадобился — когда ставки выросли"
+   ],
+   "source": "заявления Лондона",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 29,
+  "view": "zal_efir",
+  "dur": 9.26,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.26,
+   "sheets": [
+    "лондонская линия",
+    "повышать ставки",
+    "создавать дилеммы",
+    "давить заранее",
+    "канал связи на всякий случай",
+    "и без резких движений"
+   ],
+   "text": "Британская линия снова видна",
+   "say": "заставить Москву чувствовать угрозу",
+   "author": "Марк Седвилл",
+   "role": "бывший советник по национальной безопасности Британии",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 30,
+  "view": "split",
+  "dur": 11.44,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "НАТО должно понимать, как его действия воспринимает российская сторона",
+   "author": "Руне Андерсен",
+   "role": "вице-адмирал ВМС Норвегии, НАТО",
+   "photo": "cards/photo/card_030.jpg",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "zal_ekran",
+  "dur": 10.34,
+  "anim": 4.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.34,
+   "sheets": [
+    "давить сильнее",
+    "осторожнее, можно нарваться",
+    "военным путём не лезьте",
+    "получите ответ",
+    "единой стратегии нет",
+    "а решение нужно сейчас"
+   ],
+   "text": "Три разных подхода",
+   "say": "НАТО должно заставить Москву чувствовать угрозу",
+   "author": "Марк Седвилл",
+   "role": "бывший советник по национальной безопасности Британии",
+   "source": "выступление, ноябрь 2026",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 33,
+  "view": "poster.poster",
+  "dur": 11.98,
+  "anim": 11.98,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "title": "Крупнейшая перестройка НАТО за два десятилетия",
+   "hero_photo": "cards/photo/card_033.jpg",
+   "bottom": "главный сценарий теперь здесь",
+   "facts": [
+    {
+     "label": "фокус",
+     "value": "Европа"
+    },
+    {
+     "label": "расходы",
+     "value": "5 % ВВП"
+    },
+    {
+     "label": "силы для внешних кризисов",
+     "value": "минус 90 тыс."
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 35,
+  "view": "bars",
+  "dur": 11.94,
+  "anim": 11.94,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Куда теперь считают силы",
+   "caption": "",
+   "seconds": 11.94,
+   "bars": [
+    {
+     "label": "ВНЕШНИЕ КРИЗИСЫ",
+     "value": 0.3,
+     "color": "EABD23"
+    },
+    {
+     "label": "ЕВРОПЕЙСКИЙ ФРОНТ",
+     "value": 0.7,
+     "color": "B92526"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 36,
+  "view": "charts.line",
+  "dur": 12.81,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "x_labels": [
+    "2021",
+    "2024",
+    "2026"
+   ],
+   "series": [
+    {
+     "name": "расходы союзника",
+     "values": [
+      2.0,
+      3.5,
+      5.0
+     ]
+    }
+   ],
+   "unit": " % ВВП",
+   "source": "НАТО",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 37,
+  "view": "pull",
+  "dur": 11.75,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Европа должна быть сильнее. Европа должна больше тратить. Европа должна взять на себя больше ответственности",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 38,
+  "view": "charts.pie",
+  "dur": 13.36,
+  "anim": 13.36,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "segments": [
+    {
+     "label": "оборона",
+     "value": 5.0
+    },
+    {
+     "label": "остальной бюджет",
+     "value": 95.0
+    }
+   ],
+   "unit": " % ВВП",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 40,
+  "view": "charts.map_dist",
+  "dur": 10.87,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "points": [
+    {
+     "label": "Гдыня",
+     "lat": 54.52,
+     "lon": 18.53,
+     "accent": false
+    },
+    {
+     "label": "Калининград",
+     "lat": 54.71,
+     "lon": 20.51,
+     "accent": false
+    }
+   ],
+   "admin": "Польша",
+   "place": "Балтийское море",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 42,
+  "view": "doc",
+  "dur": 12.16,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Основной военный фокус альянса переносится в Европу. Союзникам больше не нужно держать силы для кризисов на Ближнем Востоке и в Африке: главный сценарий теперь здесь, на восточном фланге",
+   "mark": "восточном фланге",
+   "stamp": "ПЛАН НАТО",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 43,
+  "view": "vyrezka.gazeta",
+  "dur": 11.84,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_043.jpg",
+   "author": "Дональд Туск",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "zal_pol",
+  "dur": 11.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 11.1,
+   "sheets": [
+    "разведка",
+    "риторика",
+    "деньги",
+    "техника",
+    "штабы",
+    "сроки"
+   ],
+   "text": "Всё движется на Восток",
+   "na_polu": "НА ВОСТОК",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "charts.cartogram",
+  "dur": 12.16,
+  "anim": 12.16,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Москва",
+    "Санкт-Петербург"
+   ],
+   "level": "region",
+   "admin": "Россия",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 51,
+  "view": "paper_typed",
+  "dur": 11.52,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Когда Европе не хватало пространства, ресурсов, рынков или влияния, направлением давления регулярно становился Восток",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 53,
+  "view": "zal_schetchik",
+  "dur": 10.51,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.51,
+   "sheets": [
+    "саммит",
+    "бюджет",
+    "число самолётов",
+    "системы ПВО",
+    "ракеты",
+    "люди"
+   ],
+   "text": "Теперь считают по-другому",
+   "value": "5",
+   "value_sub": "% от ВВП",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 55,
+  "view": "cinematic.depth_of_field",
+  "dur": 13.28,
+  "anim": 13.28,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_055.jpg",
+   "title": "Франция веками воевала с Германией",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 59,
+  "view": "zal_kub",
+  "dur": 11.28,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 11.28,
+   "sheets": [
+    "промышленность остаётся",
+    "союзы меняются",
+    "правительства меняются",
+    "а возможности накапливаются",
+    "на десять лет",
+    "и на тридцать"
+   ],
+   "text": "Канцлеры меняются. Ракета остаётся",
+   "kick": "Армия остаётся",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "slider",
+  "dur": 11.88,
+  "anim": 11.88,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "",
+   "min": 0.0,
+   "max": 30.0,
+   "low": 10.0,
+   "high": 30.0,
+   "marker_value": 20.0,
+   "marker_display": "20  лет",
+   "seconds": 11.88,
+   "range_label": "горизонт решения",
+   "caption": "какую Германию Франция получит",
+   "source": ""
+  }
+ },
+ {
+  "scene": 62,
+  "view": "marker_serif",
+  "dur": 12.58,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Современный конфликт предлагается рассматривать как продолжение распада больших государств",
+   "accent": "распада больших государств",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 65,
+  "view": "charts.slope",
+  "dur": 12.88,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "items": [
+    {
+     "label": "государств",
+     "from": 1.0,
+     "to": 15.0
+    },
+    {
+     "label": "границ",
+     "from": 1.0,
+     "to": 15.0
+    },
+    {
+     "label": "портов на Балтике",
+     "from": 3.0,
+     "to": 9.0
+    }
+   ],
+   "left_label": "до 1991",
+   "right_label": "после 1991",
+   "source": "границы после 1991",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 67,
+  "view": "paper_hand",
+  "dur": 10.88,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "А насколько нынешнее давление идёт по старым линиям разлома?",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 70,
+  "view": "charts.cartogram",
+  "dur": 11.19,
+  "anim": 11.19,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Россия",
+    "США",
+    "Украина"
+   ],
+   "mode": "bubble",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 73,
+  "view": "tape",
+  "dur": 11.36,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Решение о снятии европейских санкций и разморозке российских активов может принимать только Европа",
+   "source": "Кая Каллас",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 75,
+  "view": "charts.radar",
+  "dur": 11.52,
+  "anim": 11.52,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "axes": [
+    "армия",
+    "флот",
+    "ракеты",
+    "влияние",
+    "бюджет"
+   ],
+   "series": [
+    {
+     "label": "",
+     "values": [
+      4.0,
+      3.0,
+      4.0,
+      3.0,
+      4.0
+     ]
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 76,
+  "view": "vyrezka.figura",
+  "dur": 11.68,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_076.jpg",
+   "author": "Эммануэль Макрон",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 77,
+  "view": "strike",
+  "dur": 11.6,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "У нас есть единая Европа и единое НАТО, и общий противник",
+   "struck": "единая Европа и единое НАТО",
+   "fix": "у каждого свой калькулятор",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 82,
+  "view": "quote",
+  "dur": 12.28,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Франции нужна сильная Германия против России, но не такая, которая решит, что советы Лондона ей больше не требуются",
+   "accent": "не такая, которая решит",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 83,
+  "view": "cinematic.dossier",
+  "dur": 12.88,
+  "anim": 12.88,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "case": "Польша",
+   "rows": [
+    "армия — крупнейшая в регионе",
+    "Балтика — заявка на главную роль",
+    "вес в НАТО — растёт вместе с восточным фокусом"
+   ],
+   "kick": "заявка на главную роль в регионе",
+   "title": "заявка на главную роль в регионе",
+   "photo": "cards/photo/card_083.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 85,
+  "view": "charts.waterfall",
+  "dur": 12.13,
+  "anim": 12.13,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "start": {
+    "label": "Германия",
+    "value": 2.0
+   },
+   "steps": [
+    {
+     "label": "Польша",
+     "value": 1.0
+    },
+    {
+     "label": "Франция",
+     "value": -1.0
+    }
+   ],
+   "end": {
+    "label": "ИТОГ"
+   },
+   "unit": " вес",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 87,
+  "view": "zal",
+  "dur": 12.94,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Направление то же — на Восток",
+   "words": [
+    "ВОСТОК",
+    "ПАРИЖ"
+   ],
+   "sheets": [
+    "названия союзов меняются",
+    "способы войны меняются",
+    "направление то же",
+    "Франция идёт со всеми",
+    "и оглядывается",
+    "на Германию"
+   ],
+   "channel": "5 МИНУТ",
+   "dur": 12.94,
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
