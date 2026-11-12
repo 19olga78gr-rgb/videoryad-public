@@ -1,0 +1,67 @@
+{
+ "scenes": [
+  {
+   "id": 2,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Фридрих Мерц выступает в бундестаге Берлин 2026"
+  },
+  {
+   "id": 4,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Эммануэль Макрон в Елисейском дворце Париж 2026"
+  },
+  {
+   "id": 10,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Отто фон Бисмарк портрет архивное фото"
+  },
+  {
+   "id": 34,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Марк Рютте на пресс-конференции НАТО Брюссель 2026"
+  },
+  {
+   "id": 41,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дональд Туск на пресс-конференции Варшава 2026"
+  },
+  {
+   "id": 50,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Наполеон Бонапарт портрет живопись"
+  },
+  {
+   "id": 72,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Абу-Даби панорама небоскрёбов 2026"
+  },
+  {
+   "id": 81,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "здание Берлаймон Еврокомиссия Брюссель 2026"
+  },
+  {
+   "id": 86,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп в Белом доме Вашингтон 2026"
+  }
+ ]
+}
