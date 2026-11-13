@@ -1,5 +1,20 @@
 [
  {
+  "scene": 42,
+  "view": "vyrezka.gazeta",
+  "dur": 11.64,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "photo": "cards/photo/card_042.jpg",
+   "author": "Владимир Зеленский",
+   "role": "президент Украины",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
   "scene": 43,
   "view": "vyrezka.figura",
   "dur": 10.95,
