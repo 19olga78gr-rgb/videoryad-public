@@ -1,0 +1,67 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Путин и Стив Уиткофф на переговорах в Кремле, 2026"
+  },
+  {
+   "id": 3,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Джаред Кушнер советник президента США, 2026"
+  },
+  {
+   "id": 5,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "переговоры делегаций России и США в Абу-Даби, ОАЭ, 2026"
+  },
+  {
+   "id": 9,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "обмен военнопленными Россия Украина, автобус, 2026"
+  },
+  {
+   "id": 13,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "здание МИД России на Смоленской площади, Москва"
+  },
+  {
+   "id": 31,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "военный спутник связи на орбите, иллюстрация"
+  },
+  {
+   "id": 35,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "терминал Starlink у украинских военных на позиции, 2026"
+  },
+  {
+   "id": 37,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский выступает с трибуны Верховной рады, 2026"
+  },
+  {
+   "id": 55,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на пресс-конференции в Киеве, 2026"
+  }
+ ]
+}
