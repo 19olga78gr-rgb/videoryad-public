@@ -1,0 +1,29 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 6.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "автомобиль Международного Комитета Красного Креста на дороге, 2026"
+  },
+  {
+   "id": 2,
+   "start_sec": 0.0,
+   "duration_sec": 6.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "сотрудники Красного Креста разгружают гуманитарный груз со склада, 2026"
+  },
+  {
+   "id": 3,
+   "start_sec": 0.0,
+   "duration_sec": 6.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "грузовик гуманитарной помощи ООН на трассе, 2026"
+  }
+ ]
+}
