@@ -1,75 +1,105 @@
 [
  {
-  "scene": 2,
-  "view": "zal_slova",
-  "dur": 10.8,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
+  "scene": 1,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.6,
   "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 9.6,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Когда у вас лежат деньги соседа",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.6
+   }
+  },
   "kwargs": {
+   "text": "Когда у вас лежат деньги соседа",
    "channel": "5 МИНУТ",
-   "dur": 10.8,
-   "sheets": [
-    "нам другое",
-    "пожали руки и разошлись довольные"
-   ],
-   "text": "Только есть одна маленькая загвоздка.",
-   "na_polu": "ЗЕЛЕНСКИЙ",
-   "watermark": "5 МИНУТ"
+   "watermark": "5 МИНУТ",
+   "dur": 9.6
+  }
+ },
+ {
+  "scene": 2,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.9,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 12.9,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Можно, конечно, объявить их своими.",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 12.9,
+    "sobytiya": [
+     "что сосед человек нехороший",
+     "объявить их своими",
+     "Только есть одна маленькая н"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Можно, конечно, объявить их своими.",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 12.9,
+   "sobytiya": [
+    "что сосед человек нехороший",
+    "объявить их своими",
+    "Только есть одна маленькая н"
+   ]
   }
  },
  {
   "scene": 4,
-  "view": "zal_efir",
-  "dur": 11.0,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 11.0,
-   "sheets": [],
-   "text": "Вопрос, которого не задавали",
-   "say": "в обмен на членство в НАТО",
-   "author": "Владимир Зеленский",
-   "role": "президент Украины",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 6,
-  "view": "bars",
-  "dur": 10.6,
-  "anim": 10.6,
+  "view": "poster.poster",
+  "dur": 11.1,
+  "anim": 11.1,
   "tail_zoom": 0.0,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
-  "kwargs": {},
-  "mode": "cli",
-  "script": "build_chart_bars.py",
-  "cfg": {
-   "title": "УСЛОВИЯ В ОТВЕТ НА ДА",
-   "caption": "",
-   "seconds": 10.6,
-   "bars": [
+  "kwargs": {
+   "title": "Вопросы задают те, кто знает про большие деньги",
+   "hero_photo": "cards/photo/card_004.jpg",
+   "facts": [
     {
-     "label": "ГАРАНТИИ БЕЗОПАСНОСТИ",
-     "value": 0.9,
-     "color": "EABD23"
+     "label": "вопросы",
+     "value": "неудобные"
     },
     {
-     "label": "ФИНАНСИРОВАНИЕ",
-     "value": 0.8,
-     "color": "B92526"
-    },
-    {
-     "label": "ВООРУЖЕНИЕ АРМИИ",
-     "value": 0.7,
-     "color": "84848A"
+     "label": "ответы",
+     "value": "короткие"
     }
-   ]
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 5,
+  "view": "doc",
+  "dur": 10.3,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Потому что здесь как раз тот случай, когда за красивыми словами надо смотреть не на слова, а на кассу.",
+   "mark": "КРАСИВЫМИ",
+   "watermark": "5 МИНУТ"
   }
  },
  {
@@ -77,98 +107,480 @@
   "view": "sceny.pechat",
   "mode": "cli",
   "script": "sceny_cli.py",
-  "dur": 11.2,
+  "dur": 6.7,
   "channel": "5 МИНУТ",
   "watermark": "5 МИНУТ",
   "cfg": {
    "view": "pechat",
-   "seconds": 11.2,
+   "seconds": 6.7,
    "fps": 30,
    "t0": 0.0,
    "kwargs": {
-    "text": "То есть вместо",
+    "text": "Причём тот же политик",
     "channel": "5 МИНУТ",
     "watermark": "5 МИНУТ",
-    "dur": 11.2,
+    "dur": 6.7,
     "stamp": "утверждено"
    }
   },
   "kwargs": {
-   "text": "То есть вместо",
+   "text": "Причём тот же политик",
    "channel": "5 МИНУТ",
    "watermark": "5 МИНУТ",
-   "dur": 11.2,
+   "dur": 6.7,
    "stamp": "утверждено"
   }
  },
  {
   "scene": 10,
-  "view": "sceny.relsy",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.7,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "relsy",
-   "seconds": 10.7,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Что, если им нужен был именно такой ответ?",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.7,
-    "sobytiya": [
-     "если американцам это да во",
-     "если им нужен был именно так",
-     "Потому что тогда разговор вы",
-     "Американский представитель п"
-    ]
-   }
-  },
-  "kwargs": {
-   "text": "Что, если им нужен был именно такой ответ?",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.7,
-   "sobytiya": [
-    "если американцам это да во",
-    "если им нужен был именно так",
-    "Потому что тогда разговор вы",
-    "Американский представитель п"
-   ]
-  }
- },
- {
-  "scene": 12,
   "view": "zal",
-  "dur": 11.1,
+  "dur": 8.8,
   "anim": 2.6,
   "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "чего добивалась годами, членство в НАТО.",
+   "text": "маленькие опять оказались самыми громкими.",
    "words": [
-    "ГОДАМИ"
+    "САМЫМИ"
    ],
    "sheets": [
-    "чего добивалась годами",
-    "членство в НАТО",
-    "Причём американцы прекрасно знают, что",
-    "насколько болезненный территориальный"
+    "маленькие опять оказались самыми громк",
+    "Только проблема в том, что российские",
+    "И отвечать за последствия этого весель"
    ],
    "channel": "5 МИНУТ",
-   "dur": 11.1,
+   "dur": 8.8,
    "watermark": "5 МИНУТ"
   }
  },
  {
-  "scene": 14,
+  "scene": 11,
+  "view": "pull",
+  "dur": 12.8,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Глава депозитария Валери Урбен говорит уже не про яйца и не про решительность.",
+   "accent": "Валери",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 13,
+  "view": "zal_slova",
+  "dur": 7.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.8,
+   "sheets": [
+    "что завтра правила снова не поменяются",
+    "Для финансовой системы это вопрос не м"
+   ],
+   "text": "что завтра правила снова не поменяются?",
+   "na_polu": "ЧЕЛОВЕК",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 15,
+  "view": "zal_pol",
+  "dur": 13.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 13.4,
+   "sheets": [
+    "когда кому то очень понадобилась касса",
+    "И Урбен предупреждает о риске оттока к"
+   ],
+   "text": "когда кому то очень понадобилась касса.",
+   "na_polu": "УРБЕН",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 17,
+  "view": "bars",
+  "dur": 10.7,
+  "anim": 10.7,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "План почти безупречный",
+   "caption": "",
+   "seconds": 10.7,
+   "bars": [
+    {
+     "label": "ТВОРЧЕСТВО С ЧУЖОЙ СОБСТВЕННОСТЬЮ",
+     "value": 0.9,
+     "color": "EABD23"
+    },
+    {
+     "label": "ЖЕЛАНИЕ КАПИТАЛА ВЛОЖИТЬ ЕЩЁ",
+     "value": 0.2,
+     "color": "B92526"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 18,
+  "view": "quote",
+  "dur": 8.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Осталось только объяснить инвестору, почему его деньги точно не станут следующими.",
+   "accent": "следующими",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 20,
+  "view": "charts.line",
+  "dur": 8.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "x_labels": [
+    "пакет объявлен",
+    "следующий пакет",
+    "номер уже ничего не объясняет"
+   ],
+   "series": [
+    {
+     "name": "",
+     "values": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    }
+   ],
+   "source": "Еврокомиссия",
+   "sobytiya": true,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 21,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.4,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 11.4,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Какой сектор?",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 11.4,
+    "tezisy": [
+     "чего не перекрыли предыдущие?",
+     "Какой поток?",
+     "Какой сектор?"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Какой сектор?",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 11.4,
+   "tezisy": [
+    "чего не перекрыли предыдущие?",
+    "Какой поток?",
+    "Какой сектор?"
+   ]
+  }
+ },
+ {
+  "scene": 22,
+  "view": "strike",
+  "dur": 9.5,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "нибудь чёрт знает где и после этого торжественно объявляем, что Россия наконец изолирована?",
+   "struck": "нибудь чёрт знает где и после",
+   "fix": "Москва тем временем прямо говорит",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 23,
+  "view": "zal_shkala",
+  "dur": 10.7,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.7,
+   "sheets": [],
+   "text": "Планы строят вперёд",
+   "value": "ШЕСТЬ ЛЕТ",
+   "value_sub": "столько не ждут отмены санкций",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 24,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 14.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 14.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "что эти ограничения никуда не денутся.",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 14.2,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "что эти ограничения никуда не денутся.",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 14.2,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 25,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 7.4,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 7.4,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Иначе это становится",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 7.4
+   }
+  },
+  "kwargs": {
+   "text": "Иначе это становится",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 7.4
+  }
+ },
+ {
+  "scene": 26,
+  "view": "zal_g01",
+  "dur": 11.7,
+  "anim": 11.7,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 11.7,
+   "sheets": [],
+   "text": "Но тут есть ещё более весёлая история.",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 27,
+  "view": "zal_g18",
+  "dur": 11.1,
+  "anim": 11.1,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 11.1,
+   "sheets": [],
+   "text": "Европа платит за российский СПГ",
+   "value": "8,7 млрд €",
+   "value_sub": "за десять месяцев года",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 28,
+  "view": "duel",
+  "dur": 16.6,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "Вот тут я уже вообще теряюсь",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Вы хотите перекрыть России денежные потоки",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 29,
+  "view": "zal_slova",
+  "dur": 7.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.2,
+   "sheets": [
+    "Физически газа купили меньше",
+    "Поставки снизились"
+   ],
+   "text": "Физически газа купили меньше.",
+   "na_polu": "ПОСТАВКИ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 30,
+  "view": "zal_pol",
+  "dur": 14.7,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 14.7,
+   "sheets": [
+    "танкеров приходит меньше",
+    "касса работает прекрасно"
+   ],
+   "text": "Нидерланды покупают.",
+   "na_polu": "ЕСЛИ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 31,
+  "view": "zal_efir",
+  "dur": 8.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.5,
+   "sheets": [],
+   "text": "Турция говорит России",
+   "say": "Газ дороговат — будем искать другой",
+   "author": "Турция",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "zal",
+  "dur": 9.7,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Никакой великой геополитической мистики здесь нет.",
+   "words": [
+    "ЗДЕСЬ"
+   ],
+   "sheets": [
+    "газ дороговат",
+    "Если цена останется такой",
+    "будем искать другой",
+    "Никакой великой геополитической мистик",
+    "Покупатель торгуется с продавцом"
+   ],
+   "channel": "5 МИНУТ",
+   "dur": 9.7,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 33,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.8,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "globus",
+   "seconds": 11.8,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Венгрия тоже смотрит в сторону альтернатив.",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 11.8,
+    "region": "Венгрия"
+   }
+  },
+  "kwargs": {
+   "text": "Венгрия тоже смотрит в сторону альтернатив.",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 11.8,
+   "region": "Венгрия"
+  }
+ },
+ {
+  "scene": 35,
   "view": "slider",
-  "dur": 10.9,
-  "anim": 10.9,
+  "dur": 15.9,
+  "anim": 15.9,
   "tail_zoom": 0.0,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
@@ -176,912 +588,436 @@
   "mode": "cli",
   "script": "build_chart_slider.py",
   "cfg": {
-   "title": "",
+   "title": "Дешёвого газа не нашлось",
    "min": 0.0,
    "max": 100.0,
    "low": 0.0,
    "high": 100.0,
-   "marker_value": 50.0,
-   "marker_display": "50",
-   "seconds": 10.9,
-   "range_label": "РАЗБРОС ОЦЕНОК",
+   "marker_value": 85.0,
+   "marker_display": "85",
+   "seconds": 15.9,
+   "range_label": "дорогой или очень дорогой",
    "caption": "",
    "source": ""
   }
  },
  {
-  "scene": 16,
-  "view": "zal_pol",
-  "dur": 11.3,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 11.3,
-   "sheets": [
-    "а о её внеблоковом статусе",
-    "Не о расширении военного присутствия а"
-   ],
-   "text": "а о её внеблоковом статусе.",
-   "na_polu": "ОДНОМУ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 18,
-  "view": "poster.poster",
-  "dur": 10.5,
-  "anim": 10.5,
-  "tail_zoom": 0.0,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "kick": "версия, объясняющая постановку вопроса",
-   "title": "НУЖЕН БЫЛ НЕ ДОГОВОР, А ОТВЕТ",
-   "hero_photo": "cards/photo/card_018.jpg",
-   "facts": [
-    {
-     "label": "ЦЕЛЬ",
-     "value": "получить отказ"
-    },
-    {
-     "label": "РЕЗУЛЬТАТ",
-     "value": "отказ получен"
-    }
-   ],
-   "watermark": "5 МИНУТ"
-  },
-  "mode": "frame"
- },
- {
-  "scene": 20,
-  "view": "cinematic.evidence_wall",
-  "dur": 11.0,
-  "anim": 11.0,
-  "tail_zoom": 0.0,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "shots": [
-    [
-     "cards/photo/card_020.jpg",
-     240,
-     250,
-     -4,
-     "Вашингтон задаёт вопрос"
-    ],
-    [
-     "cards/photo/card_020_2.jpg",
-     800,
-     250,
-     3,
-     "присутствие НАТО не предмет торга"
-    ],
-    [
-     "cards/photo/card_020_3.jpg",
-     1360,
-     250,
-     -2,
-     "Киев перечисляет условия"
-    ],
-    [
-     "cards/photo/card_020_4.jpg",
-     240,
-     580,
-     4,
-     "Москва говорит об обратном"
-    ]
-   ],
-   "kick": "что остаётся на столе",
-   "title": "ПОЛИТИЧЕСКИЙ РАСЧЁТ",
-   "watermark": "5 МИНУТ"
-  },
-  "mode": "frame"
- },
- {
-  "scene": 22,
-  "view": "zal_kub",
-  "dur": 10.2,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 10.2,
-   "sheets": [
-    "тоже ответил не вчера родившись",
-    "Он не хлопнул дверью"
-   ],
-   "text": "тоже ответил не вчера родившись.",
-   "kick": "ОН НЕ ХЛОПНУЛ ДВЕРЬЮ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 23,
-  "view": "zal_slova",
-  "dur": 10.4,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 10.4,
-   "sheets": [
-    "НАТО, Евросоюз",
-    "восстановление"
-   ],
-   "text": "То есть формально дверь не захлопнута.",
-   "na_polu": "ЕВРОСОЮЗ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 24,
-  "view": "duel",
-  "dur": 10.6,
-  "anim": 3.2,
-  "tail_zoom": 0.035,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "top": {
-    "who": "ВОПРОС США",
-    "text": "Готова ли Украина вывести войска из Донбасса в обмен на НАТО",
-    "accent": "В ОБМЕН НА НАТО",
-    "source": ""
-   },
-   "bottom": {
-    "who": "ОТВЕТ КИЕВА",
-    "text": "Согласен, если сначала согласитесь вообще со всем остальным",
-    "accent": "СНАЧАЛА ГАРАНТИИ",
-    "source": ""
-   },
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 25,
-  "view": "sceny.pechat",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.8,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "pechat",
-   "seconds": 10.8,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "чего хочу я.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.8,
-    "stamp": "утверждено"
-   }
-  },
-  "kwargs": {
-   "text": "чего хочу я.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.8,
-   "stamp": "утверждено"
-  }
- },
- {
-  "scene": 26,
-  "view": "cinematic.dossier",
-  "dur": 10.5,
-  "anim": 10.5,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "rows": [
-    "подписывайтесь",
-    "Дальше становится ещё занятнее",
-    "Потому что пока американцы проверяют Зеленского",
-    "Кая Каллас заявляет"
-   ],
-   "title": "ДОСЬЕ",
-   "photo": "cards/photo/card_026.jpg",
-   "stamp": "ПЕРВОИСТОЧНИК",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 27,
-  "view": "sceny.relsy",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.2,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "relsy",
-   "seconds": 10.2,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Сначала остановить боевые действия.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.2,
-    "sobytiya": [
-     "что обсуждение российских тр",
-     "Её позиция понятна",
-     "Сначала остановить боевые де"
-    ]
-   }
-  },
-  "kwargs": {
-   "text": "Сначала остановить боевые действия.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.2,
-   "sobytiya": [
-    "что обсуждение российских тр",
-    "Её позиция понятна",
-    "Сначала остановить боевые де"
-   ]
-  }
- },
- {
-  "scene": 28,
-  "view": "sceny.prolog",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.4,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "prolog",
-   "seconds": 10.4,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Только каждый почему то хочет",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.4
-   }
-  },
-  "kwargs": {
-   "text": "Только каждый почему то хочет",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.4
-  }
- },
- {
-  "scene": 29,
-  "view": "zal",
-  "dur": 10.6,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "обсуждать исключительно свою.",
-   "words": [
-    "СВОЮ",
-    "АНТТИ"
-   ],
-   "sheets": [
-    "обсуждать исключительно свою",
-    "Министр обороны Финляндии Антти Хяккян"
-   ],
-   "channel": "5 МИНУТ",
-   "dur": 10.6,
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 30,
-  "view": "doc",
-  "dur": 10.8,
-  "anim": 3.4,
-  "tail_zoom": 0.04,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "По опубликованной версии этих требований, речь идёт в том числе о военном присутствии альянса, статусе Украины и положении Финляндии.",
-   "mark": "УКРАИНЫ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 31,
-  "view": "zal_pol",
-  "dur": 10.5,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 10.5,
-   "sheets": [
-    "не стоит",
-    "Канада отвечает примерно туда же"
-   ],
-   "text": "Канада отвечает примерно туда же.",
-   "na_polu": "КАРНИ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 32,
-  "view": "sceny.globus_map",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.2,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "globus",
-   "seconds": 10.2,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "союзниками.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.2,
-    "region": "Канада"
-   }
-  },
-  "kwargs": {
-   "text": "союзниками.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.2,
-   "region": "Канада"
-  }
- },
- {
-  "scene": 33,
-  "view": "strike",
-  "dur": 10.4,
-  "anim": 3.0,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "Европейские союзники говорят: наше нынешнее присутствие в НАТО и возле российских границ вообще не предмет ТОРГА",
-   "struck": "ТОРГА",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 34,
-  "view": "sceny.kreslo",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.6,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "kreslo",
-   "seconds": 10.6,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "И здесь проблема уже не только в Зеленском.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.6,
-    "role": "вторая сторона переговоров"
-   }
-  },
-  "kwargs": {
-   "text": "И здесь проблема уже не только в Зеленском.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.6,
-   "role": "вторая сторона переговоров"
-  }
- },
- {
-  "scene": 35,
-  "view": "quote",
-  "dur": 10.8,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "Финляндии, Канаде, странам Балтии, Польше, Германии.",
-   "accent": "Канаде",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 36,
-  "view": "sceny.mehanizm",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.5,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "mehanizm",
-   "seconds": 10.5,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Выставка красных линий",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.5,
-    "pary": [
-     "КИЕВ>ГАРАНТИИ",
-     "ЕВРОПА>ПРИСУТСТВИЕ НАТО",
-     "МОСКВА>АРХИТЕКТУРА"
-    ]
-   }
-  },
-  "kwargs": {
-   "text": "Выставка красных линий",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.5,
-   "pary": [
-    "КИЕВ>ГАРАНТИИ",
-    "ЕВРОПА>ПРИСУТСТВИЕ НАТО",
-    "МОСКВА>АРХИТЕКТУРА"
-   ]
-  }
- },
- {
   "scene": 37,
-  "view": "film.film_strip",
-  "dur": 10.2,
-  "anim": 10.2,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "shots": [
-    "cards/photo/card_037.jpg",
-    "cards/photo/card_037_2.jpg",
-    "cards/photo/card_037_3.jpg",
-    "cards/photo/card_037_4.jpg"
-   ],
-   "title": "РЕЦЕПТ МИРА ИЗ БРИТАНИИ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 38,
-  "view": "zal_slova",
-  "dur": 10.4,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 10.4,
-   "sheets": [
-    "что Лондон должен быть готов атаковать",
-    "Там Северный флот"
-   ],
-   "text": "Там Северный флот.",
-   "na_polu": "ЛОНДОН",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 39,
-  "view": "marker_serif",
-  "dur": 10.6,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "британский премьер предлагает показать Москве, что Запад способен нанести ущерб российской военной инфраструктуре.",
-   "accent": "Москве",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 40,
-  "view": "sceny.prohod",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.8,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "prohod",
-   "seconds": 10.8,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Не комментатором на диване.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.8,
-    "tezisy": [
-     "премьером",
-     "Не комментатором на диване",
-     "Не экспертом в интернете"
-    ]
-   }
-  },
-  "kwargs": {
-   "text": "Не комментатором на диване.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.8,
-   "tezisy": [
-    "премьером",
-    "Не комментатором на диване",
-    "Не экспертом в интернете"
-   ]
-  }
- },
- {
-  "scene": 41,
   "view": "pull",
-  "dur": 10.5,
+  "dur": 10.8,
   "anim": 2.6,
   "tail_zoom": 0.05,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "Вот тогда и надо было сказать ребята, готовимся атаковать российские базы на Кольском",
-   "accent": "Кольском",
+   "text": "Румынией, работает новая линия Вулканешты, Кишинёв, готовятся ещё линии.",
+   "accent": "Вулканешты",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 38,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.8,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 12.8,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Новые поставки для потребителя дороже.",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 12.8,
+    "sobytiya": [
+     "инфраструктуру меняют",
+     "Но есть маленькая бытовая де",
+     "Новые поставки для потребите",
+     "Вот и вся магия"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Новые поставки для потребителя дороже.",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 12.8,
+   "sobytiya": [
+    "инфраструктуру меняют",
+    "Но есть маленькая бытовая де",
+    "Новые поставки для потребите",
+    "Вот и вся магия"
+   ]
+  }
+ },
+ {
+  "scene": 39,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Можно политически объявить победу.",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Можно политически объявить победу.",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 40,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 15.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 15.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "От российского газа хотят отказаться.",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 15.2
+   }
+  },
+  "kwargs": {
+   "text": "От российского газа хотят отказаться.",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 15.2
+  }
+ },
+ {
+  "scene": 41,
+  "view": "tape",
+  "dur": 10.0,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Поэтому фраза \"мы отказались\" в энергетике вообще ничего не стоит, пока не посмотрел на танкер",
+   "accent": "энергетике",
    "watermark": "5 МИНУТ"
   }
  },
  {
   "scene": 42,
-  "view": "film.film_single",
-  "dur": 10.2,
-  "anim": 2.6,
+  "view": "zal_g48",
+  "dur": 11.9,
+  "anim": 11.9,
   "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "photo": "cards/photo/card_042.jpg",
-   "title": "ПОКА СИДЕЛ НА ДАУНИНГ-СТРИТ",
+   "channel": "5 МИНУТ",
+   "dur": 11.9,
+   "sheets": [],
+   "text": "трубу и банковский перевод.",
    "watermark": "5 МИНУТ"
   }
  },
  {
   "scene": 43,
-  "view": "sceny.pechat",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.4,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "pechat",
-   "seconds": 10.4,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Последствия разгребать не тебе.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.4,
-    "stamp": "утверждено"
-   }
-  },
-  "kwargs": {
-   "text": "Последствия разгребать не тебе.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.4,
-   "stamp": "утверждено"
-  }
- },
- {
-  "scene": 44,
-  "view": "sceny.prolog",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.6,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "prolog",
-   "seconds": 10.6,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "правда, в основном идеями.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.6
-   }
-  },
-  "kwargs": {
-   "text": "правда, в основном идеями.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.6
-  }
- },
- {
-  "scene": 46,
-  "view": "sceny.relsy",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.5,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "relsy",
-   "seconds": 10.5,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Что должно произойти в конце?",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.5,
-    "sobytiya": [
-     "До чего?",
-     "Какой финал?",
-     "Вот мы держимся ещё год",
-     "Потом ещё год"
-    ]
-   }
-  },
-  "kwargs": {
-   "text": "Что должно произойти в конце?",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.5,
-   "sobytiya": [
-    "До чего?",
-    "Какой финал?",
-    "Вот мы держимся ещё год",
-    "Потом ещё год"
-   ]
-  }
- },
- {
-  "scene": 47,
-  "view": "charts.radar",
-  "dur": 10.2,
-  "anim": 10.2,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "axes": [
-    "ОРУЖИЕ ЗАПАДА",
-    "ПЕРЕЛОМ НА ФРОНТЕ",
-    "ОБВАЛ ЭКОНОМИКИ РФ",
-    "СМЕНА ТРЕБОВАНИЙ РФ"
-   ],
-   "series": [
-    {
-     "label": "ЧТО ДОЛЖНО ПРОИЗОЙТИ ЧТОБЫ СРАБОТАЛО",
-     "values": [
-      4.0,
-      3.0,
-      2.0,
-      1.0
-     ]
-    }
-   ],
-   "title": "ЧТО ДОЛЖНО ПРОИЗОЙТИ ЧТОБЫ СРАБОТАЛО",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 48,
-  "view": "zal",
+  "view": "zal_schetchik",
   "dur": 10.4,
   "anim": 2.6,
   "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "что ситуация на фронте полностью изменится?",
-   "words": [
-    "ФРОНТЕ"
-   ],
-   "sheets": [
-    "что ситуация на фронте полностью измен",
-    "Должно произойти внутреннее политическ",
-    "Кулеба говорит",
-    "расчёт идёт на изменение обстоятельств"
-   ],
    "channel": "5 МИНУТ",
    "dur": 10.4,
+   "sheets": [],
+   "text": "Деньги уже здесь",
+   "value": "0",
+   "value_sub": "новых налогов",
    "watermark": "5 МИНУТ"
   }
  },
  {
-  "scene": 49,
-  "view": "charts.waterfall",
-  "dur": 10.6,
-  "anim": 10.6,
+  "scene": 44,
+  "view": "zal_g44",
+  "dur": 14.1,
+  "anim": 14.1,
   "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "start": {
-    "label": "КАКИХ ОБСТОЯТЕЛЬСТВ",
-    "value": 1.0
-   },
-   "steps": [
-    {
-     "label": "КОГДА",
-     "value": 1.0
-    },
-    {
-     "label": "КАКИМ ОБРАЗОМ",
-     "value": 1.0
-    }
+   "channel": "5 МИНУТ",
+   "dur": 14.1,
+   "sheets": [],
+   "text": "Бери и используй",
+   "value": "40 млрд",
+   "value_sub": "столько не надо занимать",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "zal_slova",
+  "dur": 10.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.2,
+   "sheets": [
+    "прекрасно",
+    "рассказывает о последствиях вслух"
    ],
-   "end": {
-    "label": "РЕЗУЛЬТАТ НЕ НАЗВАН"
-   },
-   "title": "СТРАТЕГИЯ ОЖИДАНИЯ",
-   "sobytiya": true,
+   "text": "прекрасно.",
+   "na_polu": "ЕВРОПА",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 46,
+  "view": "sceny.mehanizm",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "mehanizm",
+   "seconds": 11.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Другого заметного рычага не остаётся",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 11.2,
+    "pary": [
+     "Европа>активы",
+     "активы>конфискация"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Другого заметного рычага не остаётся",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 11.2,
+   "pary": [
+    "Европа>активы",
+    "активы>конфискация"
+   ]
+  }
+ },
+ {
+  "scene": 47,
+  "view": "zal_pol",
+  "dur": 12.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 12.0,
+   "sheets": [
+    "что от их конфискации Россия внезапно",
+    "Это болезненная точка"
+   ],
+   "text": "Политически очень заметный шаг.",
+   "na_polu": "МОСКВА",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.0,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 11.0,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Какие именно — не рассказывают",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 11.0,
+    "role": "МИД России"
+   }
+  },
+  "kwargs": {
+   "text": "Какие именно — не рассказывают",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 11.0,
+   "role": "МИД России"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "zal",
+  "dur": 14.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "серия.",
+   "words": [
+    "СЕРИЯ"
+   ],
+   "sheets": [
+    "Потому что если Европа забирает россий",
+    "ограничить",
+    "заблокировать или предъявить в ответ",
+    "Получается замечательная финансовая др"
+   ],
+   "channel": "5 МИНУТ",
+   "dur": 14.1,
    "watermark": "5 МИНУТ"
   }
  },
  {
   "scene": 50,
-  "view": "charts.network",
-  "dur": 10.8,
-  "anim": 10.8,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "nodes": [
-    {
-     "id": "ВАШИНГТОН",
-     "label": "ВАШИНГТОН",
-     "weight": 3.0
-    },
-    {
-     "id": "КИЕВ",
-     "label": "КИЕВ",
-     "weight": 5.0
-    },
-    {
-     "id": "ЕВРОПА",
-     "label": "ЕВРОПА",
-     "weight": 4.0
-    },
-    {
-     "id": "НАТО",
-     "label": "НАТО",
-     "weight": 2.0
-    },
-    {
-     "id": "СУНАК",
-     "label": "СУНАК",
-     "weight": 1.0
-    },
-    {
-     "id": "МОСКВА",
-     "label": "МОСКВА",
-     "weight": 1.0
-    }
-   ],
-   "links": [
-    {
-     "from": "ВАШИНГТОН",
-     "to": "КИЕВ",
-     "weight": 3.0
-    },
-    {
-     "from": "КИЕВ",
-     "to": "ЕВРОПА",
-     "weight": 2.0
-    },
-    {
-     "from": "ЕВРОПА",
-     "to": "НАТО",
-     "weight": 2.0
-    },
-    {
-     "from": "СУНАК",
-     "to": "МОСКВА",
-     "weight": 1.0
-    }
-   ],
-   "title": "КТО КОМУ ЧТО ПРЕДЛАГАЕТ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 51,
-  "view": "zal_g48",
-  "dur": 10.5,
-  "anim": 10.5,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 10.5,
-   "sheets": [],
-   "text": "До какого результата?",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 52,
-  "view": "cinematic.depth_of_field",
-  "dur": 10.2,
-  "anim": 10.2,
+  "view": "photo",
+  "dur": 11.6,
+  "anim": 11.6,
   "tail_zoom": 0.0,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "photo": "cards/photo/card_052.jpg",
-   "title": "МАРЬЯНА БЕЗУГЛАЯ",
-   "watermark": "5 МИНУТ"
-  },
-  "mode": "frame"
+   "watermark": "5 МИНУТ",
+   "photo": "cards/photo/card_050.jpg",
+   "lines": [
+    "кассовый аппарат уже включили",
+    "встречный счёт ещё не видели"
+   ]
+  }
  },
  {
-  "scene": 53,
+  "scene": 52,
   "view": "charts.pie",
-  "dur": 10.4,
-  "anim": 10.4,
+  "dur": 11.5,
+  "anim": 11.5,
   "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
    "segments": [
     {
-     "label": "ДЕНЬГИ",
-     "value": 25.0
+     "label": "за",
+     "value": 54.0
     },
     {
-     "label": "ОРУЖИЕ",
-     "value": 25.0
+     "label": "против",
+     "value": 33.0
     },
     {
-     "label": "БОЕПРИПАСЫ",
-     "value": 25.0
-    },
-    {
-     "label": "ЛЮДИ",
-     "value": 25.0
+     "label": "воздержались",
+     "value": 13.0
     }
    ],
-   "title": "ЧЕМ ДЕРЖАТЬСЯ",
-   "sobytiya": true,
+   "title": "Как голосовал Бундестаг",
+   "source": "Бундестаг",
    "watermark": "5 МИНУТ"
   }
  },
  {
   "scene": 54,
-  "view": "tape",
-  "dur": 10.6,
-  "anim": 2.4,
-  "tail_zoom": 0.04,
+  "view": "pull",
+  "dur": 13.8,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "В том числе специалистов связи, инженерии, информационных технологий.",
-   "accent": "информационных",
+   "text": "И здесь возникает вопрос без всяких кружев угадайте, против кого всё это будут использовать?",
+   "accent": "возникает",
    "watermark": "5 МИНУТ"
   }
  },
  {
   "scene": 55,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 12.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "И ведь здесь интересен не только российский сюжет.",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 12.2,
+    "sobytiya": [
+     "Один из возможных сценариев",
+     "Начаться всё может с небольш",
+     "И ведь здесь интересен не то",
+     "В немецкой"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "И ведь здесь интересен не только российский сюжет.",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 12.2,
+   "sobytiya": [
+    "Один из возможных сценариев",
+    "Начаться всё может с небольш",
+    "И ведь здесь интересен не то",
+    "В немецкой"
+   ]
+  }
+ },
+ {
+  "scene": 56,
+  "view": "doc",
+  "dur": 9.6,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Право проникать в помещения и в технические устройства",
+   "title": "Реформа спецслужб ФРГ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 57,
   "view": "sceny.repliki",
   "mode": "cli",
   "script": "sceny_cli.py",
@@ -1094,113 +1030,86 @@
    "fps": 30,
    "t0": 0.0,
    "kwargs": {
-    "text": "Две стратегии в одной картине",
+    "text": "Спор в Бундестаге",
     "channel": "5 МИНУТ",
     "watermark": "5 МИНУТ",
     "dur": 10.8,
     "repliki_": [
-     "КУЛЕБА|держаться как можно дольше",
-     "БЕЗУГЛАЯ|отвечает на вопрос — кем?",
-     "СУНАК|атаковать российские базы",
-     "КИЕВ|сначала гарантии"
+     "Левые — об опасности усиления тайных служб",
+     "Зелёные — о привлечении несовершеннолетних"
     ]
    }
   },
   "kwargs": {
-   "text": "Две стратегии в одной картине",
+   "text": "Спор в Бундестаге",
    "channel": "5 МИНУТ",
    "watermark": "5 МИНУТ",
    "dur": 10.8,
    "repliki_": [
-    "КУЛЕБА|держаться как можно дольше",
-    "БЕЗУГЛАЯ|отвечает на вопрос — кем?",
-    "СУНАК|атаковать российские базы",
-    "КИЕВ|сначала гарантии"
+    "Левые — об опасности усиления тайных служб",
+    "Зелёные — о привлечении несовершеннолетних"
    ]
   }
  },
  {
-  "scene": 56,
-  "view": "zal_shkala",
-  "dur": 10.5,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 10.5,
-   "sheets": [],
-   "text": "Мобилизационный ресурс",
-   "value": "НЕ БЕСКОНЕЧЕН",
-   "value_sub": "мужской призывной ресурс",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 57,
-  "view": "zal_slova",
-  "dur": 10.2,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 10.2,
-   "sheets": [],
-   "text": "Куда раньше не смотрели",
-   "na_polu": "НА ЖЕНЩИН",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
   "scene": 58,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.7,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 12.7,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "И тут сразу появляется АдГ.",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 12.7,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "И тут сразу появляется АдГ.",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 12.7,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 59,
   "view": "paper_typed",
-  "dur": 10.4,
+  "dur": 13.3,
   "anim": 2.8,
   "tail_zoom": 0.04,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "На будущие поколения, которых предлагается раньше готовить к военной службе.",
+   "text": "Снаружи противник, внутри неудобная партия, посредине спецслужба",
    "watermark": "5 МИНУТ"
   }
  },
  {
-  "scene": 59,
-  "view": "zal_pol",
-  "dur": 10.6,
+  "scene": 60,
+  "view": "zal_slova",
+  "dur": 8.4,
   "anim": 2.6,
   "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
    "channel": "5 МИНУТ",
-   "dur": 10.6,
+   "dur": 8.4,
    "sheets": [
-    "Ресурсы придётся вычерпывать глубже",
-    "Батальон из воздуха не возьмётся"
+    "полномочиями",
+    "Причём Германия здесь не изобрела разв"
    ],
-   "text": "Куда ведёт стратегия держаться",
-   "na_polu": "ЧУДЕС НЕТ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 60,
-  "view": "zal_g44",
-  "dur": 10.8,
-  "anim": 10.8,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 10.8,
-   "sheets": [],
-   "text": "Американцы предлагают",
-   "value": "ЛЮДИ",
+   "text": "полномочиями.",
+   "na_polu": "ГЕРМАНИЯ",
    "watermark": "5 МИНУТ"
   }
  },
@@ -1209,205 +1118,200 @@
   "view": "sceny.lenta",
   "mode": "cli",
   "script": "sceny_cli.py",
-  "dur": 10.5,
+  "dur": 11.4,
   "channel": "5 МИНУТ",
   "watermark": "5 МИНУТ",
   "cfg": {
    "view": "lenta",
-   "seconds": 10.5,
+   "seconds": 11.4,
    "fps": 30,
    "t0": 0.0,
    "kwargs": {
-    "text": "Европейцы объясняют, чего они менять не будут.",
+    "text": "конкретных правительств.",
     "channel": "5 МИНУТ",
     "watermark": "5 МИНУТ",
-    "dur": 10.5,
+    "dur": 11.4,
     "soobshcheniya": [
-     "ЗЕЛЕНСКОМУ СДЕЛКУ",
-     "ЧЕГО ОНИ МЕНЯТЬ НЕ БУДУТ",
-     "СУНАК ПРЕДЛАГАЕТ ДЕЙСТВУЮЩИМ ВЛАСТЯМ БЫТЬ ГОТОВЫМИ",
-     "КУЛЕБА ПРЕДЛАГАЕТ"
+     "КОНКРЕТНЫХ ПРАВИТЕЛЬСТВ",
+     "МЕНЯЮТСЯ КАНЦЛЕРЫ",
+     "МЕНЯЮТСЯ МИНИСТРЫ",
+     "МЕНЯЮТСЯ ПАРТИИ",
+     "ТЕХНИЧЕСКИЕ ВОЗМОЖНОСТИ И НАКОПЛЕННАЯ ИНФРАСТРУКТУРА"
     ]
    }
   },
   "kwargs": {
-   "text": "Европейцы объясняют, чего они менять не будут.",
+   "text": "конкретных правительств.",
    "channel": "5 МИНУТ",
    "watermark": "5 МИНУТ",
-   "dur": 10.5,
+   "dur": 11.4,
    "soobshcheniya": [
-    "ЗЕЛЕНСКОМУ СДЕЛКУ",
-    "ЧЕГО ОНИ МЕНЯТЬ НЕ БУДУТ",
-    "СУНАК ПРЕДЛАГАЕТ ДЕЙСТВУЮЩИМ ВЛАСТЯМ БЫТЬ ГОТОВЫМИ",
-    "КУЛЕБА ПРЕДЛАГАЕТ"
+    "КОНКРЕТНЫХ ПРАВИТЕЛЬСТВ",
+    "МЕНЯЮТСЯ КАНЦЛЕРЫ",
+    "МЕНЯЮТСЯ МИНИСТРЫ",
+    "МЕНЯЮТСЯ ПАРТИИ",
+    "ТЕХНИЧЕСКИЕ ВОЗМОЖНОСТИ И НАКОПЛЕННАЯ ИНФРАСТРУКТУРА"
    ]
   }
  },
  {
   "scene": 62,
-  "view": "zal_g01",
-  "dur": 10.2,
-  "anim": 10.2,
-  "tail_zoom": 0.045,
+  "view": "cinematic.depth_of_field",
+  "dur": 13.2,
+  "anim": 13.2,
+  "tail_zoom": 0.0,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 10.2,
-   "sheets": [],
-   "text": "И всё это происходит одновременно.",
+   "photo": "cards/photo/card_062.jpg",
    "watermark": "5 МИНУТ"
-  }
+  },
+  "mode": "frame"
  },
  {
   "scene": 63,
-  "view": "zal",
-  "dur": 10.4,
+  "view": "zal_kub",
+  "dur": 13.5,
   "anim": 2.6,
   "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "вопрос здесь даже не в том, кто громче всех требует продолжать.",
-   "words": [
-    "ВОПРОС",
-    "ГРОМЧЕ"
-   ],
-   "sheets": [
-    "вопрос здесь даже не в том, кто громче",
-    "Вопрос проще",
-    "Какой у каждого из них финальный план",
-    "У американцев при определённой логике"
-   ],
    "channel": "5 МИНУТ",
-   "dur": 10.4,
+   "dur": 13.5,
+   "sheets": [
+    "Санкции можно допечатать",
+    "А полномочия спецслужбы"
+   ],
+   "text": "Санкции можно допечатать.",
+   "kick": "А ПОЛНОМОЧИЯ",
    "watermark": "5 МИНУТ"
   }
  },
  {
   "scene": 64,
-  "view": "sceny.pechat",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.6,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "pechat",
-   "seconds": 10.6,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "просматривается.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.6,
-    "stamp": "утверждено"
-   }
-  },
-  "kwargs": {
-   "text": "просматривается.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.6,
-   "stamp": "утверждено"
-  }
- },
- {
-  "scene": 65,
-  "view": "photo",
-  "dur": 10.8,
-  "anim": 10.8,
+  "view": "cinematic.evidence_wall",
+  "dur": 11.1,
+  "anim": 11.1,
   "tail_zoom": 0.0,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "watermark": "5 МИНУТ",
-   "photo": "cards/photo/card_065.jpg",
-   "lines": [
-    "Киев не принимает предложенную комбинацию",
-    "у Сунака есть конкретное действие",
-    "а у Украины — ожидание"
-   ]
+   "shots": [
+    [
+     "cards/photo/card_064.jpg",
+     240,
+     250,
+     -4,
+     "Латвия просит забрать"
+    ],
+    [
+     "cards/photo/card_064_2.jpg",
+     800,
+     250,
+     3,
+     "инвесторы спрашивают"
+    ],
+    [
+     "cards/photo/card_064_3.jpg",
+     1360,
+     250,
+     -2,
+     "юристы депозитария"
+    ],
+    [
+     "cards/photo/card_064_4.jpg",
+     240,
+     580,
+     4,
+     "Молдова меняет линии"
+    ]
+   ],
+   "title": "Каждый новый рычаг дороже",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 65,
+  "view": "zal",
+  "dur": 14.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "покупаешь другой дороже.",
+   "words": [
+    "ДРУГОЙ",
+    "ДОРОЖЕ"
+   ],
+   "sheets": [
+    "покупаешь другой дороже",
+    "Давишь санкциями, но продолжаешь плати",
+    "Хочешь забрать российские активы",
+    "собственный крупнейший депозитарий нач",
+    "Расширяешь полномочия спецслужб против"
+   ],
+   "channel": "5 МИНУТ",
+   "dur": 14.8,
+   "watermark": "5 МИНУТ"
   }
  },
  {
   "scene": 66,
-  "view": "sceny.relsy",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.5,
-  "channel": "5 МИНУТ",
+  "view": "marker_serif",
+  "dur": 8.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "relsy",
-   "seconds": 10.5,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Но к какой точке должна прийти страна?",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.5,
-    "sobytiya": [
-     "Держаться",
-     "Мобилизовать дальше",
-     "Ждать изменения обстоятельст",
-     "Но к какой точке должна прий"
-    ]
-   }
-  },
+  "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "Но к какой точке должна прийти страна?",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.5,
-   "sobytiya": [
-    "Держаться",
-    "Мобилизовать дальше",
-    "Ждать изменения обстоятельст",
-    "Но к какой точке должна прий"
-   ]
+   "text": "сразу получаешь спор о том, как эти полномочия будут работать внутри страны.",
+   "accent": "полномочия",
+   "watermark": "5 МИНУТ"
   }
  },
  {
   "scene": 67,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 13.3,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 13.3,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Сколько ещё таких инструментов",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 13.3,
+    "role": "политик у микрофона"
+   }
+  },
+  "kwargs": {
+   "text": "Сколько ещё таких инструментов",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 13.3,
+   "role": "политик у микрофона"
+  }
+ },
+ {
+  "scene": 68,
   "view": "paper_hand",
-  "dur": 10.3,
+  "dur": 12.26,
   "anim": 2.8,
   "tail_zoom": 0.04,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "играть совсем другими красками.",
+   "text": "Кассу откроют — обратно не закроешь",
    "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 68,
-  "view": "sceny.prolog",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 10.7,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "prolog",
-   "seconds": 10.7,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "дальше вопрос будет стоять не о том, что ещё",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 10.7
-   }
-  },
-  "kwargs": {
-   "text": "дальше вопрос будет стоять не о том, что ещё",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 10.7
   }
  }
 ]
