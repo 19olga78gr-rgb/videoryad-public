@@ -1,0 +1,295 @@
+{
+  "1": {
+    "photo": "overlays/scene_001.jpg",
+    "sound": "pop",
+    "at": 2.2,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "right",
+    "approved": true,
+    "dash_ok": true
+  },
+  "7": {
+    "photo": "overlays/scene_007.jpg",
+    "sound": "whoosh",
+    "at": 2.4,
+    "shape": "rect",
+    "scale": 1.2,
+    "style": "up-center",
+    "anchor": "middle",
+    "approved": true,
+    "dash_ok": true
+  },
+  "10": {
+    "photo": "overlays/scene_010.jpg",
+    "sound": "ding",
+    "at": 2.6,
+    "shape": "circle",
+    "scale": 1.0,
+    "style": "left",
+    "approved": true,
+    "dash_ok": true
+  },
+  "14": {
+    "photo": "overlays/scene_014.jpg",
+    "sound": "pop",
+    "at": 2.8,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "left",
+    "anchor": "bottom",
+    "approved": true,
+    "dash_ok": true
+  },
+  "16": {
+    "photo": "overlays/scene_016.jpg",
+    "sound": "whoosh",
+    "at": 3.0,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "left",
+    "approved": true,
+    "dash_ok": true
+  },
+  "20": {
+    "photo": "overlays/scene_020.jpg",
+    "sound": "ding",
+    "at": 3.2,
+    "shape": "circle",
+    "scale": 1.2,
+    "style": "up-left",
+    "approved": true,
+    "dash_ok": true
+  },
+  "23": {
+    "photo": "overlays/scene_023.jpg",
+    "sound": "pop",
+    "at": 3.4,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "left",
+    "approved": true,
+    "dash_ok": true
+  },
+  "26": {
+    "photo": "overlays/scene_026.jpg",
+    "sound": "whoosh",
+    "at": 3.6,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "left",
+    "anchor": "middle",
+    "approved": true,
+    "dash_ok": true
+  },
+  "32": {
+    "photo": "overlays/scene_032.jpg",
+    "sound": "ding",
+    "at": 3.8,
+    "shape": "circle",
+    "scale": 1.0,
+    "style": "up-center",
+    "approved": true,
+    "dash_ok": true
+  },
+  "43": {
+    "photo": "overlays/scene_043.jpg",
+    "sound": "pop",
+    "at": 4.0,
+    "shape": "rect",
+    "scale": 1.2,
+    "style": "right",
+    "approved": true,
+    "dash_ok": true
+  },
+  "60": {
+    "photo": "overlays/scene_060.jpg",
+    "sound": "whoosh",
+    "at": 4.2,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "right",
+    "anchor": "bottom",
+    "approved": true,
+    "dash_ok": true
+  },
+  "67": {
+    "photo": "overlays/scene_067.jpg",
+    "sound": "ding",
+    "at": 4.4,
+    "shape": "circle",
+    "scale": 1.0,
+    "style": "left",
+    "anchor": "middle",
+    "approved": true,
+    "dash_ok": true
+  },
+  "79": {
+    "photo": "overlays/scene_079.jpg",
+    "sound": "pop",
+    "at": 4.6,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "right",
+    "anchor": "middle",
+    "approved": true,
+    "dash_ok": true
+  },
+  "3": {
+    "text": {
+      "words": "ВОПРОСОВ СТАНОВИТСЯ БОЛЬШЕ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "6": {
+    "text": {
+      "words": "УДАРЫ ПО СТАНЦИЯМ",
+      "color": "white",
+      "pos": "tl",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "8": {
+    "text": {
+      "words": "ЛОКОМОТИВ НЕ КУПИШЬ ЗА НОЧЬ",
+      "color": "red",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "12": {
+    "text": {
+      "words": "МОСТ В ЗАПОРОЖЬЕ ЗАКРЫТ",
+      "color": "orange",
+      "pos": "tr",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "15": {
+    "text": {
+      "words": "ДВИЖЕНИЕ ОГРАНИЧЕНО",
+      "color": "green",
+      "pos": "ml",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "18": {
+    "text": {
+      "words": "МЕТРО ЧЕРЕЗ ДНЕПР СТОИТ",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "22": {
+    "text": {
+      "words": "У ПАРОМА ЕСТЬ ПРИЧАЛ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "24": {
+    "text": {
+      "words": "ПОСТРОИЛИ. ПОВРЕДИЛИ. СНОВА",
+      "color": "red",
+      "pos": "tl",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "27": {
+    "text": {
+      "words": "ТОННЕЛЬ ПОД ДНЕПРОМ",
+      "color": "orange",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "34": {
+    "text": {
+      "words": "ПОПАСТЬ — НЕ ЗНАЧИТ ВЫВЕСТИ",
+      "color": "green",
+      "pos": "tr",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "52": {
+    "text": {
+      "words": "СВЯЗЬ И УДАРЫ",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "64": {
+    "text": {
+      "words": "ОСТОРОЖНОСТЬ ПРИХОДИТ ПОЗЖЕ",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "75": {
+    "text": {
+      "words": "ПЛАТЯТ ЗА ИНФОРМАЦИЮ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "anchor": "top"
+}
