@@ -3018,7 +3018,14 @@ def waterfall(out=None, kick="", title="", start=None, steps=(), end=None,
             ybot = y_lo if b["kind"] != "down" else y_hi + h
 
             def bar(d, x0=x0, x1=x1, ytop=ytop, ybot=ybot, col=col):
-                d.rectangle((x0, ytop, x1, ybot), fill=col + (255,))
+                # КООРДИНАТЫ НОРМАЛИЗУЕМ (15.11, улов `usuario-1a`): у
+                # столбца «вниз» верх и низ приходят в обратном порядке, и
+                # PIL валит весь вид «y1 must be greater than or equal to
+                # y0». На сводном ролике так молча не нарисовались ЧЕТЫРЕ
+                # водопада из четырёх — в артефакте их не было вовсе, а
+                # прогон отчитался успехом по остальным.
+                d.rectangle((min(x0, x1), min(ytop, ybot),
+                             max(x0, x1), max(ytop, ybot)), fill=col + (255,))
             im = sc._put(im, bar, 1.0, 0)
             if b["kind"] != "total":
                 box = (int(x0) - 26, int(min(ytop, ybot)) - 26,
