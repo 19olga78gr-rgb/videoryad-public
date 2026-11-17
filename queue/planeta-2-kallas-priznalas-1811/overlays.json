@@ -1,0 +1,28 @@
+{
+ "9": {
+  "text": {
+   "words": "РАЗНОГЛАСИЯ",
+   "sub": "кто с кем не согласен",
+   "style": "mask_plate",
+   "pos": "ml",
+   "at": 0.5
+  }
+ },
+ "53": {
+  "text": {
+   "words": "ДЕНЬГИ",
+   "sub": "кто платит, кто получит",
+   "style": "mask_plate",
+   "pos": "ml",
+   "at": 0.5
+  }
+ },
+ "4": {
+  "photo": "overlays/scene_004.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "up-right"
+ }
+}
