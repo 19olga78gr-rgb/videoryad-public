@@ -1,0 +1,30 @@
+[
+ {
+  "scene": 9,
+  "view": "vyrezka.gazeta",
+  "dur": 7.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_009.jpg",
+   "author": "УРСУЛА ФОН ДЕР ЛЯЙЕН",
+   "role": "председатель Еврокомиссии",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 21,
+  "view": "pull",
+  "dur": 17.2,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Будущее требует конкретики: кто оплачивает, кому гарантии, кто отвечает за безопасность",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
