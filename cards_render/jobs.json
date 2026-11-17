@@ -1,0 +1,57 @@
+[
+ {
+  "scene": 56,
+  "view": "photo",
+  "dur": 10.1,
+  "anim": 10.1,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "kick": "История",
+   "watermark": "ПЛАНЕТА",
+   "photo": "cards/photo/card_056.jpg",
+   "lines": [
+    "2021: Россия предлагала гарантии безопасности",
+    "Европа выбрала другой путь"
+   ]
+  }
+ },
+ {
+  "scene": 57,
+  "view": "film.film_strip",
+  "dur": 8.0,
+  "anim": 8.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    "cards/photo/card_057.jpg",
+    "cards/photo/card_057_2.jpg",
+    "cards/photo/card_057_3.jpg"
+   ],
+   "title": "ИСТОРИЯ ПОВТОРЯЕТСЯ",
+   "captions": [
+    "2021 год",
+    "иной путь",
+    "условия жёстче"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 58,
+  "view": "film.film_single",
+  "dur": 15.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_058.jpg",
+   "title": "2021: ПРОТИВ ВСТРЕЧИ С РОССИЕЙ",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
