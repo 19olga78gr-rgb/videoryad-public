@@ -1,0 +1,36 @@
+{
+ "scenes": [
+  {
+   "id": 3,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "пограничный столб указатель граница реальное фото"
+  },
+  {
+   "id": 7,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Киевская ТЭЦ электростанция реальное фото"
+  },
+  {
+   "id": 14,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "граница Украина Румыния КПП реальное фото"
+  },
+  {
+   "id": 17,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Донецкое направление фронт 2026 окопы реальное фото"
+  }
+ ]
+}
