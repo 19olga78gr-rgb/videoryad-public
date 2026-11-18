@@ -1,0 +1,95 @@
+{
+  "7": {
+    "photo": "overlays/scene_007.jpg",
+    "sound": "pop",
+    "at": 2.2,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "right",
+    "approved": true,
+    "dash_ok": true
+  },
+  "14": {
+    "photo": "overlays/scene_014.jpg",
+    "sound": "whoosh",
+    "at": 2.4,
+    "shape": "rect",
+    "scale": 1.2,
+    "style": "right",
+    "approved": true,
+    "dash_ok": true
+  },
+  "17": {
+    "photo": "overlays/scene_017.jpg",
+    "sound": "ding",
+    "at": 2.6,
+    "shape": "circle",
+    "scale": 1.0,
+    "style": "left",
+    "approved": true,
+    "dash_ok": true
+  },
+  "anchor": "top",
+  "3": {
+    "photo": "overlays/scene_003.jpg",
+    "sound": "pop",
+    "at": 2.0,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "right",
+    "approved": true,
+    "dash_ok": true
+  },
+  "5": {
+    "text": {
+      "words": "БРАТСТВО",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "ding",
+      "at": 1.0,
+      "scale": 1.0,
+      "sub": "боевое",
+      "approved": true
+    }
+  },
+  "8": {
+    "text": {
+      "words": "ПРЕТЕНЗИИ",
+      "color": "green",
+      "pos": "tc",
+      "font": "default",
+      "sound": "ding",
+      "at": 1.0,
+      "scale": 1.0,
+      "sub": "кому отвечать",
+      "approved": true
+    }
+  },
+  "9": {
+    "text": {
+      "words": "ТРЕТЬ",
+      "color": "orange",
+      "pos": "tr",
+      "font": "default",
+      "sound": "ding",
+      "at": 1.0,
+      "scale": 1.0,
+      "sub": "не планирует возврат",
+      "approved": true
+    }
+  },
+  "12": {
+    "text": {
+      "words": "ДОВЕРИЕ",
+      "color": "red",
+      "pos": "tc",
+      "font": "default",
+      "sound": "ding",
+      "at": 1.0,
+      "scale": 1.0,
+      "sub": "не купишь",
+      "approved": true
+    }
+  }
+}
