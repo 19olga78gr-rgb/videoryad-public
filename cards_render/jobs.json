@@ -1,0 +1,29 @@
+[
+ {
+  "scene": 2,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.3,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 9.3,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Ким о военных с фронта",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.3
+   }
+  },
+  "kwargs": {
+   "text": "Ким о военных с фронта",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.3
+  }
+ }
+]
