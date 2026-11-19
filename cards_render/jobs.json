@@ -1,0 +1,126 @@
+[
+ {
+  "scene": 22,
+  "view": "marker_serif",
+  "dur": 12.03,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Если официальный поиск уже приходится дополнять дворовой разведкой, с ресурсом всё не так безоблачно",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 34,
+  "view": "tape",
+  "dur": 11.89,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Генерал СБУ Сергей Дука утверждает: материалы готовили ещё в 2025 году",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "cinematic.dossier",
+  "dur": 11.61,
+  "anim": 11.61,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "rows": [
+    "Семён Кривонос",
+    "должность — директор НАБУ",
+    "материалы — готовы с 2025 года",
+    "решение — не принято"
+   ],
+   "title": "Семён Кривонос",
+   "photo": "cards/photo/card_036.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "pull",
+  "dur": 11.76,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Зажать папку на год или вынести её к камерам немедленно — два совершенно разных удара",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 47,
+  "view": "vyrezka.gazeta",
+  "dur": 10.77,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_047.jpg",
+   "author": "Сергей Дука",
+   "role": "генерал-майор СБУ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "vyrezka.figura",
+  "dur": 12.56,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_048.jpg",
+   "author": "Фёдор Вениславский",
+   "role": "народный депутат",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 51,
+  "view": "bars",
+  "dur": 11.36,
+  "anim": 11.36,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "РЕСУРС ИЩУТ ВЕЗДЕ",
+   "caption": "",
+   "seconds": 11.36,
+   "bars": [
+    {
+     "label": "БРОНЬ",
+     "value": 0.4,
+     "color": "4A90E2"
+    },
+    {
+     "label": "ВОЗРАСТ",
+     "value": 0.3,
+     "color": "48BB78"
+    },
+    {
+     "label": "УКЛОНИСТЫ",
+     "value": 0.6,
+     "color": "84848A"
+    }
+   ]
+  }
+ }
+]
