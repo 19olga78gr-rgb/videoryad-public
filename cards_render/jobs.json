@@ -1,0 +1,445 @@
+[
+ {
+  "scene": 9,
+  "view": "zal_schetchik",
+  "dur": 13.77,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 13.77,
+   "sheets": [],
+   "text": "Два с половиной миллиона человек",
+   "value": "2 500 000",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 17,
+  "view": "charts.line",
+  "dur": 10.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "x_labels": [
+    "Бронь",
+    "Возраст",
+    "Уклонисты"
+   ],
+   "series": [
+    {
+     "name": "",
+     "values": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    }
+   ],
+   "source": "по ходу истории",
+   "sobytiya": true,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 25,
+  "view": "film.film_strip",
+  "dur": 11.57,
+  "anim": 11.57,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    "cards/photo/card_025.jpg",
+    "cards/photo/card_025_2.jpg",
+    "cards/photo/card_025_3.jpg"
+   ],
+   "title": "ТЦК И ОЧЕРЕДИ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 28,
+  "view": "doc",
+  "dur": 12.27,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Нужны миллионы людей, не выбравших эмиграцию. Требований становится больше, а население от этого не прибавляется",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 30,
+  "view": "charts.slope",
+  "dur": 12.16,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "items": [
+    {
+     "label": "Нехватка в экономике",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Нехватка в армии"
+    },
+    {
+     "label": "Один сотрудник",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Две колонки"
+    }
+   ],
+   "source": "по ходу истории",
+   "sobytiya": true,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 31,
+  "view": "charts.waterfall",
+  "dur": 11.6,
+  "anim": 11.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "start": {
+    "label": "было",
+    "value": 10.0
+   },
+   "steps": [
+    {
+     "label": "минус бронь",
+     "value": -3.0
+    },
+    {
+     "label": "минус возраст",
+     "value": -2.0
+    }
+   ],
+   "end": {
+    "label": "стало"
+   },
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 34,
+  "view": "bars",
+  "dur": 11.89,
+  "anim": 11.89,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "РЕСУРС ИЩУТ ВЕЗДЕ",
+   "caption": "",
+   "seconds": 11.89,
+   "bars": [
+    {
+     "label": "БРОНЬ",
+     "value": 0.4,
+     "color": "4A90E2"
+    },
+    {
+     "label": "ВОЗРАСТ",
+     "value": 0.3,
+     "color": "48BB78"
+    },
+    {
+     "label": "УКЛОНИСТЫ",
+     "value": 0.6,
+     "color": "84848A"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 37,
+  "view": "paper_typed",
+  "dur": 11.2,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Материалы собраны, основания, как утверждается, имеются, но дело ждёт разрешающего сигнала",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 42,
+  "view": "cinematic.evidence_wall",
+  "dur": 12.24,
+  "anim": 12.24,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    [
+     "cards/photo/card_042.jpg",
+     240,
+     380,
+     -4,
+     "Поиск усиливается"
+    ],
+    [
+     "cards/photo/card_042_2.jpg",
+     800,
+     380,
+     3,
+     "Контроль на въезде"
+    ],
+    [
+     "cards/photo/card_042_3.jpg",
+     1360,
+     380,
+     -2,
+     "Очередь растёт"
+    ]
+   ],
+   "title": "СВЯЗЬ СОБЫТИЙ",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 44,
+  "view": "torn_split.torn_split",
+  "dur": 12.08,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "a_path": "cards/photo/card_044.jpg",
+   "b_path": "cards/photo/card_044_2.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "poster.poster",
+  "dur": 11.76,
+  "anim": 11.76,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "title": "ПОЛИТИЧЕСКИЙ РЫЧАГ",
+   "hero_photo": "cards/photo/card_045.jpg",
+   "bottom": "вес зависит от даты запуска",
+   "facts": [
+    {
+     "label": "папка",
+     "value": "год без движения"
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 49,
+  "view": "photo",
+  "dur": 12.32,
+  "anim": 12.32,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "watermark": "ПЛАНЕТА",
+   "photo": "cards/photo/card_049.jpg",
+   "title": "Проверки у входа",
+   "lines": [
+    "Контроль растёт",
+    "Доверия нет"
+   ]
+  }
+ },
+ {
+  "scene": 54,
+  "view": "paper_hand",
+  "dur": 11.19,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Миллионы граждан оценивают состояние энергетики и решают, не пора ли им искать другую страну для зимовки",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 56,
+  "view": "film.film_single",
+  "dur": 11.92,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_056.jpg",
+   "title": "КОНТРОЛЬ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.56,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 12.56,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Даёт меньше причин остаться",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.56,
+    "role": "уехавший гражданин"
+   }
+  },
+  "kwargs": {
+   "text": "Даёт меньше причин остаться",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.56,
+   "role": "уехавший гражданин"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "charts.map_dist",
+  "dur": 11.08,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "points": [
+    {
+     "label": "Киев",
+     "lat": 50.45,
+     "lon": 30.52,
+     "accent": false
+    },
+    {
+     "label": "Медыка",
+     "lat": 49.81,
+     "lon": 22.78,
+     "accent": true
+    }
+   ],
+   "admin": "Украина",
+   "place": "Польша",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 62,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.02,
+  "anim": 12.02,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_062.jpg",
+   "title": "Очередь у входа",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 63,
+  "view": "zal_g48",
+  "dur": 12.24,
+  "anim": 12.24,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.24,
+   "sheets": [],
+   "text": "Угроза Киеву не в одном скандале",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 64,
+  "view": "zal_g44",
+  "dur": 12.46,
+  "anim": 12.46,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.46,
+   "sheets": [],
+   "text": "Впереди трудная зима",
+   "value": "2,5 млн",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 66,
+  "view": "devices.device_scene",
+  "dur": 11.92,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "content_path": "cards/photo/card_066.jpg",
+   "items": [
+    "очередь — растёт",
+    "контроль — жёстче"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 67,
+  "view": "charts.pie",
+  "dur": 12.45,
+  "anim": 12.45,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "segments": [
+    {
+     "label": "Уехавшие",
+     "value": 7.0
+    },
+    {
+     "label": "Остальные",
+     "value": 93.0
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
