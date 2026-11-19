@@ -1,0 +1,39 @@
+[
+ {
+  "scene": 42,
+  "view": "cinematic.evidence_wall",
+  "dur": 12.24,
+  "anim": 12.24,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    [
+     "cards/photo/card_042.jpg",
+     240,
+     380,
+     -4,
+     "Поиск усиливается"
+    ],
+    [
+     "cards/photo/card_042_2.jpg",
+     800,
+     380,
+     3,
+     "Контроль растёт"
+    ],
+    [
+     "cards/photo/card_042_3.jpg",
+     1360,
+     380,
+     -2,
+     "Решения сверху"
+    ]
+   ],
+   "title": "СВЯЗЬ СОБЫТИЙ",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ }
+]
