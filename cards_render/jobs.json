@@ -1,0 +1,1218 @@
+[
+ {
+  "scene": 2,
+  "view": "zal_slova",
+  "dur": 13.29,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 13.29,
+   "sheets": [],
+   "text": "Миллионы могут уехать",
+   "na_polu": "2,5 МЛН",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 3,
+  "view": "zal_g01",
+  "dur": 12.4,
+  "anim": 12.4,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.4,
+   "sheets": [],
+   "text": "Подпишись на разбор",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 4,
+  "view": "zal_g18",
+  "dur": 9.28,
+  "anim": 9.28,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 9.28,
+   "sheets": [],
+   "text": "Уедут миллионы людей",
+   "value": "2,5 млн",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 8,
+  "view": "tape",
+  "dur": 12.95,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "В мегаполисе дефицит энергии затрагивает сотни тысяч семей одновременно",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 9,
+  "view": "doc",
+  "dur": 13.77,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Вместе с уехавшими страна теряет работников, инженеров, врачей и налогоплательщиков. Уезжают не абстрактные единицы из таблицы. Уезжают именно те, кого затем начинают искать для армии, предприятий и бюджета",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 12,
+  "view": "pull",
+  "dur": 10.56,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Условия жизни подталкивают людей к границе, а зима делает это заметнее",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 17,
+  "view": "zal_g48",
+  "dur": 10.8,
+  "anim": 10.8,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 10.8,
+   "sheets": [],
+   "text": "Гражданин сверяет отчёт с двором",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 22,
+  "view": "marker_serif",
+  "dur": 12.03,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Если официальный поиск уже приходится дополнять дворовой разведкой, с ресурсом всё не так безоблачно",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 24,
+  "view": "zal",
+  "dur": 12.28,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Принуждение исчезло, зато двор получил новую специальность",
+   "words": [
+    "НОЛЬ",
+    "МЕТОДЫ",
+    "ПОИСК"
+   ],
+   "sheets": [
+    "Бронь под вопросом",
+    "Возраст пересмотрят",
+    "Поиск продолжается",
+    "Официально — ноль",
+    "Фактически — рост",
+    "Сосед следит"
+   ],
+   "channel": "ПЛАНЕТА",
+   "dur": 12.28,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 25,
+  "view": "tape",
+  "dur": 11.57,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "На Банковой рассматривают сокращение бронирования, чтобы увеличить число мужчин, доступных для мобилизации",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 26,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.11,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 12.11,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Важность временная, а не постоянная",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.11,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Важность временная, а не постоянная",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.11,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 27,
+  "view": "zal_makety",
+  "dur": 10.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 10.9,
+   "sheets": [],
+   "text": "Военные и рабочие нужны разом",
+   "makety": [
+    "больница=ПРЕДПРИЯТИЯ",
+    "лэп=ЭНЕРГОСЕТИ"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 28,
+  "view": "zal_g01",
+  "dur": 12.27,
+  "anim": 12.27,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.27,
+   "sheets": [],
+   "text": "Население не растёт",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 29,
+  "view": "strike",
+  "dur": 11.36,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Сокращение брони означает гораздо больше, чем очередное изменение правил",
+   "struck": "очередное изменение правил",
+   "fix": "приказ сверху",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 30,
+  "view": "pull",
+  "dur": 12.16,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Кадровую нехватку армии предлагают закрывать людьми, которые уже закрывают нехватку в экономике",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 31,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.6,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 11.6,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Табличка с благодарностью",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.6,
+    "role": "уехавший специалист"
+   }
+  },
+  "kwargs": {
+   "text": "Табличка с благодарностью",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.6,
+   "role": "уехавший специалист"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "sceny.lenta",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.36,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "lenta",
+   "seconds": 11.36,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Ресурс ищут сразу в нескольких направлениях",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.36,
+    "soobshcheniya": [
+     "Бронь проверяют",
+     "Возраст пересматривают",
+     "Уклонистов ищут активнее"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Ресурс ищут сразу в нескольких направлениях",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.36,
+   "soobshcheniya": [
+    "Бронь проверяют",
+    "Возраст пересматривают",
+    "Уклонистов ищут активнее"
+   ]
+  }
+ },
+ {
+  "scene": 33,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.28,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "globus",
+   "seconds": 11.28,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Зиму решают переждать за границей",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.28,
+    "region": "Украина"
+   }
+  },
+  "kwargs": {
+   "text": "Зиму решают переждать за границей",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.28,
+   "region": "Украина"
+  }
+ },
+ {
+  "scene": 34,
+  "view": "zal_g48",
+  "dur": 11.89,
+  "anim": 11.89,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.89,
+   "sheets": [],
+   "text": "Ноль не поможет для декорации",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 35,
+  "view": "charts.network",
+  "dur": 10.79,
+  "anim": 10.79,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "Дука",
+     "label": "Дука",
+     "weight": 1.0
+    },
+    {
+     "id": "Кривонос",
+     "label": "Кривонос",
+     "weight": 1.0
+    },
+    {
+     "id": "Гончаренко",
+     "label": "Гончаренко",
+     "weight": 1.0
+    },
+    {
+     "id": "НАБУ",
+     "label": "НАБУ",
+     "weight": 1.0
+    }
+   ],
+   "links": [
+    {
+     "from": "Дука",
+     "to": "Кривонос",
+     "weight": 1.0
+    },
+    {
+     "from": "Гончаренко",
+     "to": "НАБУ",
+     "weight": 1.0
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.61,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 11.61,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Материалы есть, решения нет",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.61,
+    "tezisy": [
+     "Материалы есть",
+     "Основания есть",
+     "Сигнала нет"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Материалы есть, решения нет",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.61,
+   "tezisy": [
+    "Материалы есть",
+    "Основания есть",
+    "Сигнала нет"
+   ]
+  }
+ },
+ {
+  "scene": 37,
+  "view": "doc",
+  "dur": 11.2,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Материалы собраны, основания, как утверждается, имеются, но дело ждёт разрешающего сигнала. Нужен не новый факт, а момент, когда наверху решат, что папке пора ожить",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 38,
+  "view": "zal_kub",
+  "dur": 11.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.2,
+   "sheets": [],
+   "text": "У дела тоже бывает режим ожидания",
+   "kick": "ПОЧТИ ГОД",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 39,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.12,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 11.12,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Коррупцию должны расследовать",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.12
+   }
+  },
+  "kwargs": {
+   "text": "Коррупцию должны расследовать",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.12
+  }
+ },
+ {
+  "scene": 40,
+  "view": "slider",
+  "dur": 12.16,
+  "anim": 12.16,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 0.0,
+   "high": 100.0,
+   "marker_value": 50.0,
+   "marker_display": "50",
+   "seconds": 12.16,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "",
+   "source": ""
+  }
+ },
+ {
+  "scene": 41,
+  "view": "duel",
+  "dur": 12.13,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "руководство Генеральной прокуратуры",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "речь идёт уже не о личном споре двух людей",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 42,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.24,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 12.24,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Сейчас документы лежат",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.24,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Сейчас документы лежат",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.24,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 43,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.04,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 11.04,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Версия о давлении на НАБУ",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.04,
+    "sobytiya": [
+     "Материалы готовы",
+     "Год без движения",
+     "Нужно решение"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Версия о давлении на НАБУ",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.04,
+   "sobytiya": [
+    "Материалы готовы",
+    "Год без движения",
+    "Нужно решение"
+   ]
+  }
+ },
+ {
+  "scene": 44,
+  "view": "zal_g44",
+  "dur": 12.08,
+  "anim": 12.08,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.08,
+   "sheets": [],
+   "text": "Момент включения выбирают сами",
+   "value": "почти год",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "pull",
+  "dur": 11.76,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Зажать папку на год или вынести её к камерам немедленно — два совершенно разных удара",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 46,
+  "view": "zal_efir",
+  "dur": 11.92,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.92,
+   "sheets": [],
+   "text": "Дело держали год",
+   "say": "Подозрение Кривоносу готовили ещё в конце две тысячи двадцать пятого года, но почти год не подписывали",
+   "author": "Сергей Дука",
+   "role": "генерал-майор СБУ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 47,
+  "view": "sceny.mehanizm",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 10.77,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "mehanizm",
+   "seconds": 10.77,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Конфликт получает сцену",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 10.77,
+    "pary": [
+     "Дука>НАБУ",
+     "Гончаренко>НАБУ"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Конфликт получает сцену",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 10.77,
+   "pary": [
+    "Дука>НАБУ",
+    "Гончаренко>НАБУ"
+   ]
+  }
+ },
+ {
+  "scene": 48,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.56,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 12.56,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Вывеска серьёзная, микрофоны включены, протокол ведётся",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.56,
+    "role": "депутат"
+   }
+  },
+  "kwargs": {
+   "text": "Вывеска серьёзная, микрофоны включены, протокол ведётся",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.56,
+   "role": "депутат"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "tape",
+  "dur": 12.32,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Юридический итог может появиться когда нибудь потом или не появиться вовсе, зато нужное впечатление создаётся сразу",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 50,
+  "view": "sceny.repliki",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.4,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "repliki",
+   "seconds": 12.4,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Каждый играет роль",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.4,
+    "repliki_": [
+     "Первый|оправдывается",
+     "Второй|разоблачает",
+     "Третий|следит, кто прав"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Каждый играет роль",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.4,
+   "repliki_": [
+    "Первый|оправдывается",
+    "Второй|разоблачает",
+    "Третий|следит, кто прав"
+   ]
+  }
+ },
+ {
+  "scene": 51,
+  "view": "charts.network",
+  "dur": 11.36,
+  "anim": 11.36,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "Контролировать",
+     "label": "Контролировать",
+     "weight": 1.0
+    },
+    {
+     "id": "Намного",
+     "label": "Намного",
+     "weight": 2.0
+    },
+    {
+     "id": "Один",
+     "label": "Один",
+     "weight": 1.0
+    }
+   ],
+   "links": [
+    {
+     "from": "Контролировать",
+     "to": "Намного",
+     "weight": 1.0
+    },
+    {
+     "from": "Намного",
+     "to": "Один",
+     "weight": 1.0
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "zal_g01",
+  "dur": 11.92,
+  "anim": 11.92,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.92,
+   "sheets": [],
+   "text": "Папка дождётся команды",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 53,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.16,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 11.16,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Смотрят на бронь и возраст",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.16,
+    "tezisy": [
+     "Бронь под вопросом",
+     "Возраст пересмотрят",
+     "Уклонистов ищут"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Смотрят на бронь и возраст",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.16,
+   "tezisy": [
+    "Бронь под вопросом",
+    "Возраст пересмотрят",
+    "Уклонистов ищут"
+   ]
+  }
+ },
+ {
+  "scene": 54,
+  "view": "doc",
+  "dur": 11.19,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Миллионы граждан оценивают состояние энергетики и решают, не пора ли им искать другую страну для зимовки. Решение больше не кажется редким исключением",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 55,
+  "view": "zal_pol",
+  "dur": 10.96,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 10.96,
+   "sheets": [],
+   "text": "Там важен доступ к делам и комиссиям",
+   "na_polu": "ВЛАСТЬ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 56,
+  "view": "zal_g48",
+  "dur": 11.92,
+  "anim": 11.92,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.92,
+   "sheets": [],
+   "text": "Счётчики разные, доверие общее",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 57,
+  "view": "zal_shkala",
+  "dur": 11.68,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.68,
+   "sheets": [],
+   "text": "Перед страной стоят три задачи разом",
+   "value": "3",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 58,
+  "view": "strike",
+  "dur": 13.12,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Сняли бронь, армейский список вырос, зато предприятие осталось без специалиста",
+   "struck": "Сняли бронь, армейский список вырос",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "duel",
+  "dur": 12.56,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "Хочет больше",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Даёт меньше причин остаться",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "charts.cartogram",
+  "dur": 11.08,
+  "anim": 11.08,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Украина"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 61,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.44,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 11.44,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Сосед — источник сведений",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.44
+   }
+  },
+  "kwargs": {
+   "text": "Сосед — источник сведений",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.44
+  }
+ },
+ {
+  "scene": 62,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.02,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 12.02,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Доверяют опыту, не цифре",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.02,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Доверяют опыту, не цифре",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.02,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 63,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.24,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "globus",
+   "seconds": 12.24,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Угроза Киеву не в одном скандале",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.24,
+    "region": "Украина"
+   }
+  },
+  "kwargs": {
+   "text": "Угроза Киеву не в одном скандале",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.24,
+   "region": "Украина"
+  }
+ },
+ {
+  "scene": 64,
+  "view": "marker_serif",
+  "dur": 12.46,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Впереди зима с перебоями энергии и пересмотром возраста призыва",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 65,
+  "view": "zal_ekran",
+  "dur": 13.52,
+  "anim": 13.52,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 13.52,
+   "sheets": [],
+   "text": "Выбор становится коротким",
+   "say": "Случаи принудительной мобилизации на Украине практически исчезли",
+   "author": "Фёдор Вениславский",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 66,
+  "view": "pull",
+  "dur": 11.92,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Для власти ответ особенно важен, хотя понравится он ей вряд ли",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 67,
+  "view": "sceny.lenta",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.45,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "lenta",
+   "seconds": 12.45,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Прогноз 2,5 млн спорит с демографией",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.45,
+    "soobshcheniya": [
+     "Можно снижать возраст",
+     "Можно пересматривать бронь"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Прогноз 2,5 млн спорит с демографией",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.45,
+   "soobshcheniya": [
+    "Можно снижать возраст",
+    "Можно пересматривать бронь"
+   ]
+  }
+ },
+ {
+  "scene": 68,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.28,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 11.28,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Пересёкшего границу не вернёт новая строка в законе",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.28,
+    "role": "эксперт"
+   }
+  },
+  "kwargs": {
+   "text": "Пересёкшего границу не вернёт новая строка в законе",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.28,
+   "role": "эксперт"
+  }
+ },
+ {
+  "scene": 69,
+  "view": "zal_efir",
+  "dur": 12.96,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.96,
+   "sheets": [],
+   "text": "Итог беспощадный для всех",
+   "say": "Материалы на Кривоноса готовили ещё в две тысячи двадцать пятом году",
+   "author": "Сергей Дука",
+   "role": "генерал-майор СБУ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 70,
+  "view": "quote",
+  "dur": 12.53,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Власти ищут дополнительные миллионы людей для армии и экономики, а могут получить миллионы уехавших",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
