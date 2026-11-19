@@ -1,0 +1,120 @@
+[
+ {
+  "scene": 17,
+  "view": "charts.cartogram",
+  "dur": 10.8,
+  "anim": 10.8,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Украина",
+    "Польша"
+   ],
+   "mode": "bubble",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 29,
+  "view": "charts.cartogram",
+  "dur": 11.36,
+  "anim": 11.36,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Украина"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "zal_makety",
+  "dur": 11.76,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.76,
+   "sheets": [],
+   "text": "Зажать папку или вынести к камерам",
+   "makety": [
+    "больница=ПРЕДПРИЯТИЯ",
+    "лэп=ЭНЕРГОСЕТИ"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.92,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 11.92,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Папка дождётся команды",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.92,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Папка дождётся команды",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.92,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 61,
+  "view": "sceny.repliki",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.44,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "repliki",
+   "seconds": 11.44,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Сосед становится источником",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.44,
+    "repliki_": [
+     "Первый|наблюдает",
+     "Второй|сообщает",
+     "Третий|получает деньги"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Сосед становится источником",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.44,
+   "repliki_": [
+    "Первый|наблюдает",
+    "Второй|сообщает",
+    "Третий|получает деньги"
+   ]
+  }
+ }
+]
