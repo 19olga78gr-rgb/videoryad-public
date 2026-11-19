@@ -1,0 +1,164 @@
+[
+ {
+  "scene": 12,
+  "view": "cinematic.dossier",
+  "dur": 9.84,
+  "anim": 9.84,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "rows": [
+    "Ирина Верещук",
+    "должность — вице-премьер по реинтеграции",
+    "тема — возвращение ветеранов",
+    "задача — работа и жильё"
+   ],
+   "title": "ДОСЬЕ",
+   "photo": "cards/photo/card_012.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 22,
+  "view": "cinematic.evidence_wall",
+  "dur": 10.81,
+  "anim": 10.81,
+  "tail_zoom": 0.0,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "shots": [
+    [
+     "cards/photo/card_022.jpg",
+     240,
+     380,
+     -4,
+     "уличная мобилизация"
+    ],
+    [
+     "cards/photo/card_022_2.jpg",
+     800,
+     380,
+     3,
+     "провалы снабжения"
+    ],
+    [
+     "cards/photo/card_022_3.jpg",
+     1360,
+     380,
+     -2,
+     "коррупционные дела"
+    ]
+   ],
+   "title": "Копились годами",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 26,
+  "view": "vyrezka.gazeta",
+  "dur": 11.06,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "photo": "cards/photo/card_026.jpg",
+   "author": "Ирина Верещук",
+   "role": "вице-премьер Украины",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 29,
+  "view": "vyrezka.figura",
+  "dur": 10.78,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "photo": "cards/photo/card_029.jpg",
+   "author": "Ирина Верещук",
+   "role": "вице-премьер Украины",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 40,
+  "view": "film.film_single",
+  "dur": 10.48,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "photo": "cards/photo/card_040.jpg",
+   "title": "Хроника",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 42,
+  "view": "devices.device_scene",
+  "dur": 10.83,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "content_path": "cards/photo/card_042.jpg",
+   "items": [
+    "ветераны=9 млн с семьями",
+    "бюджет=не бездонный"
+   ],
+   "source": "расчёт по тексту",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "poster.poster",
+  "dur": 10.89,
+  "anim": 10.89,
+  "tail_zoom": 0.0,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "title": "Кто ответит после победы",
+   "hero_photo": "cards/photo/card_049.jpg",
+   "bottom": "Чиновник ждёт не благодарности, а вопросов",
+   "facts": [
+    {
+     "label": "ветеранов",
+     "value": "3 млн"
+    },
+    {
+     "label": "с семьями",
+     "value": "9 млн"
+    }
+   ],
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 53,
+  "view": "charts.cartogram",
+  "dur": 10.4,
+  "anim": 10.4,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "data": [
+    "Украина",
+    "Румыния"
+   ],
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ }
+]
