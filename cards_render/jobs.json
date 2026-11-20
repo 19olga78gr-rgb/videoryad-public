@@ -1,66 +1,38 @@
 [
  {
-  "scene": 10,
-  "view": "zal_g44",
+  "scene": 2,
+  "view": "marker_serif",
   "dur": 9.2,
-  "anim": 9.2,
+  "anim": 2.6,
   "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 9.2,
-   "sheets": [],
-   "text": "Разница в подходе к соглашению",
-   "value": "ВСЁ СРАЗУ",
-   "value_sub": "ТРЕБОВАНИЕ",
+   "text": "Никто не делает вид, что ответа не было — просто повторяют предложение",
    "watermark": "5 МИНУТ"
   }
  },
  {
-  "scene": 11,
-  "view": "charts.waterfall",
+  "scene": 12,
+  "view": "zal",
   "dur": 9.2,
-  "anim": 9.2,
+  "anim": 2.6,
   "tail_zoom": 0.045,
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "start": {
-    "label": "пауза",
-    "value": 1.0
-   },
-   "steps": [
-    {
-     "label": "ограничение",
-     "value": 1.0
-    },
-    {
-     "label": "коридор",
-     "value": 1.0
-    }
+   "text": "Время работает не на всех одинаково",
+   "words": [
+    "ПАУЗА",
+    "ДАВЛЕНИЕ",
+    "СРОК"
    ],
-   "end": {
-    "label": "промежуточные шаги"
-   },
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 18,
-  "view": "zal_g18",
-  "dur": 9.2,
-  "anim": 9.2,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
+   "sheets": [
+    "Снизить давление прямо сейчас",
+    "Время работает на одну сторону"
+   ],
    "channel": "5 МИНУТ",
    "dur": 9.2,
-   "sheets": [],
-   "text": "Это обычный семейный скандал",
-   "value": "ФРОНТ",
-   "value_sub": "ВМЕСТО КУХНИ",
    "watermark": "5 МИНУТ"
   }
  }
