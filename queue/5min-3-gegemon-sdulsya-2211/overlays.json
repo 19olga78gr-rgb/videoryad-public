@@ -1,0 +1,113 @@
+{
+ "1": {
+  "photo": "overlays/scene_001.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right"
+ },
+ "7": {
+  "photo": "overlays/scene_007.jpg",
+  "sound": "whoosh",
+  "at": 2.4,
+  "shape": "rect",
+  "scale": 1.2,
+  "style": "right"
+ },
+ "19": {
+  "photo": "overlays/scene_019.jpg",
+  "sound": "ding",
+  "at": 2.6,
+  "shape": "circle",
+  "scale": 1.0,
+  "style": "up-right"
+ },
+ "40": {
+  "photo": "overlays/scene_040.jpg",
+  "sound": "pop",
+  "at": 2.8,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "up-right"
+ },
+ "54": {
+  "photo": "overlays/scene_054.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "up-right"
+ },
+ "anchor": "top",
+ "3": {
+  "text": {
+   "words": "ПРАВИЛА ИГРЫ",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.0,
+   "scale": 1.0,
+   "sound": "zatvor"
+  }
+ },
+ "13": {
+  "text": {
+   "words": "ВТОРОЙ САММИТ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 2.0,
+   "scale": 1.0,
+   "sound": "zatvor"
+  }
+ },
+ "23": {
+  "text": {
+   "words": "МАРШРУТЫ",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.0,
+   "scale": 1.0,
+   "sound": "zatvor"
+  }
+ },
+ "27": {
+  "text": {
+   "words": "НАДСТРОЙКИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.0,
+   "scale": 1.0,
+   "sound": "pshik"
+  }
+ },
+ "43": {
+  "text": {
+   "words": "ПЭТРИОТЫ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 2.0,
+   "scale": 1.0,
+   "sound": "zatvor"
+  }
+ },
+ "56": {
+  "text": {
+   "words": "800 КГ",
+   "color": "red",
+   "pos": "mc",
+   "at": 2.0,
+   "scale": 1.0,
+   "sound": "mashinka"
+  }
+ },
+ "74": {
+  "text": {
+   "words": "ЕВРОПА",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.0,
+   "scale": 1.0,
+   "sound": "whoosh"
+  }
+ }
+}
