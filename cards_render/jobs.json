@@ -1,0 +1,148 @@
+[
+ {
+  "scene": 9,
+  "view": "charts.network",
+  "dur": 11.3,
+  "anim": 11.3,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "Трамп",
+     "label": "Трамп",
+     "weight": 3.0
+    },
+    {
+     "id": "Путин",
+     "label": "Путин",
+     "weight": 2.0
+    },
+    {
+     "id": "Си Цзиньпин",
+     "label": "Си Цзиньпин",
+     "weight": 3.0
+    }
+   ],
+   "links": [
+    {
+     "from": "Трамп",
+     "to": "Путин",
+     "weight": 1.0
+    },
+    {
+     "from": "Трамп",
+     "to": "Си Цзиньпин",
+     "weight": 2.0
+    },
+    {
+     "from": "Путин",
+     "to": "Си Цзиньпин",
+     "weight": 1.0
+    }
+   ],
+   "title": "ТРОЙКА ЗА СТОЛОМ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 38,
+  "view": "split",
+  "dur": 12.2,
+  "anim": 2.0,
+  "tail_zoom": 0.06,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_038.jpg",
+   "text": "Боже, сохрани нас от таких друзей",
+   "author": "Дональд Туск",
+   "role": "Премьер-министр Польши",
+   "accent": "Боже, сохрани нас от таких друзей",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 44,
+  "view": "cinematic.dossier",
+  "dur": 12.9,
+  "anim": 12.9,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "rows": [
+    "система — Patriot",
+    "страна — Польша",
+    "статус — полная боевая готовность",
+    "причина — российские ракеты и беспилотник",
+    "раньше — передавать Киеву не разрешали"
+   ],
+   "kick": "ПОЛЬША · 2026",
+   "title": "ПОЛЬША · 2026",
+   "photo": "cards/photo/card_044.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "torn_split.torn_split",
+  "dur": 13.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "a_path": "cards/photo/card_048.jpg",
+   "b_path": "cards/photo/card_048_2.jpg",
+   "title": "БУКЛЕТ ПРОТИВ РЕАЛЬНОСТИ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 51,
+  "view": "zal_g44",
+  "dur": 12.2,
+  "anim": 12.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 12.2,
+   "sheets": [],
+   "text": "Учения шли давно",
+   "value": "11",
+   "value_sub": "АРМИЙ НАТО",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 80,
+  "view": "poster.poster",
+  "dur": 10.69,
+  "anim": 10.69,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "title": "ТРОЕ ЗА СТОЛОМ",
+   "hero_photo": "cards/photo/card_080.jpg",
+   "bottom": "ЕВРОПЕ СТОИТ СЧИТАТЬ СТУЛЬЯ",
+   "facts": [
+    {
+     "label": "за столом",
+     "value": "Путин, Трамп, Си"
+    },
+    {
+     "label": "вопрос",
+     "value": "сколько стульев"
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ }
+]
