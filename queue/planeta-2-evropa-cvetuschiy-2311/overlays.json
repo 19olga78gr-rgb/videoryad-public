@@ -1,0 +1,55 @@
+{
+  "21": {
+    "text": {
+      "words": "НОВЫЕ ПРАВИЛА",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.5,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Германия ужесточает условия для иностранцев",
+      "approved": true
+    }
+  },
+  "42": {
+    "text": {
+      "words": "ПРИБАЛТИКА ЗАКРЫВАЕТСЯ",
+      "color": "red",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.5,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Латвия и Эстония расширяют список угроз",
+      "approved": true
+    }
+  },
+  "49": {
+    "text": {
+      "words": "ЕВРОПА ВЫБИРАЕТ",
+      "color": "orange",
+      "pos": "tl",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.5,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Франция и Испания спорят о своих войнах",
+      "approved": true
+    }
+  },
+  "2": {
+    "sound": "pop",
+    "at": 2.2,
+    "photo": "overlays/scene_002.jpg",
+    "style": "right",
+    "anchor": "top",
+    "approved": true,
+    "dash_ok": true,
+    "shape": "rect",
+    "scale": 1.0
+  }
+}
