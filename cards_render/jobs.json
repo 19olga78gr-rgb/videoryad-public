@@ -1,0 +1,166 @@
+[
+ {
+  "scene": 11,
+  "view": "cinematic.dossier",
+  "dur": 9.8,
+  "anim": 9.8,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "rows": [
+    "Фридрих Мерц",
+    "должность — канцлер Германии",
+    "обещает — многократную выгоду позже",
+    "курс — продолжение прежней линии"
+   ],
+   "title": "Фридрих Мерц",
+   "photo": "cards/photo/card_011.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 18,
+  "view": "split",
+  "dur": 12.8,
+  "anim": 2.0,
+  "tail_zoom": 0.06,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_018.jpg",
+   "text": "Пора поговорить с Путиным без предварительных уступок",
+   "author": "Фридрих Мерц",
+   "role": "канцлер Германии",
+   "accent": "Пора поговорить с Путиным без",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 35,
+  "view": "cinematic.evidence_wall",
+  "dur": 12.64,
+  "anim": 12.64,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    [
+     "cards/photo/card_035.jpg",
+     240,
+     380,
+     -4,
+     "проверка документов"
+    ],
+    [
+     "cards/photo/card_035_2.jpg",
+     800,
+     380,
+     3,
+     "пограничный контроль"
+    ]
+   ],
+   "title": "Проверка документов строже",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 44,
+  "view": "paper_hand",
+  "dur": 12.41,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Помощь Киеву не мешает выигрывать выборы",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 50,
+  "view": "film.film_single",
+  "dur": 12.13,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_050.jpg",
+   "title": "Подписи под сомнением",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 53,
+  "view": "sceny.repliki",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 10.88,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "repliki",
+   "seconds": 10.88,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Испанские партии обвиняют друг друга",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 10.88,
+    "repliki_": [
+     "ПП|связи соперников с Москвой",
+     "ПСОЕ|то же самое в ответ",
+     "Подемос|Москва всюду, кроме них",
+     "Националисты|Москва управляет и ими"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Испанские партии обвиняют друг друга",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 10.88,
+   "repliki_": [
+    "ПП|связи соперников с Москвой",
+    "ПСОЕ|то же самое в ответ",
+    "Подемос|Москва всюду, кроме них",
+    "Националисты|Москва управляет и ими"
+   ]
+  }
+ },
+ {
+  "scene": 60,
+  "view": "vyrezka.gazeta",
+  "dur": 11.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_060.jpg",
+   "author": "Урсула фон дер Ляйен",
+   "role": "глава Еврокомиссии",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 72,
+  "view": "vyrezka.figura",
+  "dur": 11.92,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_072.jpg",
+   "author": "Владимир Путин",
+   "role": "президент России",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
