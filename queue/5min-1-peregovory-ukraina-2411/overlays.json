@@ -1,0 +1,197 @@
+{
+ "1": {
+  "photo": "overlays/scene_001.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "text": {
+   "words": "СКОЛЬКО"
+  }
+ },
+ "3": {
+  "photo": "overlays/scene_003.jpg",
+  "sound": "whoosh",
+  "at": 2.4,
+  "shape": "rect",
+  "scale": 1.2,
+  "style": "left",
+  "text": {
+   "words": "ИНТЕРЕСНЫ"
+  }
+ },
+ "5": {
+  "photo": "overlays/scene_005.jpg",
+  "sound": "ding",
+  "at": 2.6,
+  "shape": "circle",
+  "scale": 1.0,
+  "style": "up-right",
+  "text": {
+   "words": "ОСТАВАЛСЯ"
+  }
+ },
+ "9": {
+  "photo": "overlays/scene_009.jpg",
+  "sound": "pop",
+  "at": 2.8,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left",
+  "text": {
+   "words": "БУДАНОВ"
+  }
+ },
+ "12": {
+  "photo": "overlays/scene_012.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "up-right",
+  "text": {
+   "words": "ТЕРРИТОРИАЛЬНЫЙ"
+  }
+ },
+ "16": {
+  "photo": "overlays/scene_016.jpg",
+  "sound": "ding",
+  "at": 3.2,
+  "shape": "circle",
+  "scale": 1.2,
+  "style": "left",
+  "text": {
+   "words": "ПОБЕДА"
+  }
+ },
+ "18": {
+  "photo": "overlays/scene_018.jpg",
+  "sound": "pop",
+  "at": 3.4,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "up-center",
+  "text": {
+   "words": "ГАРАНТИЙ"
+  }
+ },
+ "25": {
+  "photo": "overlays/scene_025.jpg",
+  "sound": "whoosh",
+  "at": 3.6,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "up-center",
+  "text": {
+   "words": "УКРАИНСКОЙ"
+  }
+ },
+ "30": {
+  "photo": "overlays/scene_030.jpg",
+  "sound": "ding",
+  "at": 3.8,
+  "shape": "circle",
+  "scale": 1.0,
+  "style": "left",
+  "text": {
+   "words": "ОРУЖИЕ"
+  }
+ },
+ "31": {
+  "photo": "overlays/scene_031.jpg",
+  "sound": "pop",
+  "at": 4.0,
+  "shape": "rect",
+  "scale": 1.2,
+  "style": "left",
+  "text": {
+   "words": "БЕЗОПАСНОСТИ"
+  }
+ },
+ "44": {
+  "photo": "overlays/scene_044.jpg",
+  "sound": "whoosh",
+  "at": 4.2,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left",
+  "text": {
+   "words": "ЯДЕРНЫХ"
+  }
+ },
+ "46": {
+  "photo": "overlays/scene_046.jpg",
+  "sound": "ding",
+  "at": 4.4,
+  "shape": "circle",
+  "scale": 1.0,
+  "style": "up-center",
+  "text": {
+   "words": "ГАРАНТИЙ"
+  }
+ },
+ "50": {
+  "photo": "overlays/scene_050.jpg",
+  "sound": "pop",
+  "at": 4.6,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "text": {
+   "words": "МАДУРО"
+  }
+ },
+ "76": {
+  "photo": "overlays/scene_076.jpg",
+  "sound": "whoosh",
+  "at": 4.8,
+  "shape": "rect",
+  "scale": 1.2,
+  "style": "up-left",
+  "text": {
+   "words": "ХОРОШИЙ"
+  }
+ },
+ "11": {
+  "text": {
+   "words": "КОМНАТАХ"
+  }
+ },
+ "23": {
+  "text": {
+   "words": "НАЧИНАЕТСЯ"
+  }
+ },
+ "39": {
+  "text": {
+   "words": "СОГЛАСОВАНО"
+  }
+ },
+ "68": {
+  "text": {
+   "words": "КАПИТУЛЯЦИОННОМ"
+  }
+ },
+ "anchor": "top",
+ "8": {
+  "text": {
+   "words": "ПЕРЕМИРИЕ"
+  }
+ },
+ "26": {
+  "text": {
+   "words": "САНКЦИИ"
+  }
+ },
+ "52": {
+  "text": {
+   "words": "ОТДЕЛЬНЫЙ"
+  }
+ },
+ "67": {
+  "text": {
+   "words": "ПРОВЕРЯЕТСЯ"
+  }
+ }
+}
