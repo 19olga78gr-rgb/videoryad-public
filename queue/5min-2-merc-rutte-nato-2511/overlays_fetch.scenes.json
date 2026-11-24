@@ -1,0 +1,22 @@
+{
+ "scenes": [
+  {
+   "id": 4,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "здание Еврокомиссии Брюссель"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "карта НАТО Восточная Европа"
+  },
+  {
+   "id": 62,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "производство беспилотников завод Украина"
+  }
+ ]
+}
