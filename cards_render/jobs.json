@@ -1,0 +1,40 @@
+[
+ {
+  "scene": 30,
+  "view": "cinematic.dossier",
+  "dur": 12.4,
+  "anim": 12.4,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "rows": [
+    "имя — Фридрих Мерц",
+    "должность — канцлер Германии",
+    "тема — вступление Украины в НАТО",
+    "итог — по его словам, войну можно было избежать"
+   ],
+   "title": "Фридрих Мерц",
+   "photo": "cards/photo/card_030.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 39,
+  "view": "devices.device_scene",
+  "dur": 10.18,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "content_path": "cards/photo/card_039.jpg",
+   "items": [
+    "Дмитрий Песков, пресс-секретарь Кремля",
+    "Москва готова выйти на контакт с европейцами"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
