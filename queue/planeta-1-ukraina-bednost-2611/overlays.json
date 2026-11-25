@@ -1,0 +1,44 @@
+{
+  "13": {
+    "photo": "cards/photo/pop_meter.jpg",
+    "sound": "stamp",
+    "at": 2.0
+  },
+  "62": {
+    "photo": "cards/photo/pop_queue.jpg",
+    "sound": "soft-click",
+    "at": 2.0
+  },
+  "18": {
+    "text": {
+      "words": "ФИНАНСЫ ЕВРОСОЮЗА",
+      "sub": "откуда ищут деньги",
+      "style": "mask_plate",
+      "pos": "ml",
+      "at": 0.3
+    }
+  },
+  "53": {
+    "text": {
+      "words": "ТАРИФЫ МВФ",
+      "sub": "цена роста",
+      "style": "mask_plate",
+      "pos": "ml",
+      "at": 0.3
+    }
+  },
+  "66": {
+    "text": {
+      "words": "ГЕРМАНИЯ",
+      "sub": "проверки пособий",
+      "style": "mask_plate",
+      "pos": "ml",
+      "at": 0.3
+    }
+  },
+  "3": {
+    "photo": "cards/photo/pop_coins.jpg",
+    "sound": "ding",
+    "at": 2.0
+  }
+}
