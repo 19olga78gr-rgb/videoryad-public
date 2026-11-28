@@ -1,0 +1,910 @@
+[
+ {
+  "scene": 3,
+  "view": "zastavka",
+  "dur": 8.04,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.04,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 9,
+  "view": "slider",
+  "dur": 7.88,
+  "anim": 7.88,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 0.0,
+   "high": 100.0,
+   "marker_value": 50.0,
+   "marker_display": "50",
+   "seconds": 7.88,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "",
+   "source": ""
+  }
+ },
+ {
+  "scene": 17,
+  "view": "zal_slova",
+  "dur": 7.86,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.86,
+   "sheets": [],
+   "text": "Кравченко назвал вопрос приоритетным",
+   "na_polu": "300 000",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 19,
+  "view": "bars",
+  "dur": 8.21,
+  "anim": 8.21,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "СКОЛЬКО ВЫТАЩИТЬ ИЗ БРОНИ",
+   "caption": "",
+   "seconds": 8.21,
+   "bars": [
+    {
+     "label": "100 ТЫС",
+     "value": 0.33,
+     "color": "EABD23"
+    },
+    {
+     "label": "200 ТЫС",
+     "value": 0.67,
+     "color": "B92526"
+    },
+    {
+     "label": "300 ТЫС",
+     "value": 1.0,
+     "color": "84848A"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 24,
+  "view": "sortirovka",
+  "dur": 8.02,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.02,
+   "left": "НУЖЕН",
+   "right": "МЕНЕЕ НУЖЕН",
+   "items": [
+    "Работник завода",
+    "Специалист энергетики",
+    "Транспортник"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 25,
+  "view": "chertezh",
+  "dur": 8.14,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.14,
+   "accent": "ЭКОНОМИКА",
+   "items": [
+    "Станок без рабочего",
+    "Электросеть без ремонта"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 26,
+  "view": "zal_pol",
+  "dur": 7.83,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.83,
+   "sheets": [],
+   "text": "Да и вообще работать станет некому",
+   "na_polu": "ЛЮДЕЙ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 27,
+  "view": "zal_g48",
+  "dur": 8.2,
+  "anim": 8.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.2,
+   "sheets": [],
+   "text": "Новые решения эту проблему не создают",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "zal_shkala",
+  "dur": 7.96,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.96,
+   "sheets": [],
+   "text": "Решение вопроса на месте",
+   "value": "3000$",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 33,
+  "view": "polosy",
+  "dur": 8.3,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.3,
+   "items": [
+    "Документ=20 000",
+    "Деньги=3 000"
+   ],
+   "kick": "Расценки решения вопроса",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "strike",
+  "dur": 8.22,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Это уже не обязанность по закону, а принудительное изъятие человеческого ресурса",
+   "struck": "обязанность по закону",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 37,
+  "view": "zal",
+  "dur": 8.15,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Единственный способ выжить",
+   "words": [
+    "УЕХАТЬ"
+   ],
+   "sheets": [
+    "Бусификация",
+    "Изъятие ресурса",
+    "Нет брони",
+    "Нет документов",
+    "Нет гарантий",
+    "Нет выбора"
+   ],
+   "channel": "5 МИНУТ",
+   "dur": 8.15,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 38,
+  "view": "krupnoe_chislo",
+  "dur": 8.28,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.28,
+   "value": "35 000",
+   "accent": "В МЕСЯЦ",
+   "kick": "Оценки потерь",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 39,
+  "view": "tape",
+  "dur": 7.88,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Это оценка, не официальная статистика",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "otbivka",
+  "dur": 8.19,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.19,
+   "accent": "РЕЕСТР",
+   "kick": "Человека обратно не вернёшь",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 44,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 7.99,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "globus",
+   "seconds": 7.99,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Украинцы в Европе под давлением",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 7.99,
+    "region": "Европа"
+   }
+  },
+  "kwargs": {
+   "text": "Украинцы в Европе под давлением",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 7.99,
+   "region": "Европа"
+  }
+ },
+ {
+  "scene": 46,
+  "view": "doc",
+  "dur": 8.0,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Это подталкивает к мысли уехать из Украины как можно скорее",
+   "mark": "уехать",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "kalendar",
+  "dur": 8.02,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.02,
+   "accent": "2027",
+   "value": "1",
+   "kick": "Война может идти весь год",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "pull",
+  "dur": 7.68,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Нынешняя фаза не позволяет остановить войну",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 51,
+  "view": "marker_serif",
+  "dur": 7.77,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Люди хотят услышать что-то приятное",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "zal_g01",
+  "dur": 8.15,
+  "anim": 8.15,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.15,
+   "sheets": [],
+   "text": "Но реальность, говорит он, другая",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 53,
+  "view": "pereskaz",
+  "dur": 7.76,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.76,
+   "items": [
+    "Готовьтесь к тому, что война не заканчивается"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 54,
+  "view": "kartoteka",
+  "dur": 8.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.0,
+   "accent": "ВОЕННООБЯЗАННЫЙ",
+   "kick": "Точный учёт",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 55,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 7.92,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 7.92,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Если война весь год",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 7.92,
+    "role": "Кто будет её вести"
+   }
+  },
+  "kwargs": {
+   "text": "Если война весь год",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 7.92,
+   "role": "Кто будет её вести"
+  }
+ },
+ {
+  "scene": 56,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 7.78,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 7.78,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Банковая снова вытаскивает Павлюченко",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 7.78,
+    "role": "загадочный инсайдер"
+   }
+  },
+  "kwargs": {
+   "text": "Банковая снова вытаскивает Павлюченко",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 7.78,
+   "role": "загадочный инсайдер"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 7.74,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 7.74,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Командиры в очередь",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 7.74,
+    "tezisy": [
+     "Каждый хочет первым",
+     "Ресурс один"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Командиры в очередь",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 7.74,
+   "tezisy": [
+    "Каждый хочет первым",
+    "Ресурс один"
+   ]
+  }
+ },
+ {
+  "scene": 61,
+  "view": "karta_brifing",
+  "dur": 7.83,
+  "anim": 7.83,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "На карте действительно выглядит просто",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 63,
+  "view": "cheklist",
+  "dur": 8.04,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.04,
+   "items": [
+    "Переправы",
+    "Прикрытие",
+    "Резервы",
+    "Снабжение"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 64,
+  "view": "duel",
+  "dur": 8.24,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "И здесь особенно смешно выглядит сочетание двух новостей",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "разговоры о новом наступлении",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 69,
+  "view": "quote",
+  "dur": 8.12,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Фраза любыми способами всегда требует второй части",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 72,
+  "view": "stroki_faktov",
+  "dur": 8.23,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.23,
+   "items": [
+    "Война бьёт по снабжению",
+    "Война бьёт по дорогам",
+    "Война бьёт по узлам связи",
+    "Война бьёт по переправам",
+    "Противник будет пытаться их уничтожать"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 73,
+  "view": "zal_ekran",
+  "dur": 8.18,
+  "anim": 8.18,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.18,
+   "sheets": [
+    "ОБОРОНА",
+    "ПРЯМАЯ РЕЧЬ"
+   ],
+   "text": "Хватит ли сил защищать всё",
+   "say": "Столицу, энергетику, мосты",
+   "author": "Зеленский",
+   "role": "президент",
+   "source": "обращение к народу",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 75,
+  "view": "zal_g44",
+  "dur": 8.11,
+  "anim": 8.11,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.11,
+   "sheets": [],
+   "text": "Людей не хватает уже настолько",
+   "value": "300 000",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 78,
+  "view": "dok_word",
+  "dur": 7.77,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Предельно жёсткая политическая рамка",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 79,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 7.74,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 7.74,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Переговорный трек существует",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 7.74,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Переговорный трек существует",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 7.74,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 83,
+  "view": "charts.network",
+  "dur": 7.98,
+  "anim": 7.98,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "Партнёры",
+     "label": "Партнёры",
+     "weight": 4.0
+    },
+    {
+     "id": "Деньги",
+     "label": "Деньги",
+     "weight": 1.0
+    },
+    {
+     "id": "Разведданные",
+     "label": "Разведданные",
+     "weight": 1.0
+    },
+    {
+     "id": "Оружие",
+     "label": "Оружие",
+     "weight": 1.0
+    },
+    {
+     "id": "Политподдержка",
+     "label": "Политподдержка",
+     "weight": 1.0
+    }
+   ],
+   "links": [
+    {
+     "from": "Партнёры",
+     "to": "Деньги",
+     "weight": 1.0
+    },
+    {
+     "from": "Партнёры",
+     "to": "Разведданные",
+     "weight": 1.0
+    },
+    {
+     "from": "Партнёры",
+     "to": "Оружие",
+     "weight": 1.0
+    },
+    {
+     "from": "Партнёры",
+     "to": "Политподдержка",
+     "weight": 1.0
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 85,
+  "view": "sceny.lenta",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 7.45,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "lenta",
+   "seconds": 7.45,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Совершенно разные сюжеты",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 7.45,
+    "soobshcheniya": [
+     "Верификация мужчин",
+     "Разбронирование до трёхсот тысяч"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Совершенно разные сюжеты",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 7.45,
+   "soobshcheniya": [
+    "Верификация мужчин",
+    "Разбронирование до трёхсот тысяч"
+   ]
+  }
+ },
+ {
+  "scene": 88,
+  "view": "dok_title",
+  "dur": 7.87,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Общий дефицит виден очень хорошо",
+   "accent": "дефицит",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 89,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 8.08,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 8.08,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Люди нужны всем сразу",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 8.08,
+    "sobytiya": [
+     "Армии — на фронт",
+     "Экономике — на работу",
+     "Инфраструктуре — на ремонт"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Люди нужны всем сразу",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 8.08,
+   "sobytiya": [
+    "Армии — на фронт",
+    "Экономике — на работу",
+    "Инфраструктуре — на ремонт"
+   ]
+  }
+ },
+ {
+  "scene": 90,
+  "view": "paper_hand",
+  "dur": 7.66,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Семьям нужны мужья, отцы, сыновья",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 92,
+  "view": "shtamp_lestnica",
+  "dur": 7.93,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.93,
+   "items": [
+    "Сделать реестр точнее",
+    "Соединить базы"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 93,
+  "view": "paper_typed",
+  "dur": 7.66,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Можно пересмотреть бронь. Можно поднять цену выхода",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 94,
+  "view": "schetchik_let",
+  "dur": 7.67,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.67,
+   "value": "1",
+   "accent": "ГОД БУДЕТ ТЯЖЁЛЫМ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 96,
+  "view": "pismo",
+  "dur": 7.75,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.75,
+   "text": "Забрать человека сегодня, чтобы закрыть дыру в другом месте",
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
